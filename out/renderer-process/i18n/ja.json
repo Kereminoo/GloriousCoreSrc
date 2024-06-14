@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "お使いのGlorious製品を接続してください"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "デバイスが表示されるまでに数秒間かかることがあります"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "接続しているデバイスを読み込み中"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "ホーム"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "設定"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "製品名"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "設定"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "バージョン"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "変更履歴を見る"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "PC起動時に自動的にCOREを立ち上げる"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "デフォルトで最小化したCOREを立ち上げる"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "COREのツールチップ"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "自動更新を許可する"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "カラーテーマを変更する"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "グローバルスタンバイ"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "動作していない時は電源を切る"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "言語"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "サポート"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "リクエストしたい機能がありますか？"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "Gloriousのペアリングユーティリティ"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "ペアリングの手順"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1．Gloriousマウスケーブル＆受信機のプラグをすべて抜く。"
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2．USBケーブルを使い、ペアリングしたいマウスのプラグを差し込む。ワイアレス受信機のプラグを差し込む。"
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3．以下のユーティリティからペアリングするマウスを選択する。"
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4．USBとワイアレス受信機の両方を再接続したら、ペアリングボタンをクリックする。"
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "マウス"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "ワイアレス受信機"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "接続しました"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "切断しました"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "マウスを選択する"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "リストの中にマウスがありませんか？"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "標準的なデバイスサポートについては以下のリンクを参照してください：標準的なペアリングユーティリティ"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "クラシック ペアリング ユーティリティ."
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "私のデバイス"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "自分のマウス"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "マイ・キーボード"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "私のテンキー"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "私のマウスパッド"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "私のケーブル"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "私のヘッドセット"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "ホームの照明"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "キーバインド"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "キー機能設定ホーム"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "マクロ"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "ショートカット"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "家"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "ファームウェア"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "プロファイル"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "最新の"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "利用可能なアップデート"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "更新中..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "アップデートに失敗しました"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "動作していない時はRGBを切る"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "利用可能なアップデート"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "パフォーマンス"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "ポーリング・レート"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "回転感度"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "入力レイテンシー"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "待機する"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "設定"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "ポーリングレート"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "有線/無線の個別ポーリング"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "リフトオフディスタンス"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "デバウンスタイム"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "モーション同期"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "高度な設定"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "プレスタイム"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "プレス前"
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "アフタープレス"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "リリースタイム"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "発売前"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "リリース後"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "リフトオフプレス時間"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "ライティング"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "エフェクト"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "有線/無線の明るさを分ける"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "有線"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "明るさ"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "ワイヤレス輝度"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "RGB グラデーション"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "レート"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "プリセットエフェクト"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "カラースタイル"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "キーごとのカスタム"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "カスタムレイアウトなし"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "クイックキー選択"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "呼吸"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "DPIステージ"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "デフォルト"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "上でマウス ボタンを選択すると、そのキーバインド オプションが表示されます."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "キー機能設定"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "レイヤーシフト"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "機能のセカンドレイヤーにアクセスするために、\r\n「マウスの機能」の標準レイヤーで \r\nマウスボタンをレイヤーシフトに割り当てなければなりません。"
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "キータッチ"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "キー"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "変更子"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "キーボードの機能"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "マウスの機能"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "マクロ"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "「新しいマクロ」を選択すると、マクロ作成\r\nモデルが開きます。その中で、自分が作成したいマクロ種類の選択、\r\n名前の設定、インプットの記録や編集ができます。\r\n\r\nモデル内から保存して、\r\n左側のリストに追加します。"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "保存したマクロはありません"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "マクロタイプ"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "マルチメディア"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "ショートカット"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "ボタンの無効化"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "スライダー"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "ロータリーエンコーダ"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "申請量"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "オーディオソース"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "パス"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "作動"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "カスタムアクチュエーションポイント"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "スライダーを使用して、キー押下がアクティブになるポイントを設定します。."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "下のボタンを選択すると、キーごとにアクチュエーション ポイントを編集できます。."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "ビジュアライゼーションを表示する"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "アドバンストキー"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "RGB同期にようこそ"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "GloriousのRGB同期は、\r\nお使いのGlorious製品間のライトニングエフェクト\r\nの同期を可能にして、これまで以上にRGBのカスタムの幅を広げます。"
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "案内してください"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "ツアーをスキップする"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "今後は表示しない"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "隣接したリストから選択すれば、\r\nあなたが接続した製品にそれぞれのライトニングエフェクト\r\nを適用します。\r\n\r\nエフェクトごとに、カスタム用のパラメーターが違います。\r\n上のタブを使ってあなたが\r\n選択したライトニングエフェクトのオプションをたどってください。"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "ライトニングエフェクト"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "ウェーブ"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "ソニック"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "スパイラル"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "サイクル"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "線形ウェーブ"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "さざなみ"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "呼吸"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "雨"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "ファイアー"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "トリガー"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "オーディオ同期"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "外観"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "動き"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "明るさ"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "エフェクトの明るさを調整する"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "レート"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "エフェクトのスピードを調整する"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "カラースタイル"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "RGBグラデーション"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "カスタムカラー"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "不透明度"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "色"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "スピード"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "帯域幅"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "傾斜度"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "角度"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "方向"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "バンプ"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "エフェクトは通常の方向に動き\r\n勢いよく戻ってきます。"
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "ギャップ"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "カラー間のスペースを調整する。"
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "双方向性"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "二つの同じライトニングエフェクトが\r\n同時に反対方向に向かって動きます。"
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "数"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "エフェクトの領域"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "範囲"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "範囲内のキーがすべて発光します"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "振幅"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "ログイン"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "ログインする"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "登録する"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "Eメールアドレス"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "パスワード"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "パスワードを忘れた"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "大丈夫です！あなたのアカウントに紐づけた\r\nEメールアドレスを入力していただければ\r\nパスワードをリセットするリンクをお送りします。"
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "パスワードを作成する"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "新しいパスワードを作成する"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "パスワードを確認する"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "新しいパスワードを確認する"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "ログインに進む"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "続行"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "パスワードが一致しました"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "パスワードが違います"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "アカウントをお持ちではありませんか？"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "すでにアカウントをお持ちですか？"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "ここでサインインする"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "または続行する"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "SSO登録"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "有効なEメールアドレスを入力してください"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "送信"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "リンクを送信しました"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "リンクが表示されませんか？受信トレイに表示されるまでに000分\r\nかかることがあります。"
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "他のリンクを送信する"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "ようこそ"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "おかえりなさい"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "ログインに成功しました"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "登録に成功しました"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "シングルサインオン(SSO)"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "Google/Metaアカウントにサインインして、\r\n自分のGlorious IDにアクセスしよう！"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "カスタマーアカウントを紐づける"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "あなたのgloriousgaming.comのカスタマー\r\nアカウントをGlorious IDに紐づけて、情報を同期し\r\n機能と利点を存分に活用しましょう。"
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "紐づける"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "紐づけせずに続ける"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "後からいつでもアカウントを紐づけできます。"
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "お住まいの地域を確認する"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "こちらで間違いありませんか？"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "間違いがあれば、続ける前にドロップダウン\r\nメニューから地域を修正してください。"
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "言語を選択する"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "EULA/GDPRを確認する"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "私は13歳以上だと認めます"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "初期設定にリセット"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "左側のナビゲーションを隠す"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "製品ガイド"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "製品サポート"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "まずお望みのマクロタイプを選択してください。\r\nこれはいつでも変更可能です。"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "繰り返さない"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "繰り返さないマクロは、起動するたびに一度\r\n割り当てられた場所で機能します。"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "トグル"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "起動すると、\r\n再起動するまで、トグルマクロが継続して機能します。"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "ホールド中の繰り返し"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "割り当てたマクロは、割り当てられたトリガーが維持されている限り、\r\n継続して機能します。"
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "遅延"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "キータッチの間ずっと、一貫して遅延が生じます。\r\n値を10msから10000msに設定してください。"
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "キータッチ間の遅延は記録時間に\r\n正確に表示されます。"
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "カラーピッカー"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "アクティブカラー"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "レッド"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "グリーン"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "ブルー"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "スウォッチ"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "保存しなかった変更"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "今、閉じるを選択すると\r\n保存していない変更が失われます。\r\n\r\n続行してもよろしいでしょうか？"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "はい、変更を破棄します"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "いいえ、戻ります"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "ファームウェアのアップデートを実行するため、USBを使って必要なデバイスをすべて接続してください。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "キャンセル"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "続行"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "(製品)をダウンロードしています"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "(製品)用のファームウェアをインストールしています"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "(マウス) ケーブルとレシーバーを抜いたり、アプリを再起動したりしないでください。!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "(キーボード)ケーブルのプラグを抜いたり、アプリを再起動したりしないでください！"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "(製品)のファームウェアのアップデートに成功しました"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "閉じる"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "ワイアレスデバイスのペアリング確認"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "アップデートにより、受信機とマウスのペアリングが解除されることがあります。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "ペアリングユーティリティを使用して、受信機をペアリングし直し、ワイアレス接続を回復してください。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "無視する"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "ペアリングユーティリティを開く"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "ファームウェアのアップデートに失敗しました"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "デバイスのワイアレス受信機が接続されていないようです。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "ワイアレス受信機を確認して、もう一度お試しください。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "アップデートのダウンロードに失敗しました"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "ファームウェアマネージャー"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "これらのデバイスでは新しいファームウェア バージョンが利用可能です"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "他のデバイス"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "ファームウェアのダウンロードとインストール"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "ファームウェアのインストール"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "キャンセル"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "ファームウェアのクリーンアップ"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "マウスとレシーバーの両方が接続されていることを確認してください."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "最新のファームウェアを適用する"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "ファームウェアをダウンロードしています"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "ファームウェアをインストールしています"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "(マウス)ケーブルと受信機のプラグを抜いたり、アプリを再起動したりしないでください！"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "新バージョンが検知されました"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "ダウンロードしてインストールしますか？"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "ダウンロード"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "キャンセル"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "Glorious COREをダウンロードしています"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "アプリのアップデート"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "アップデートのインストーラーを開始しました"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "閉じています..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "ペアリングを開始するために"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "高度なデバウンス設定"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "マウスのプラグを抜いてから、底のオン/オフスイッチを使って電源を切ってください。"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "マウスのホイールボタンを下向きにスクロールさせながら、マウスを受信機に触れさせて電源を入れてください。"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "LEDが緑に点滅するまで、スクロールホイールボタンを4秒間ほど、持ったままにしてください。"
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "OK"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "ペアリングを続けるために"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "ペアリングに成功しました"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "ワイアレスでマウスを使えるようになりました。"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "ペアリングに失敗しました"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "ペアリングに失敗しました"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "安定したインターネット接続があることを確認して、もう一度お試しください。"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "接続済み"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "接続済み"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "接続済み"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "未保存の変更"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "アップデートを確認する"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "有効"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "無効"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "ステータス"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "最終更新"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "ポーリング・レート"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "モーション同期"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "ライトニング・エフェクト"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "マウスパッドのプロファイル"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "マウス・プロフィール"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "キーボード・プロフィール"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "サインイン"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "登録する"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "クラウド・プロファイルにアクセスするには、Glorious IDにサインインまたはご登録ください！"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "クラウド・プロフィール"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "クラウド・プロフィール"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "アップデートをチェックする"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "保証延長"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "サポートホームページ"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "機能に「いいね」する"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "ペアリング"
+    },
+    {
+        "key": "Button_Save",
+        "value": "保存"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "元に戻す"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "他の機能"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "アップデートを確認する"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "ファームウェアのアップデート"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "インポート"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "エクスポート"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "拡大"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "スウォッチを削除"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "新しいマクロ"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "マクロを編集する"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "インポート"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "エクスポート"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "レコーディングの開始"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "レコーディングの停止"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "マクロを保存する"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "ブラウズ"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "キャンセル"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "Ok"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "左側のナビゲーションを表示"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "左側のナビゲーションを非表示にする"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "製品ガイド"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "製品サポート"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "の上"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "オフ"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "RGBグラデーション"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "カスタムカラー"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "タイム設定"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "記録した通り"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "入力遅延"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "入力遅延とは、電気信号を送信してから対応する動作が実行されるまでにかかる時間のことです。"
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "プロフィール"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "プロファイルをエクスポートすると、カスタム設定を保存できます。プロファイルをインポートすると、そのプロファイルからカスタム設定を適用できるようになります。 CORE には一度に最大 3 つのプロファイルを含めることができます."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "ポーリング・レート"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "ポーリングレートとは、OSがインプットをチェックする頻度のことです。\r\nこれはキーを押したときに、入力の最大遅延値\r\nを判断する要素です。ポーリングレートが高いと、低ポーリングレートよりもCPU\r\nの処理速度が上がります。"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "回転感度"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "ロータリー感度は各ステップ間の調整増分を制御します."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "オフ"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "グローバル スタンバイ タイマーに関係なく、デバイスはスタンバイ モードになりません。."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "グローバルを継承"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "デバイスはグローバル スタンバイ タイマー設定に従います。."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "デバイス固有の"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "デバイス スタンバイ タイマーはグローバル スタンバイ タイマーから独立します。."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "リフトオフ・ディスタンス"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "デバウンスタイムとは、最初にクリックしてから\r\nクリックを検知するまでの待ち時間のことです。"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "デバウンス・タイム"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "デバウンス・タイムとは、最初にクリックしてからクリックを検知するまでの待ち時間のことです。"
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "モーション同期"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "モーション同期は、センサーとUSBのポーリングイベントを\r\n同期させることにより、マウスのトラッキングを最適化します。"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "高度なデバウンス設定"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "このオプションを選択すると、デバウンス タイマーがいつ、どこでトリガーされるかをさらに指定できます。すべてのデバウンス オプションはマウスのすべてのボタンに適用されます."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "マクロの名前を変更すると、いつでもこの情報にアクセスできます."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "マクロタイプ選択メニューにアクセスします."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "このボタンを使用して、マクロ キーストロークの記録を開始および一時停止します。."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "Set Time または As Recorded を選択すると、入力間の一貫した遅延を自動的に設定することも、手動で記録/調整することもできます。."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "マクロを保存する."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "マウスボタンを押し始めた瞬間、または完全に押した瞬間にデバウンス遅延を調整します。."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "マウスボタンを放し始めた瞬間、またはマウスボタンを完全に放した瞬間にデバウンス遅延を調整します。."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "マウスを持ち上げて表面に戻した瞬間にデバウンス遅延を調整します。."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "グローバルを継承"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "デバイス固有の"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "グローリアス・モード"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "シームレス・ブリーズ"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "ブリーズ"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "シングル・カラー"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "ブリーズ・シングル・カラー"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "テール"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "レーヴ"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "ウェーブ"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "LEDオフ"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "ウェーブ#1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "ウェーブ#2"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "スパイラル・ウェーブ"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "アシッド・モード"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "ノーマル・オン"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "さざ波"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "飛躍"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "スピーディー"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "マトリックス2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "マトリックス3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "虹"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "鼓動センサー"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "デジタル・タイム"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "かめはめ波"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "ピンポン"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "突破"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "OG RGB"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "RGB レインボー"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "ピンクグレープフルーツ"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "ネブラ"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "パステル"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "セレスティアル・ファイアー"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "セレスティアル・アイス"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "カメレオン"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "グローリアス・ゴールド"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "レイヴ"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "キット"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "キーバインド"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "標準"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "機能層"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "代替レイヤー"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "関数 + Alt レイヤー"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "レイヤーシフト"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "プリセット・エフェクト"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "キーごとにカスタム"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "数字"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "サイドライト"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "修飾子"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "Fキー"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "矢"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "全て"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "キーストローク"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "キーボード機能"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "マウス機能"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "DPI"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "マクロ"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "マルチメディア"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "ショートカット"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "無効化"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "オーディオ・トグル"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "サウンドコントロール"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "プロファイルのサイクルアップ"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "プロファイルのサイクルダウン"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "レイヤーのサイクルアップ"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "レイヤーのサイクルダウン"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "左クリック"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "右クリック"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "スクロールクリック"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "早送り"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "バック"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "上スクロール"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "スクロールダウン"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "プロフィール・サイクルアップ"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "プロフィール・サイクルダウン"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "レイヤー・シフト"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "DPI ステージアップ"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "DPI ステージダウン"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "DPIのサイクルアップ"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "DPIのサイクルダウン"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "DPIロック"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "メディア・プレーヤー"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "再生/一時停止"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "次の曲"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "前の曲"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "停止"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "ミュート"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "音量を上げる"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "音量を下げる"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "次のトラック"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "前のトラック"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "プログラムを立ち上げる"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "ウェブサイトを立ち上げる"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "Windowsの機能"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "Eメール"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "計算機"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "自分のPC"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "冒険者"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "ホームページ"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "リフレッシュ"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "停止"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "バック"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "早送り"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "検索"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "Windowsキー"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "繰り返しなし"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "モードの選択"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "トグル"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "押しながら繰り返す"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "ノブプッシュ"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "ノブの回転"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "グローバルを継承"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "デバイス固有の"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "プログラムのURLを入力する"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "URLを入力"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "ホーム"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "割り当て済み"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "マクロ情報"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "USBケーブル"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "へようこそ GLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "Glorious ID に登録すると、シームレスなアクセスとパーソナライズされたエクスペリエンスのメリットが得られます。次のような独自の機能を使用して、CORE 2.0 との対話を合理化します。:"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "最大 25 個の固有のプロファイルをクラウドに保存して同期します."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "CORE 2.0 がインストールされている任意のデバイスからクラウド プロファイルにアクセス."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "作成したプロファイルを簡単に管理、共有."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "ログイン"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "登録する"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "グロリアスIDへようこそ！アカウントを作成すると、パーソナライズされたエクスペリエンスにアクセスできるようになります!"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "アカウント情報の更新"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "ログアウト"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "Glorious Cloud Profiles"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "SSOアカウント"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "gloriousgaming.com 顧客アカウントを接続する..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "接続済み"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "接続されていません"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "接続する"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "実行する"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "シャットダウン"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "ダウンロード"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "デバイスを更新する"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "アップデートレシーバー"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "アップデート・マネージャー"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "Ok"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "デバイスリストでハイライト表示されているデバイスは、ファームウェア・アップデートが利用可能です！"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "アープデートするデバイスを選択してください："
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "利用可能なデバイスがありません"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "警告"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "更新対象として選択したデバイスの一部には、ケーブルとワイヤレス レシーバーの両方が接続されていません。続行してもよろしいですか??"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "デバイスが見つかりません."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "選択したデバイスの読み込み中にエラーが発生しました."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "プロフィール1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "プロフィール2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "プロフィール3"
+    }
+]

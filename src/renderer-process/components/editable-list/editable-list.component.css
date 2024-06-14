@@ -1,0 +1,73 @@
+.editable-list
+{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    border: solid 1px var(--base-shades-50);
+    padding: 10px;
+    width: var(--width, 180px);
+    font-size: 12px;
+}
+
+.editable-list li
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.editable-list li.selected {
+    color: var(--glorange-60);
+}
+
+.editable-list li .label
+{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.editable-list li:hover .label
+{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: var(--glorange-60);
+}
+
+.editable-list li .actions
+{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.editable-list button
+{
+    display: flex;
+    background: none;
+    border: none;
+    border-radius: 2px;
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    color: var(--base-shades-20);
+    padding: 2px;
+    cursor: pointer;
+}
+
+.editable-list button img
+{
+    opacity: .8;
+    transition: opacity 200ms ease;
+}
+
+.editable-list button:hover :not(mask) path
+{
+    fill: var(--glorange-60);
+}

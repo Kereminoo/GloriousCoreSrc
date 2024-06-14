@@ -1,0 +1,235 @@
+.layout.keybinding
+{
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-areas: 'main second third';
+    background-color: transparent !important;
+    padding: 0 !important;
+
+    --management-padding: 16px;
+}
+.layout:has(.second)
+{
+    gap: 2px;
+    grid-template-columns: auto 1fr auto;
+}
+
+.layout.keybinding .main
+{
+    display: flex;
+    flex-direction: column;
+    overflow-y: hidden;
+    grid-area: main;
+    background-color: var(--management-background-color);
+    padding: var(--management-padding);
+}
+
+.layout.keybinding .main > p
+{
+    width: 225px;
+    font-size: 10px;
+}
+
+.layout.keybinding .main .rotary-encoder-action
+{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.layout.keybinding .main .rotary-encoder-action button
+{
+    border-width: 1px;
+}
+.layout.keybinding .main .rotary-encoder-action button:hover
+{
+    border-color: var(--brand-color-1);
+}
+
+.layout.keybinding .keystroke
+{
+    display: grid;
+    grid-template-columns: min-content min-content;
+    grid-template-rows: auto 1fr;
+    overflow: visible;
+    gap: 20px;
+}
+
+
+.layout.keybinding .keystroke > header
+,.layout.keybinding .launchProgram > header
+,.layout.keybinding .launchWebsite > header
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.layout.keybinding .keystroke > header .title
+,.layout.keybinding .launchProgram > header .title
+,.layout.keybinding .launchWebsite > header .title
+{
+    font-size: 16px;
+    font-family: var(--header-font);
+    color: var(--base-shades-20);
+}
+
+.layout.keybinding .keystroke .key
+,.layout.keybinding .launchProgram > header .title
+,.layout.keybinding .launchWebsite > header .title
+{
+    grid-row: 2/3;
+    grid-column: 1/2;
+}
+
+.layout.keybinding .keystroke .key input
+,.layout.keybinding .launchProgram .path input
+,.layout.keybinding .launchWebsite .url input
+{
+    width: 100px;
+    height: 25px;
+    border: solid 1px var(--white-1);
+    padding: .2rem .5rem;
+    background: none;
+    border-radius: 0;
+    transition: border-color 200ms ease;
+    color: white;
+    font-size: 10px;
+}
+.layout.keybinding .launchProgram .path input
+,.layout.keybinding .launchWebsite .url input
+{
+    width: 200px;
+}
+
+.layout.keybinding .keystroke .key input:hover
+,.layout.keybinding .keystroke .key input:active
+,.layout.keybinding .keystroke .key input:focus
+,.layout.keybinding .keystroke .key input:focus-visible
+,.layout.keybinding .launchProgram .path input
+,.layout.keybinding .launchProgram .path input:active
+,.layout.keybinding .launchProgram .path input:focus
+,.layout.keybinding .launchProgram .path input:focus-visible
+,.layout.keybinding .launchWebsite .url input
+,.layout.keybinding .launchWebsite .url input:active
+,.layout.keybinding .launchWebsite .url input:focus
+,.layout.keybinding .launchWebsite .url input:focus-visible
+{
+    border-color: var(--gold-1);
+    outline: none;
+}
+
+.layout.keybinding .keystroke .modifier
+{
+    grid-row: 2/3;
+    grid-column: 2/3;
+    flex: 0;
+}
+
+.layout.keybinding .keystroke .modifier .option-select
+{
+    --option-select-width: 150px;
+}
+
+.layout.keybinding .keystroke .modifier .option-select.open
+{
+    border-color: var(--brand-color-1);
+}
+
+.layout.keybinding .keystroke .modifier .selected
+{
+    /* width: 150px; */
+    height: auto;
+    height: 25px;
+    padding: 0 5px;
+}
+
+.layout.keybinding .keystroke .modifier .selected .label
+{
+    font-size: 10px;
+    padding: 0;
+}
+
+.layout.keybinding .launchProgram button
+{
+    align-self: flex-end;
+    font-size: 10;
+    padding: 6px 30px;
+}
+
+.layout.keybinding .macro .controls
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.layout.keybinding .macro .controls button
+{
+    font-size: 16px;
+    padding: .5rem 2rem;
+}
+
+.layout.keybinding .macro > .actions
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.layout.keybinding .macro > .actions button
+{
+    /* font-size: 16px;
+    padding: .5rem 2rem;
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    gap: .5rem; */
+}
+
+.layout.keybinding .second
+{
+    grid-area: second;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: 1fr;
+    grid-template-areas: 'stack actions';
+    align-content: flex-start;
+    background-color: var(--management-background-color);
+    padding: var(--management-padding);
+}
+
+.layout.keybinding .second .stack
+{
+    grid-area: stack;
+}
+
+.layout.keybinding .second > .actions
+{
+    grid-area: actions;
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+}
+.layout.keybinding .second > .actions button:last-child
+{
+    margin-top: auto;
+}
+
+.layout.keybinding .third
+{
+    display: flex;
+    flex-direction: column;
+    grid-area: third;
+    background-color: var(--management-background-color);
+    padding: var(--management-padding);
+    overflow: hidden;
+}
+
+.page.keybinding .keys-character-selector-modal
+{
+    top: 0;
+    left: var(--navigation-width);
+    width: calc(100% - var(--navigation-width));
+}

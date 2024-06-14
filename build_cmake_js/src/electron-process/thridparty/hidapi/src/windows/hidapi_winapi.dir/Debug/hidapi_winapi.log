@@ -1,0 +1,2 @@
+﻿hid.obj : warning LNK4006: hid_winapi_descriptor_reconstruct_pp_data already defined in hidapi_descriptor_reconstruct.obj; second definition ignored
+  hidapi_winapi.vcxproj -> C:\Development\core\projects\glorious-core-app\build_cmake_js\src\electron-process\thridparty\hidapi\src\windows\Debug\hidapi.lib

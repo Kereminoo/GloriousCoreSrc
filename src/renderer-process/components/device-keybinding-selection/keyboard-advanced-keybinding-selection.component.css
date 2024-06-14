@@ -1,0 +1,121 @@
+
+.advanced-keybinding-showcase {
+    z-index: 5;
+    position: relative;
+    pointer-events: none;
+}
+.advanced-keybinding-showcase.choose-type {
+    z-index: 6;
+    pointer-events: initial;
+}
+.bindings {
+    min-height: var(--showcase-margin-top);
+    padding: 20px;
+    display: flex;
+    position: absolute;
+    top: 150px;
+}
+.bindings .current-binding {
+    border: 1px solid #FFA40D;
+    border-radius: 2px;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bindings .current-binding.binding-mode {
+    margin-right: 10px;
+    position: relative;
+}
+.bindings .current-binding.binding-mode:after {
+    content: "";
+    display: block;
+    width: 10px;
+    position: absolute;
+    height: 1px;
+    background: #FFA40D;
+    right: -11px;
+}
+.advanced-keybinding-showcase.choose-type {
+    background: rgba(28, 28, 28, 1);
+    height: inherit;
+}
+
+.binding-type-close {
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.binding-type-close i:hover {
+    background-image: var(--icon-selected);
+}
+
+.binding-type-choose {
+    margin-top: 50px;
+    display: flex;
+    gap: 12px;
+    padding: 0 20px;
+    position:relative;
+    top: calc(var(--render-height));
+}
+.binding-type-tile {
+    border: 1px solid #828282;
+    border-radius: 2px;
+    flex: 1;
+    padding: 20px;
+    background: #262626;
+    cursor: pointer;
+    position: relative;
+}
+
+
+.binding-type-tile-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.binding-type-tile-header h4 {
+    margin: 0;
+    align-self: end;
+}
+
+.binding-type-tile-header i {
+    --size: 32px;
+    align-self: end;
+}
+
+.binding-type-tile p {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin: 0;
+}
+
+.binding-type-tile:hover {
+    border-color: #FFA40D;
+}
+
+.binding-type-tile:hover::after {
+    content: "+";
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: black;
+    width: 20px;
+    background: #FFA40D;
+    display: block;
+    position: absolute;
+    right: 12px;
+    bottom: -10px;
+    border-radius: 2px;
+}

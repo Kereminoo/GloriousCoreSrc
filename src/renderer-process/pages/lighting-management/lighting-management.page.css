@@ -1,0 +1,372 @@
+.layout.lighting {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-areas: "main second third";
+    background-color: transparent !important;
+    padding: 0 !important;
+
+    --management-padding: 16px;
+}
+.layout:has(.second) {
+    gap: 2px;
+}
+.layout.lighting.keyboard.per-key {
+    --management-padding: 15px 10px;
+}
+
+.layout.lighting > div .title {
+    padding-bottom: 0;
+    display: flex;
+    gap: 2px;
+    font-family: var(--header-font);
+    color: var(--base-shades-20);
+    font-weight: normal;
+}
+
+.layout.lighting > div > header 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+.layout.lighting > div > header button {
+    font-size: 10px;
+    padding: 5px 20px;
+    background-color: var(--base-shades-80);
+    border-color: var(--base-shades-50);
+    color: var(--base-shades-20);
+    font-weight: normal;
+}
+.layout.lighting > div > header button:hover {
+    background-color: var(--base-shades-70);
+    border-color: var(--base-shades-40) !important;
+}
+
+.layout.lighting .main {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    /* overflow: hidden; */
+    grid-area: main;
+    gap: 5px;
+    /* background-color: var(--management-background-color);
+    padding: var(--management-padding); */
+    border-bottom-left-radius: 4px;
+}
+.layout.lighting.keyboard.preset .main {
+    width: 220px;
+}
+.layout.lighting.mouse .main {
+    justify-content: flex-start;
+    width: 220px;
+}
+.layout.lighting.keyboard.preset .second .controls {
+    display: grid;
+    gap: 10px;
+}
+
+.layout.lighting.keyboard .main .mode-select {
+    flex: 1;
+}
+
+.layout.lighting.mouse .color-setting-style {
+    padding: 10px 0;
+}
+
+.layout.lighting .separate-brightness {
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.layout.lighting .separate-brightness .title {
+    font-size: 10px;
+    font-weight: normal;
+    width: min-content;
+    text-align: right;
+}
+
+.layout.lighting .separate-brightness > label {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex: 1;
+}
+
+.layout.lighting .main .controls {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 20px;
+    flex: 1;
+}
+
+.layout.lighting .main .controls .label {
+    font-size: 12px;
+}
+
+.layout.lighting .main .controls .label span {
+    font-size: 8px;
+}
+.layout.lighting .main .controls .label span:after {
+    content: "%";
+}
+
+.layout.lighting .main .stack-container {
+    flex: 1;
+}
+
+.layout.lighting .main .stack-container > header .title {
+    color: var(--management-font-color);
+}
+
+.layout.lighting .main .stack-container > header button {
+    font-size: 10px;
+    padding: 5px 10px !important;
+    background-color: var(--base-shades-80);
+    border-color: var(--base-shades-50) !important;
+    color: var(--base-shades-20);
+    font-weight: normal;
+}
+.layout.lighting .main .stack-container > header button:hover {
+    background-color: var(--base-shades-70);
+    border-color: var(--base-shades-40) !important;
+}
+
+
+.layout.lighting.valueJ .controls .field .label {
+    gap: 4px;
+}
+
+.layout.lighting.valueJ .controls .field .label button {
+    border-radius: 2px;
+    width: 60px;
+    height: 35px;
+    margin-top: -7px;
+    padding: 3px;
+    background-color: transparent;
+}
+
+.layout.lighting.valueJ .controls .field .label button.unselected {
+    color: var(--white-2);
+    border: solid 1px var(--white-2);
+}
+
+.layout.lighting.valueJ .controls .field .label button.selected {
+    color: var(--brand-color-1);
+    border: solid 1px var(--brand-color-1);
+}
+
+.layout.lighting .main .stack-container > header button .icon {
+    width: 10px;
+    height: 10px;
+}
+
+.layout.lighting .second {
+    grid-area: second;
+    display: grid;
+    align-content: flex-start;
+    /* background-color: var(--management-background-color);
+    padding: var(--management-padding); */
+}
+
+/* .layout.lighting.mouse .second .field
+{
+    margin-bottom: 10px;
+} */
+
+.layout.lighting.mouse .second .controls,
+.layout.lighting.valueJ .second .controls {
+    display: grid;
+    gap: 20px;
+}
+
+.layout.lighting .second .wireless-brightness {
+    opacity: var(--opacity, 0);
+    height: var(--height, 0);
+    transition:
+        opacity 200ms ease,
+        height 200ms ease,
+        padding 200ms ease;
+}
+
+.layout.lighting.mouse .second .field > .label,
+.layout.lighting.valueJ .second .field > .label {
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-family: var(--header-font);
+    color: var(--base-shades-20);
+}
+
+.layout.lighting.mouse .second .field > .label .result,
+.layout.lighting.valueJ .second .field > .label .result {
+    font-size: 8px;
+}
+
+.layout.lighting.mouse .second .range {
+    width: 170px;
+}
+
+.layout.lighting.keyboard .stack-container.custom-layouts {
+    overflow: hidden;
+}
+
+.layout.lighting.keyboard .per-key-settings.second {
+    gap: 10px !important;
+    grid-template-columns: 1fr max-content;
+}
+
+.layout.lighting.keyboard .per-key-settings.second header {
+    margin-bottom: 10px;
+}
+
+.layout.lighting.keyboard .per-key-settings.second .top-row 
+{
+    display: flex;
+    flex-direction: column;
+    /* grid-template-columns: 1fr 1fr;
+    align-items: center; */
+    gap: 10px;
+}
+
+.layout.lighting.keyboard .per-key-settings .action > header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.layout.lighting.keyboard .per-key-settings .action > header > span {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.layout.lighting.keyboard .per-key-settings.second .action > label
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.layout.lighting.keyboard .per-key-settings .brightness {
+    flex-direction: column;
+    grid-column: span 2;
+}
+
+.layout.lighting.keyboard .per-key-settings .brightness > header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.layout.lighting.keyboard .per-key-settings .brightness > header > span {
+    font-size: 12px;
+}
+.layout.lighting.keyboard .per-key-settings .brightness > header > span::after {
+    content: "%";
+}
+
+.layout.lighting.keyboard .per-key-settings .quick-keys {
+    /* max-width: 192px; */
+}
+
+.layout.lighting.keyboard .per-key-settings .quick-keys .options {
+    display: grid;
+    justify-items: center;
+    gap: 5px;
+}
+
+.layout.lighting.keyboard .per-key-settings .quick-keys .options .row {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 5px;
+}
+
+/* .layout.lighting.keyboard .per-key-settings .quick-keys button {
+    border-color: var(--white-2);
+    color: var(--white-2);
+    font-size: 8px;
+    font-weight: normal;
+    padding: 5px 8px;
+    border-width: 1px;
+}
+.layout.lighting.keyboard .per-key-settings .quick-keys button:hover {
+    border-color: var(--white-1);
+    color: var(--white-1);
+} */
+.layout.lighting.keyboard .per-key-settings .quick-keys button {
+    font-size: 12px;
+    padding: 5px 10px;
+    background-color: var(--base-shades-80);
+    border: solid 1px var(--base-shades-50);
+    color: var(--base-shades-20);
+    font-weight: normal;
+    white-space: nowrap;
+}
+.layout.lighting.keyboard .per-key-settings .quick-keys button:hover {
+    background-color: var(--base-shades-70);
+    border-color: var(--base-shades-40) !important;
+}
+
+.layout.lighting.keyboard .per-key-settings .breathing {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0;
+}
+
+.layout.lighting .third {
+    display: flex;
+    flex-direction: column;
+    grid-area: third;
+    /* background-color: var(--management-background-color);
+    padding: var(--management-padding);
+    overflow: hidden; */
+}
+
+.layout.lighting .color-picker > header {
+    align-items: flex-start;
+}
+
+.layout.lighting .color-picker > header button {
+    margin-top: -3px;
+}
+
+.layout.lighting .color-picker [data-color-picker] {
+    border: solid 1px white;
+    padding: 7px;
+    width: 190px;
+    /* --picker-size: 90px; */
+}
+
+.layout.lighting .gradient-select {
+    flex: 1;
+    overflow-y: auto;
+}
+
+.layout.lighting .gradient-select .option {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    flex-wrap: nowrap;
+}
+
+.layout.lighting .gradient-select .option.selected {
+    color: var(--brand-color-1);
+}
+
+.layout.lighting .gradient-select .option .name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.layout.lighting .gradient-select .gradient {
+    height: 15px;
+    min-width: 50px;
+}
+
+.modal.color {
+    width: 650px;
+}

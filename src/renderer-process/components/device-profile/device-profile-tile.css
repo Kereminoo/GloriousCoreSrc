@@ -1,0 +1,46 @@
+.profile-tile {
+    height: 40px;
+    display: flex;
+    border: 1px solid #313131;
+    background: #262626;
+    border-radius: 2px;
+    font-size: 12px;
+}
+
+.profile-tile > div {
+    display: flex;
+    align-items: center;
+}
+
+.profile-tile p {
+    margin: 0;
+}
+
+.profile-tile > div:not(.profile-name) {
+    justify-content: center;
+}
+
+.profile-tile > div:nth-child(n + 2) {
+    border-left: 1px solid #313131;
+}
+
+.profile-tile > div[class$="action"] {
+    width: 40px;
+    cursor: pointer;
+}
+
+.profile-name, .profile-status {
+    flex: 1;
+}
+
+.profile-name {
+    padding-left: 12px;
+}
+
+.profile-status .active {
+    color: #7BFF6F;
+}
+
+.tab-content.glorious-id .profile-tile .sync-action {
+    pointer-events: none;
+}

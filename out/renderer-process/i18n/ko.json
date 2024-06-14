@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "Glorious 제품에 연결하세요"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "장치가 나타나기까지 몇 초 걸릴 수 있습니다"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "연결된 장치 로딩 중"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "홈"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "설정"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "제품 이름"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "설정"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "버전"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "보기 변경 로그"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "PC 시작 시 자동으로 CORE 시작"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "기본 설정으로 CORE 최소화로 시작"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "CORE 도구 팁"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "자동 업데이트 허용"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "컬러 테마 변경"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "글로벌 대기"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "비활성화 후 종료"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "언어"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "지원"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "요청하고 싶은 기능이 있으신가요?"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "Glorious 페어링 유틸리티"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "페어링 단계"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1. 모든 Glorious 마우스 케이블과 수신기를 분리합니다."
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2. USB 케이블을 통해 페어링하려는 마우스를 연결합니다. 무선 수신기를 연결합니다."
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3. 아래 유틸리티에서 페어링할 마우스를 선택합니다."
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4. USB와 무선 수신기가 모두 다시 연결되면 페어링 버튼을 클릭합니다."
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "마우스"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "무선 수신기"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "연결됨"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "연결 해제"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "마우스 선택"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "목록에서 마우스가 안보이십니까?"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "클래식 장치 지원은 클래식 페어링 유틸리티 링크를 참조하십시오"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "클래식 페어링 유틸리티."
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "나의 기기"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "내 마우스"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "내 키보드"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "내 숫자 패드"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "내 마우스패드"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "마이 케이블"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "내 헤드셋"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "라이팅 홈"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "키바인딩"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "키 바인딩 홈"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "매크로"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "단축키"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "집"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "펌웨어"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "프로필"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "최신 정보"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "업데이트 가능"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "업데이트 중..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "업데이트가 실패"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "비활성화 후 RGB 종료"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "업데이트 가능"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "성능"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "폴링 속도"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "로터리 감도"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "입력 지연 시간"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "대기"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "설정"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "폴링 속도"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "유/무선 별도 폴링"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "센서 표면 인식 거리"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "디바운스 시간"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "모션 동기화"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "고급 설정"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "프레스타임"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "보도 전"
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "애프터프레스"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "출시 시간"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "출시 전"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "출시 후"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "이륙 프레스 타임"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "라이트"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "효과"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "별도 유선/무선 밝기"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "유선"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "밝기"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "무선 밝기"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "RGB 그라데이션"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "속도"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "프리셋 효과"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "컬러 스타일"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "키마다 커스텀"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "사용자 정의 레이아웃 없음"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "빠른 키 선택"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "호흡"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "DPI 단계"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "기본값"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "키 바인딩 옵션을 보려면 위에서 마우스 버튼을 선택하세요."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "키 바인딩"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "레이어 변경"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "두 번째 기능 레이어에 액세스 하려면 '마우스 기능' 아래의 \r\n표준 레이어에서 \r\n마우스 버튼을 레이어 변경으로 지정해야 합니다."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "키 입력"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "키"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "변경자"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "키보드 기능"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "마우스 기능"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "매크로"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "새 매크로'를 선택하면 매크로 생성 \r\n모달이 열립니다. 모달에서 생성하려는 매크로 유형을 \r\n선택하고, 이름을 설정하고, 입력을 기록 및 편집할 수 있습니다.\r\n\r\n 모달 내에서 저장하면 \r\n왼쪽 목록에 추가됩니다."
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "저장된 매크로 없음"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "Macro Type"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "멀티미디어"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "단축기"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "버튼 비활성화"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "슬라이더"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "로터리 인코더"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "신청량"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "오디오 소스"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "길"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "작동"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "맞춤 작동 지점"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "슬라이더를 사용하여 키 누르기가 활성화되는 지점을 설정하세요."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "아래 버튼을 선택하면 키별로 작동 지점을 편집할 수 있습니다."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "시각화 표시"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "고급 키"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "RGB 동기화에 오신 걸 환영합니다"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "Glorious RGB 싱크는 Glorious 제품 간의 \r\n조명 효과를 동기화하여 그 어느 때보다 뛰어난\r\n RGB 커스터마이징을 가능하게 합니다."
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "간단히 보여주세요"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "투어 건너뛰기"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "다시 보여주지 않기"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "인접 기기 목록에서 선택하면 연결된 제품에 해당 조명 효과가 \r\n적용됩니다. 효과마다 사용자 지정 매개변수가 \r\n다릅니다. \r\n\r\n위의 탭을 사용하여 \r\n선택한 조명 효과의 옵션을\r\n 탐색합니다."
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "조명 효과"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "웨이브"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "소닉"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "스파이럴"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "사이클"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "선형 웨이브"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "잔물결"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "호흡"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "비"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "불"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "트리거"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "오디오 동기화"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "모양"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "움직임"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "밝기"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "밝기 효과 조정"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "속도"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "효과 속도 조정"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "컬러 스타일"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "RGB 그래디언트"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "컬러 사용자 맞춤"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "불투명"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "컬러"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "속도"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "대역폭"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "그래디언트"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "각도"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "방향"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "충돌"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "효과가 정상 방향으로 움직이다가\r\n 다시 튕겨져 나옵니다."
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "차이"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "컬러 사이 공간을 조정합니다."
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "양방향"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "같은 조명 효과 두 개가 \r\n동시에 반대 방향으로 움직입니다."
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "번호"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "효과 범위"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "반경"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "반경 내 모든 키가 빛납니다"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "진폭"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "로그인"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "로그인"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "가입"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "이메일 주소"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "비밀번호"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "비밀번호를 잊었습니다"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "걱정하지 마세요! 계정에 연결된 이메일\r\n 주소를 입력하시면 비밀번호를 재설정할\r\n 수 있는 링크를 보내드립니다."
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "비밀번호 생성"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "새 비밀번호 생성"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "비밀번호 확인"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "새 비밀번호 확인"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "로그인 계속하기"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "계속"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "비밀번호 일치"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "정확하지 않은 비밀번호"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "계정이 없으신가요?"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "이미 계정이 있으신가요?"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "여기서 가입하기"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "또는 계속해서"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "SSO 가입"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "유효한 이메일 주소를 입력하십시오"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "발송"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "링크 발송 완료"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "링크가 보이지 않습니까? 받은 편지함에 표시되려면\r\n 최대 000분이 소요될 수 있습니다."
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "다른 링크 발송"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "환영합니다"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "다시 돌아온 걸 환영합니다"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "로그인 성공"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "등록 성공"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "단일 가입"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "구글/메타 계정으로 로그인하여 \r\nGlorious ID에 접속하세요!"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "고객 계정 연결"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "Gloriousgaming.com 고객 계정을\r\n Glorious ID에 연결하여 정보를\r\n 동기화하고 기능과 혜택을 최대한 활용하세요."
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "연결"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "링크 연결 없이 계속"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "언제든지 이후에 계정을 연결할 수 있습니다."
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "지역 확인"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "보이는 정보가 맞습니까?"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "아니라면 계속하기 전에 아래로 내려\r\n 메뉴에서 올바른 지역을 선택하세요."
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "언어 선택"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "EULA / GDPR 검토"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "13세 이상임을 확인합니다"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "기본값으로 재설정"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "좌측 탐색 숨기기"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "제품 가이드"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "제품 지원"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "원하는 유형의 매크로를 선택하여 시작합니다. \r\n언제든지 변경할 수 있습니다."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "반복 없음"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "반복 없음 매크로는 할당된 곳에 \r\n활성화 당 한 번 수행합니다."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "토글"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "활성화되면 토글 매크로는 두 번째로 활성화될 때까지\r\n 계속 실행됩니다."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "길게 누른 상태에서 반복"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "할당된 매크로는 할당된 트리거를 누르고 있는 동안\r\n 계속 실행됩니다."
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "지연"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "모든 키 입력 중 계속해서 시간이 지연됩니다. \r\n값을 10ms에서 10000ms로 설정합니다."
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "키 입력 사이의 지연 시간은 기록된 시간만큼\r\n 정확하게 나타납니다."
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "컬러 피커"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "활성 컬러"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "레드"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "그린"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "블루"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "스와치"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "저장되지 않은 변경"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "지금 종료하길 선택하면 저장되지 않은 \r\n변경 내용이 손실됩니다. \r\n\r\n계속 진행하시겠습니까?"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "예, 변경 저장하지 않습니다"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "아니오, 되돌리고 싶습니다"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "USB로 모든 필요한 장치를 연결하고 펌웨어 업데이트를 실행합니다."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "취소"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "계속"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "(제품) 다운로드 중"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "(제품) 펌웨어 설치 중"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "(마우스) 케이블과 수신기를 분리하거나 앱을 다시 시작하지 마세요!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "(키보드) 케이블을 뽑거나 앱을 재시작하지 마십시오!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "(제품) 펌웨어 업데이트 성공"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "종료"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "무선 장치 페어링 검증"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "일부 업데이트에서는 마우스가 수신기와 페어링이 끊어집니다."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "무선 연결을 복원하려면 페어링 유틸리티를 사용하여 수신기를 다시 페어링합니다."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "무시"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "페어링 유틸리티 열기"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "펌웨어 업데이트 실패"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "장치의 무선 수신기가 연결 해제된 것으로 보입니다."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "무선 수신기를 확인하고 다시 시도하십시오."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "업데이트 다운로드 실패"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "펌웨어 관리자"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "이 장치에 사용할 수 있는 새 펌웨어 버전이 있습니다."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "다른 장치들"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "펌웨어 다운로드 및 설치"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "펌웨어 설치"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "취소"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "펌웨어 정리"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "마우스와 수신기가 모두 연결되어 있는지 확인하세요."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "최신 펌웨어 적용"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "펌웨어 다운로드 중"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "펌웨어 설치 중"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "(마우스) 케이블과 수신기 플러그를 뽑거나 앱을 재시작하지 마십시오!"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "새 버전이 감지되었습니다"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "다운로드하여 설치하시겠습니까?"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "다운로드"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "취소"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "Glorious CORE 다운로드 중"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "앱 업데이트"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "업데이트 설치자가 시작되었습니다"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "종료 중..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "페어링 시작"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "고급 디바운스 설정"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "마우스의 플러그를 뽑은 다음 하단의 켜기/끄기 스위치를 사용하여 마우스를 전원을 끕니다."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "스크롤 휠 버튼을 누른 상태에서 마우스를 수신기에 터치하여 전원을 켭니다."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "LED가 녹색으로 깜박일 때까지 스크롤 휠 버튼을 약 4초간 계속 누르고 있습니다."
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "확인"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "페어링 계속"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "페어링이 성공적입니다"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "이제 마우스를 무선으로 사용할 수 있습니다."
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "페어링 실패"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "페어링 실패"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "다시 시도하기 전 인터넷 연결이 원활한지 확인합니다."
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "연결됨"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "연결됨"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "연결됨"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "저장되지 않은 변경사항"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "업데이트 확인"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "활성"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "비활성"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "상태"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "최신 업데이트"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "폴링 속도"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "모션 싱크"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "라이트 효과"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "마우스패드 프로필"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "마우스 프로필"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "키보드 프로필"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "로그인"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "등록하세요"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "클라우드 프로필을 이용하시려면 Glorious ID!"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "클라우드 프로필"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "클라우드 프로필"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "업데이트 확인"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "보증 연장"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "지원 홈페이지"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "기능 추천"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "페어"
+    },
+    {
+        "key": "Button_Save",
+        "value": "저장"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "되돌리기"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "동작 더 보기"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "업데이트 확인"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "UPDATE FIRMWARE"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "불러오기"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "내보내기"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "확장"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "스와치 삭제"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "새 매크로"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "매크로 편집"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "불러오기"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "내보내기"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "기록 시작"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "기록 중지"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "매크로 저장"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "찾기"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "취소"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "좋아요"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "왼쪽 탐색 표시"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "왼쪽 탐색 숨기기"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "제품 가이드"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "제품 지원"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "에"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "끄다"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "RGB 그래디언트"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "커스텀 컬러"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "시간 설정"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "기록된 대로"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "입력 지연 시간"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "입력 지연 시간은 전기적 신호를 전송하고 그에 따른 동작이 발생할 때까지 경과하는 시간입니다."
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "프로필"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "프로필을 내보내면 사용자 정의 설정을 저장할 수 있습니다. 프로필을 가져오면 해당 프로필에서 사용자 정의 설정을 적용할 수 있습니다. CORE에서는 한 번에 최대 3개의 프로필을 가질 수 있습니다."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "폴링 속도"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "폴링 속도는 OS가 입력 속도를 확인하는 빈도입니다. \r\n키 누름의 최대 입력 대기 시간을 결정하는 \r\n요소입니다. 폴링 속도가 높을수록 낮은 폴링 속도보다 더 많은 CPU\r\n 리소스를 차지합니다."
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "로터리 감도"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "로터리 감도는 각 단계 사이의 조정 증가분을 제어합니다."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "끄다"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "장치는 전역 대기 타이머와 관계없이 대기 모드로 전환되지 않습니다."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "글로벌 상속"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "장치는 전역 대기 타이머 설정을 준수합니다."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "장치별"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "장치 대기 타이머는 전역 대기 타이머와 독립적입니다."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "리프트 오프 거리"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "디바운스 시간은 최초 클릭 후 클릭을 감지하는 데 걸리는\r\n 지연 시간입니다."
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "디바운스 시간"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "디바운스 시간은 최초 클릭 후 클릭을 감지하는 데 걸리는 지연 시간입니다."
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "모션 싱크"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "모션 동기화는 센서와 USB 폴링 이벤트를 동기화하여\r\n 마우스 트래킹을 최적화합니다."
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "고급 디바운스 설정"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "디바운스 타이머가 트리거되는 시기와 위치를 추가로 지정할 수 있도록 이 옵션을 선택하십시오. 모든 디바운스 옵션은 마우스의 모든 버튼에 적용됩니다."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "매크로 이름을 변경하고 언제든지 이 정보에 액세스하세요."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "매크로 유형 선택 메뉴에 액세스합니다."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "이 버튼을 사용하여 매크로 키 입력 기록을 시작하고 일시 중지합니다."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "시간 설정 또는 녹음 시 중에서 선택하면 입력 간에 일관된 지연을 자동으로 설정하거나 수동으로 녹음/조정할 수 있습니다."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "매크로를 저장하세요."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "마우스 버튼을 누르기 시작하거나 완전히 누른 순간에 디바운스 지연을 조정하십시오."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "릴리스를 시작하거나 마우스 버튼을 완전히 놓은 순간에 디바운스 지연을 조정하십시오."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "마우스를 들어 올려 표면에 다시 내려놓는 정확한 순간에 디바운스 지연을 조정하세요."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "글로벌 상속"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "장치별"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "Glorious 모드"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "끊김없는 브리딩"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "브리딩"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "단일 색상"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "브리딩 단일 색상"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "트레일"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "레이브"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "웨이브"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "LED 꺼짐"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "웨이브 #1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "웨이브 #1"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "스파이럴 웨이브"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "애시드 모드"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "노멀 온"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "리플 그라프"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "흔적 없는 패스"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "흔적 없는 패스트 런"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "매트리스 2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "매트리스 3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "레인보우"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "하트비트 센서"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "디지털 타임스"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "카메하메하"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "핑퐁"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "서마운트"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "OG RGB"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "RGB 레인보우"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "Pink 자몽"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "성운"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "파스텔"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "Celestial 파이어"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "Celestial 아이스"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "카멜리온"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "Glorious 골드"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "레이브"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "키트"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "키바인딩"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "표준"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "기능 레이어"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "대체 레이어"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "기능 + 대체 레이어"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "레이어 시프트"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "사전 설정된 효과"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "키별 사용자 정의"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "숫자"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "사이드 라이트"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "수정자"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "F 키"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "화살"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "모두"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "키 스트로크"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "키보드 기능"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "마우스 기능"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "DPI"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "매크로"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "멀티 미디어"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "단축키"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "비활성화"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "오디오 토글"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "사운드 컨트롤"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "프로필 사이클 업"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "프로필 사이클 다운"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "레이어 사이클 업"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "레이어 사이클 다운"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "왼쪽 클릭"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "오른쪽 클릭"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "스크롤 클릭"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "앞"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "뒤"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "스크롤 업"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "스크롤 다운"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "프로필 사이클 업"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "프로필 사이클 다운"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "레이어 변경"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "DPI 스테이지 업"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "DPI 단계 다운"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "DPI 사이클 업"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "DPI 사이클 다운"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "DPI 룩"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "미디어 플레이어 열기"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "플레이/일시 정지"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "다음 트랙"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "이전 트랙"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "정지"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "무음"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "볼륨 높이기"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "볼륨 낮추기"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "다음 트랙"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "이전 트랙"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "프로그램 시작"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "웹사이트 시작"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "윈도우 기능"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "이메일"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "계산기"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "내 컴퓨터"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "Explorer"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "홈페이지"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "새로 고침"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "정지"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "뒤"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "앞"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "검색"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "윈도우 키"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "반복 금지"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "모드 선택"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "비녀장"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "홀딩하는 동안 반복"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "손잡이 푸시"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "손잡이 회전"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "글로벌 상속"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "장치별"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "프로그램 URL 입력"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "Enter URL"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "홈"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "할당됨"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "매크로 정보"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "USB 케이블"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "에 오신 것을 환영합니다GLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "Glorious ID에 등록하면 원활한 액세스와 개인화된 경험의 이점을 누릴 수 있습니다. 다음과 같은 독점 기능을 통해 CORE 2.0과의 상호 작용을 간소화하세요."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "최대 25개의 고유한 프로필을 클라우드에 저장하고 동기화하세요."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "CORE 2.0이 설치된 모든 장치에서 클라우드 프로필에 액세스하세요."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "당신이 만든 프로필을 쉽게 관리하고 공유하세요."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "로그인"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "등록하다"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "Glorious ID에 오신 것을 환영합니다! 계정을 만들면 개인화된 경험에 액세스할 수 있습니다!"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "계정 정보 업데이트"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "로그 아웃"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "영광스러운 클라우드 프로필"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "SSO 계정"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "Gloriousgaming.com 고객 계정을 연결하세요..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "연결됨"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "연결되지 않은"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "연결하다"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "실행하다"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "일시 휴업"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "다운로드"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "장치 업데이트"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "수신기 업데이트"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "업데이트 관리자"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "Ok"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "장치 목록에서 강조 표시된 장치는 펌웨어 업데이트가 가능합니다!"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "업데이트를 하고자 하는 장치를 선택하십시오:"
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "사용 가능한 장치가 없습니다"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "경고"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "업데이트를 위해 선택한 일부 장치에 케이블과 무선 수신기가 모두 연결되어 있지 않습니다. 계속하시겠습니까?"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "장치를 찾을 수 없습니다."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "선택한 장치를 로드하는 중 오류가 발생했습니다."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "프로필1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "프로필2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "프로필3"
+    }
+]

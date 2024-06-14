@@ -1,0 +1,12 @@
+.wireless-connection-pill {
+    padding: 5px 12px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    background-color: var(--base-shades-80);
+    border-radius: 30px;
+    font-size: 12px;
+    gap: 1ch;
+    border: solid 1px var(--base-shades-70);
+    max-width: 150px;
+}

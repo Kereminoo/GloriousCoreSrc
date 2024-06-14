@@ -1,0 +1,6 @@
+[submodule "src/electron-process/thridparty/libusb"]
+	path = src/electron-process/thridparty/libusb
+	url = https://github.com/libusb/libusb.git
+[submodule "src/electron-process/thridparty/hidapi"]
+	path = src/electron-process/thridparty/hidapi
+	url = https://github.com/libusb/hidapi.git

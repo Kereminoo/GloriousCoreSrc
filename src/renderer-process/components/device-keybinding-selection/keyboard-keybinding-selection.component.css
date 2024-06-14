@@ -1,0 +1,105 @@
+.focus .selected-node
+{
+    border: solid 3px var(--base-shades-50);
+    background-color: var(--base-shades-80);
+    padding: 6px 14px;
+    display: none;
+    min-width: 115px;
+    border-radius: 6px;
+    grid-row: 1/1;
+    grid-column: 1/1;
+    translate: 13px 68px;
+    align-self: flex-start;
+    justify-self: flex-start;
+    font-size: 42px;
+}
+.focus .selected-node:has(*)
+{
+    display: inline-block;
+}
+.focus .selected-node:has(.selected)
+{
+    border-color: var(--brand-color-1);
+}
+
+.keybinding-selection.keyboard 
+{
+    
+    width: var(--render-width);
+    height: var(--render-height);
+}
+
+.keybinding-selection.keyboard .node
+{
+    z-index: 100;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    grid-row: 1/1;
+    grid-column: 1/1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: grid;
+    align-items: flex-end;
+    justify-items: center;
+
+}
+
+/* debug */
+/* :where([class*="keybinding"], [class*="key"]) .node
+{
+    box-sizing: border-box;
+    border: solid 5px;
+    z-index: 50;
+    background: rgb(255 0 0 / .5);
+} */
+
+.keybinding-selection.keyboard .node .hover-indicator
+{
+    width: inherit;
+    height: inherit;
+    background-color: white;
+    grid-row: 1/1;
+    grid-column: 1/1;
+    opacity: 0;
+    transition: opacity 200ms ease;
+}
+.keybinding-selection.keyboard .node:hover .hover-indicator
+{
+    opacity: .3;
+}
+
+.keybinding-selection.keyboard .node .selected-indicator
+{
+    grid-row: 1/1;
+    grid-column: 1/1;
+    --size: 15px;
+    background-color: var(--glorange-60);
+    border-radius: 50%;
+    width: var(--size);
+    height: var(--size);
+    opacity: 0;
+    translate: 0 -10px;
+}
+.keybinding-selection.keyboard .node[data-selected] .selected-indicator
+{
+    opacity: 1;
+}
+
+
+.keybinding-selection.keyboard .node .bound-indicator
+{
+    grid-row: 1/1;
+    grid-column: 1/1;
+    --size: 10px;
+    background-color: var(--glorange-60);
+    border-radius: 2px;
+    width: calc(var(--size)*2.25);
+    height: var(--size);
+    opacity: 0;
+    translate: -3px -10px;
+}
+.keybinding-selection.keyboard .node[data-bound] .bound-indicator
+{
+    opacity: 1;
+}

@@ -1,0 +1,68 @@
+.dpi-pill
+{
+  padding: var(--dpi-padding);
+  display: inline-grid;
+  min-width: 88px;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  background-color: var(--base-shades-70);
+  border-radius: 30px;
+  gap: 5px;
+  border: solid 1px var(--base-shades-50);
+  isolation: isolate;
+}
+.dpi-pill:hover
+{
+  border-color: var(--dpi-hover-border-color);
+  cursor: var(--dpi-hover-cursor);
+}
+
+.dpi-pill-default
+{
+  border-color: var(--glorange-60);
+}
+
+.color
+{
+  box-sizing: border-box;
+  display: block;
+  border-radius: 50%;
+  width: var(--dpi-size);
+  height: var(--dpi-size);
+  background-color: var(--dpi-color);
+  font-size: 14px;
+}
+.border-color
+{
+  border: solid 2px var(--dpi-color);
+  background-color: transparent;
+}
+
+.value
+{
+  font-size: 14px;
+  color: var(--base-shades-20);
+}
+.dpi-pill:hover .value
+{
+  color: var(--dpi-hover-text-color);
+}
+
+.editable-value
+{
+  min-width: 0;
+  max-width: 62px;
+  width: auto;
+  border-radius: 30px;
+  font: inherit;
+  font-size: 14px;
+  border: solid 1px transparent;
+  background: transparent;
+  color: var(--base-shades-20);
+  padding: 3px 5px;
+}
+.editable-value:focus
+,.editable-value:focus-visible
+{
+  outline: solid 1px var(--glorange-60);
+}

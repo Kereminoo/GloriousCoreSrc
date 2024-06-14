@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Development\core\projects\glorious-core-app\src\electron-process\hiddevice\src\hiddevice.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\GPC\AppData\Roaming\npm\node_modules\cmake-js\lib\cpp\win_delay_load_hook.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\core\projects\glorious-core-app\src\electron-process\hiddevice\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{80571585-610F-3F33-8F93-1286F4CA88F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

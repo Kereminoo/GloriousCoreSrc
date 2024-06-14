@@ -1,0 +1,157 @@
+.layout
+{
+    flex-grow: 1;
+}
+
+.home .panel.main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.home .panel.main > header
+{
+    /* color: white; */
+}
+
+.home .panel .profile .current .option-select
+{
+    width: 155px;
+}
+
+.home .panel.main .sleep > header
+{
+    /* color: white; */
+    font-size: 15px !important;
+}
+
+.home .panel.main .center
+{
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.home .panel.main.mouse .center
+{
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.home .panel.main.mouse .center .sleep > header
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.home .panel.main.mouse .center .sleep
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.home .panel.main.mouse .center .field
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 8px;
+}
+
+.home .panel.main.mouse .center .field .range
+{
+    flex: 1;
+}
+
+.home .panel.main .center .current
+{
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    /* color: white; */
+}
+
+.home .panel.main.mouse .center .current
+{
+    margin-bottom: 10px;
+}
+
+.home .panel.main .center button
+{
+    font-size: 10px;
+    padding: 6px 20px;
+    border-radius: 2px;
+}
+
+.home .panel.main .profile
+{
+    display: grid;
+    grid-template-columns: max-content auto; /* "auto auto" will cause the first element to expand to fill space */
+    gap: 1rem;
+    align-items: flex-end;
+}
+
+.home .panel.main .profile .current
+{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+
+.home .panel.main .profile .actions
+{
+    display: flex;
+    align-items: flex-end;
+    gap: 1rem;
+}
+
+.home .panel.main .profile button
+{
+    font-size: 10px;
+    padding: 5px 20px;
+    display: flex;
+    gap: .5rem;
+    border-width: 1px;
+    border-radius: 2px;
+    transition: border-color 200ms ease;
+    font-weight: 200;
+}
+.home .panel.main .profile button:hover
+{
+    border-color: var(--brand-color-1);
+}
+
+.home .panel.main .profile button img
+{
+    width: 18px;
+    height: 18px;
+}
+
+.home .panel.main > header
+{
+    grid-area: header;
+    font-weight: bold;
+}
+
+.home .panel.main .center
+{
+    grid-area: center;
+}
+
+.home .panel.main .profile
+{
+    grid-area: profile;
+}
+
+.page.home .layout.home .panel.main {
+    gap: 16px;
+}

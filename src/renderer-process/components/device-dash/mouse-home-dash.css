@@ -1,0 +1,137 @@
+.mouse-dash {
+    position: absolute;
+    width: 100%;
+    padding: 20px 20px 0;
+}
+
+.mouse-dash .panel.main {
+    background-color: var(--management-background-color);
+    padding: var(--management-padding);
+    overflow: hidden;
+    height: 136px;
+    border-radius: 4px;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+
+.mouse-dash .panel.main .content {
+    grid-column: 1;
+    grid-row: 1;
+    /* z-index: 2; */
+
+    display: grid;
+    gap: 1ch;
+    grid-template-columns: auto 1fr auto;
+    grid-template-rows: max-content max-content max-content;
+    isolation: isolate;
+}
+
+.mouse-dash .panel.main .background {
+    grid-column: 1;
+    grid-row: 1;
+    z-index: 0;
+    translate: 74px -64px;
+    justify-self: flex-end;
+    opacity: .25;
+    pointer-events: none;
+}
+
+.mouse-dash .device-name h2 {
+    margin: 0;
+}
+
+.mouse-dash .profile-tile {
+    width: 240px;
+    font-size: 12px;
+    grid-row: 2;
+    padding: 0 !important;
+}
+.mouse-dash .profile-tile .profile-name {
+    width: 150px;
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+}
+.mouse-dash .profile-tile .status {
+    display: flex;
+    align-items: center;
+    color: var(--green-dark-60);
+    border-left: solid 1px var(--base-shades-70);
+    padding: 5px 10px;
+}
+
+.mouse-dash .firmware {
+    grid-column: 3;
+    grid-row: 2;
+    z-index: 1;
+}
+
+.mouse-dash .device-states {
+    grid-column: 3;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.mouse-dash .unsaved-changes {
+    display: flex;
+    grid-row: 3;
+}
+
+.mouse-dash .unsaved-changes span {
+    color: var(--glorange-60);
+    font-size: 10px;
+}
+
+.mouse-dash .dpi {
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.mouse-dash .device-colors {
+    grid-column: 3;
+    grid-row: 1;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: repeat(4, auto);
+    gap: 3px;
+    z-index: 1;
+    /* --device-colors-width: 150px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 24px);
+    gap: 5px;
+    align-items: center;
+    background-color: #1C1C1C;
+    font-size: 10px;
+    border-radius: 4px;
+    padding: 12px 30px;
+    width: var(--device-colors-width);
+    overflow: hidden;
+    margin: 5px var(--device-colors-right-margin) 0 auto;
+    transition: margin ease-out 200ms; */
+}
+.mouse-dash .device-colors .color {
+    box-sizing: border-box;
+    border: solid 1px var(--base-shades-20);
+    border-radius: 3px;
+    width: 24px;
+    height: 24px;
+}
+.mouse-dash .device-colors .color.current-animation {
+    border-color: var(--brand-color-1);
+}
+.mouse-dash .device-colors .color.current-selecting {
+    border-color: blue;
+}
+
+.mouse-dash .device-colors .label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1ch;
+    grid-column: 1 / 4;
+    text-align: center;
+}

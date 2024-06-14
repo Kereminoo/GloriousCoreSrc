@@ -1,0 +1,20 @@
+.panel.performance.keyboard
+{
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.panel.performance.keyboard .properties
+{
+    display: grid;
+    grid-template-columns: max-content;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px;
+}
+
+.gmmk-numpad .panel.performance.keyboard .properties
+{
+    grid-template-columns: max-content max-content;
+}

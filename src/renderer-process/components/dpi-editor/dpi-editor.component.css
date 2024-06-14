@@ -1,0 +1,257 @@
+.dpi-editor
+{
+    user-select: none;
+}
+
+.dpi-editor .stages > header .title
+{
+    font-size: 16px;
+    font-family: var(--header-font);
+    color: var(--base-shades-20);
+}
+
+.dpi-editor .stages
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px; /* space for rendering default title text */
+}
+
+.dpi-editor .stages .items
+{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.dpi-editor .stages .items .item
+{
+    background-color: var(--base-shades-80);
+    border: solid 1px var(--base-shades-70);
+    padding: 8px;
+    position: relative;
+    width: 136px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+}
+
+/* .dpi-editor .stages .items .capsule
+{
+    border-radius: 30px;
+    border: solid 1px var(--base-shades-50);;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px;
+    width: 60px;
+    font-size: 9px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.dpi-editor .stages .items .item .capsule.default
+,.dpi-editor .stages .items .item .capsule:hover
+{
+    border-color: var(--brand-color-1);
+}
+
+.dpi-editor .stages .items .capsule .color
+{
+    --size: 15px;
+    width: var(--size);
+    height: var(--size);
+    border-radius: 50%;
+    background-color: var(--stage-color);
+} */
+
+.dpi-editor .stages .items .remove
+{
+    padding: 5px;
+    border: none;
+    background: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.dpi-editor .stages .items .remove img
+{
+    width: 16px;
+}
+
+.dpi-editor .stages .items .item .default-title
+{
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    font-size: 10px;
+    white-space: nowrap;
+}
+.dpi-editor .stages .items .item .dpi-pill:hover ~ .default-title
+{
+    display: block;
+}
+
+.dpi-editor .stages .items .add
+{
+    background: none;
+    border: none;
+    font-weight: normal;
+    color: var(--base-shades-20);
+    padding: 0;
+    margin: 0;
+}
+
+.dpi-editor .stages .items .add svg
+{
+    margin: 5px;
+    border: none;
+    background: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: rotate(45deg);
+}
+
+/* .dpi-editor .stages .items .add
+{
+    background: none;
+    border-radius: 30px;
+    border: solid 1px white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+    font-size: 9px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 60px;
+    align-self: center;
+    margin: 0 auto;
+}
+
+.dpi-editor .stages .items .add img
+{
+    width: 15px;
+} */
+
+.dpi-editor .track
+{
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex: 1;
+    position: relative;
+    cursor: pointer;
+    padding: var(--track-padding-top) var(--track-padding-x) 0;
+    /* --section-padding: 20px; */
+}
+.dpi-editor .track:before
+{
+    content: '';
+    border-top:solid 2px var(--base-shades-20);
+    position: absolute;
+    top: var(--section-padding);
+    width: calc(100% - (var(--track-padding-x) * 2));
+    /* padding: 0 var(--section-padding); */
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.dpi-editor .track section
+{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 8px;
+    position: relative;
+    /* padding: var(--section-padding) 0; */
+
+    --integer-label-padding: 5px;
+}
+.dpi-editor .track section:first-of-type
+{
+    /* padding-left: calc(var(--section-padding) / 2); */
+}
+.dpi-editor .track section:first-of-type div:first-of-type
+{
+    border-left: solid 2px var(--base-shades-20);
+}
+.dpi-editor .track section:last-of-type
+{
+    /* padding-right: calc(var(--section-padding) / 2); */
+}
+.dpi-editor .track section:last-of-type div:last-of-type
+{
+    border-right: solid 2px var(--base-shades-20);
+}
+
+.dpi-editor .track section::before
+{
+    content: attr(data-min);
+    position: absolute;
+    left: 0;
+    top: calc(100% + var(--integer-label-padding));
+    translate: -50% 0;
+    user-select: none;
+    pointer-events: none;
+}
+
+.dpi-editor .track section::after
+{
+    content: attr(data-max);
+    position: absolute;
+    right: 0;
+    top: calc(100% + var(--integer-label-padding));
+    translate: 50% 0;
+    user-select: none;
+    pointer-events: none;
+}
+
+.dpi-editor .track .caret
+{
+    --size: 15px;
+    width: var(--size);
+    height: var(--size);
+    border: solid 1px white;
+    border-radius: 50%;
+    display: none;
+    position: absolute;
+    top: var(--section-padding);
+    translate: var(--caret-position) -50%;
+    pointer-events: none;
+}
+.dpi-editor .track:hover .caret
+{
+    display: block;
+}
+
+.dpi-editor .track section .range
+{
+    width: var(--section-width, 40px);
+    height: 32px;
+    box-sizing: border-box;
+    border-left:solid 1px var(--base-shades-20);
+    border-right:solid 1px var(--base-shades-20);
+}
+
+.dpi-editor .track .stage
+{
+    width: var(--stage-node-size);
+    height: var(--stage-node-size);
+    border: solid 1px var(--base-shades-100);
+    border-radius: 50%;
+    position: absolute;
+    /* left: var(--left);
+    top: var(--section-padding); */
+    translate: var(--left) -50%;
+    cursor: pointer;
+    background-color: var(--stage-color);
+}

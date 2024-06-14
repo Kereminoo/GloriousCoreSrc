@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9002: ignoring unknown option '/EH;'
+cl : command line  warning D9002: ignoring unknown option '/EH/'
+cl : command line  warning D9002: ignoring unknown option '/EHE'
+cl : command line  warning D9002: ignoring unknown option '/EHH'
+  hiddevice.cc
+  hiddevice.vcxproj -> C:\Development\core\projects\glorious-core-app\build_cmake_js\Debug\hiddevice.node

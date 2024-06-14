@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Development/core/projects/glorious-core-app/build_cmake_js/CMakeFiles/cmake.verify_globs
+C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-src/CMakeLists.txt
+C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-src/tools/cmake/include/BoostInstall.cmake
+C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-src/tools/cmake/include/BoostMessage.cmake
+C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-src/tools/cmake/include/BoostRoot.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake

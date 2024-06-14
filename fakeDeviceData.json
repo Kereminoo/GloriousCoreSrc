@@ -1,0 +1,47 @@
+[
+  {
+    "vendorId": 9610,
+    "productId": 8215,
+    "path": "\\\\?\\hid#vid_258a&pid_2017&mi_01&col03#e&32c3195c&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}\\kbd",
+    "serialNumber": "000000000000",
+    "manufacturer": "Glorious",
+    "product": "Model D PRO Wireless",
+    "release": 257,
+    "interface": 1,
+    "usagePage": 1,
+    "usage": 6
+  },
+  {
+    "vendorId": 2362,
+    "productId": 33306,
+    "path": "\\\\?\\hid#vid_093a&pid_821a&mi_00#7&21413468&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\kbd",
+    "manufacturer": "GLORIOUS",
+    "product": "Model I 2 Wireless",
+    "release": 54,
+    "interface": 0,
+    "usagePage": 1,
+    "usage": 6
+  },
+  {
+    "vendorId": 12815,
+    "productId": 33338,
+    "path": "\\\\?\\hid#vid_320f&pid_823a&mi_00#7&248c375e&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}",
+    "manufacturer": "GLORIOUS",
+    "product": "Model O 2 Wired Mouse",
+    "release": 8279,
+    "interface": 0,
+    "usagePage": 1,
+    "usage": 2
+  },
+  {
+    "vendorId": 12815,
+    "productId": 20548,
+    "path": "\\\\?\\hid#vid_320f&pid_5044&mi_00#7&2bd3d39c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\\kbd",
+    "manufacturer": "USB HID",
+    "product": "GMMK PRO",
+    "release": 69,
+    "interface": 0,
+    "usagePage": 1,
+    "usage": 6
+  }
+]

@@ -1,0 +1,116 @@
+[data-color-picker="circle"]
+{
+    display: grid;
+    gap: 1rem;
+    grid-template-areas: 'picker values palette'
+    'picker values currentColor';
+    grid-template-columns: max-content 1fr 1fr;
+    grid-template-rows: auto 32px;
+    position: relative;
+}
+
+[data-color-picker="circle"] .picker
+{
+    grid-area: picker;
+    display: grid; 
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+    justify-items: center;
+}
+
+
+
+[data-color-picker="circle"] .picker .lightness
+{
+    grid-column: 1/1;
+    grid-row: 1/1;
+    border-radius: 50%;
+}
+[data-color-picker="circle"] .picker .hue-saturation
+{
+    grid-column: 1/1;
+    grid-row: 1/1;
+    border-radius: 50%;
+}
+
+[data-cursor]
+{
+    z-index: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+}
+
+[data-cursor] .display
+{
+    width: 10px;
+    height: 10px;
+    transform: translate(-5px, -5px);
+    box-shadow: rgb(255 255 255) 0px 0px 0px 1.5px, rgb(0 0 0 / 30%) 0px 0px 1px 1px inset, rgb(0 0 0 / 40%) 0px 0px 1px 2px;
+    border-radius: 50%;
+}
+
+/* [data-color-picker="circle"] .color-wheel
+{
+
+    --red: hsla(0, 100%, 50%, 1);
+    --yellow: hsla(60, 100%, 50%, 1);
+    --green: hsla(120, 100%, 50%, 1);
+    --cyan: hsla(180, 100%, 50%, 1);
+    --blue: hsla(240, 100%, 50%, 1);
+    --magenta: hsla(300, 100%, 50%, 1);
+
+
+    background: conic-gradient(
+      var(--red) 0deg,
+      var(--yellow) 60deg,
+      var(--green) 120deg,
+      var(--cyan) 180deg,
+      var(--blue) 240deg,
+      var(--magenta) 300deg,
+      var(--red)
+    );
+    border-radius: 50%;
+} */
+
+.values
+{
+    grid-area: values;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.values > label
+{
+    display: grid;
+    grid-template-columns: 50px auto;
+    gap: .5rem;
+}
+
+.values > label .label
+{
+    text-align: right;
+}
+
+.values > label input
+{
+    size: 3;
+}
+
+.palette
+{
+    grid-area: palette;
+    display: grid;
+    gap: .3rem;
+    grid-template-columns: repeat(3, 15px);
+    grid-template-rows: repeat(3, 15px);
+}
+
+.current-color
+{
+    grid-area: currentColor;
+    background-color: var(--current-color);
+}

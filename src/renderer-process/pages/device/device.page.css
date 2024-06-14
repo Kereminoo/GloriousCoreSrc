@@ -1,0 +1,607 @@
+.content {
+    overflow: hidden;
+}
+
+.content > .device {
+    flex: 1;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    overflow: hidden;
+
+    --management-background-color: var(--gray-2);
+    --management-font-color: var(--white-2);
+    --management-gap: 2px;
+    --management-margin: 5px;
+    --management-padding: 20px;
+
+    --layers-right-margin: 35px;
+    --device-colors-right-margin: 35px;
+}
+.content > .device.scale-1 {
+    --management-page-height: 215px;
+}
+.content > .device.scale-2 {
+    --management-page-height: 280px;
+}
+.content > .device.scale-3 {
+    --management-page-height: 360px;
+}
+.content > .device.scale-4 {
+    --management-page-height: 400px;
+}
+
+nav.hidden + .content > .device {
+    --layers-right-margin: 75px;
+}
+
+.content > .device .showcase {
+    grid-column: 1;
+    grid-row: 1;
+    overflow: hidden;
+    display: flex;
+    position: relative;
+}
+
+.content > .device .showcase .showcase-actions {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.content > .device .showcase .buffer {
+    width: var(--render-width);
+    height: var(--render-height);
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.content > .device .showcase .focus {
+    display: grid;
+    position: relative;
+    /* scale: var(--scale, .5); */
+    scale: var(--scale, .3333);
+    translate: var(--translation);
+    transform-origin: top left;
+    z-index: var(--focus-z-index);
+}
+.content > .device.scale-1 .showcase .focus,
+.content > .device.scale-1 .showcase .keybinding-selection.keyboard,
+.content > .device.scale-1 .showcase .lighting-selection,
+.keyboard-key-selection-component {
+    --scale: .4167;
+}
+.content > .device.scale-2 .showcase .focus,
+.content > .device.scale-2 .showcase .keybinding-selection.keyboard,
+.content > .device.scale-2 .showcase .lighting-selection {
+    --scale: 0.6667;
+}
+.content > .device.scale-3 .showcase .focus,
+.content > .device.scale-3 .showcase .keybinding-selection.keyboard,
+.content > .device.scale-3 .showcase .lighting-selection {
+    --scale: 1;
+}
+.content > .device.scale-4 .showcase .focus,
+.content > .device.scale-4 .showcase .keybinding-selection.keyboard,
+.content > .device.scale-4 .showcase .lighting-selection {
+    --scale: 1;
+}
+
+.content > .device .showcase .lighting-preview {
+    display: grid;
+}
+
+.content > .device .showcase .lighting-preview,
+.content > .device .showcase .lighting-selection {
+    /* background-color: var(--lighting-color, var(--brand-color-1)); */ /* for testing only */
+    grid-column: 1;
+    grid-row: 1;
+
+    -webkit-mask-image: var(--webkit-mask-url, "");
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: cover;
+
+    mask-image: var(--webkit-mask-url);
+    mask-repeat: no-repeat;
+    mask-size: cover;
+}
+
+.content > .device .showcase .keybinding-selection,
+.content > .device .showcase .lighting-selection {
+    z-index: 4;
+}
+
+.content > .device .showcase .keybinding-selection.keyboard {
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    height: 100%;
+    display: grid;
+}
+
+/* .content > .device .showcase .keybinding-selection.keyboard,
+.content > .device .showcase .lighting-selection,
+.content > .device .showcase .keyboard-key-selection-component {
+    transform-origin: top left;
+    scale: var(--scale);
+} */
+
+/* .content > .device.gmmk-numpad .showcase .lighting-preview
+,.content > .device.gmmk-numpad .showcase .lighting-selection
+{
+    height: 350px;
+}
+.content > .device.gmmk-pro .showcase .lighting-preview
+,.content > .device.gmmk-pro .showcase .lighting-selection
+{
+    height: 350px;
+}
+
+
+.content > .device.gmmk-numpad .showcase .keybinding-selection.keyboard
+,.content > .device.gmmk-numpad .showcase .lighting-selection
+{
+    height: 350px;
+} */
+
+.content > .device .showcase .renders {
+    grid-column: 1;
+    grid-row: 1;
+    z-index: 3;
+    pointer-events: none;
+    display: grid;
+    gap: var(--render-images-gap, 25px);
+    grid-template-areas: "renders";
+}
+
+.content > .device .showcase .renders img {
+    /* width: var(--render-width);
+    height: var(--render-height); */
+    grid-area: renders;
+}
+
+.content > .device .showcase.scale-1 .buffer,
+.content > .device .showcase.scale-2 .buffer {
+    /* margin-top: 40px; */
+}
+.content > .device .showcase.scale-3 .buffer {
+    /* margin-top: 60px; */
+}
+.content > .device .showcase.scale-4 .buffer {
+    /* margin-top: 100px; */
+}
+
+.content > .device.gmmk-numpad .showcase .render:nth-child(1) {
+    order: 2;
+}
+.content > .device.gmmk-numpad .showcase .render:nth-child(2) {
+    order: 1;
+    transform: scaleX(-1);
+}
+.content > .device.gmmk-numpad .showcase .render:nth-child(3) {
+    order: 3;
+}
+
+.content > .device .keybinding-selection.mouse {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.content > .device .management {
+    grid-column: 1;
+    grid-row: 1;
+    z-index: 5;
+    align-self: flex-end;
+
+    margin: var(--management-margin);
+    display: grid;
+    /* gap: var(--management-gap); */
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+}
+
+/* Tabs */
+.content > .device .management .tabs {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: var(--management-gap);
+    user-select: none;
+}
+
+.content > .device .management .tabs > li {
+    --icon-size: 20px;
+    cursor: pointer;
+}
+
+.content > .device .management .tabs > li > a {
+    background-color: var(--management-background-color);
+    color: var(--management-font-color);
+    text-decoration: initial;
+    display: grid;
+    grid-template-columns: var(--icon-size) 60px;
+    grid-template-rows: 1fr;
+    padding: 5px 20px;
+    gap: 0.5rem;
+    align-items: center;
+    width: calc(var(--icon-size) + 40px);
+    overflow: hidden;
+    transition: width 200ms ease-out;
+    font-size: 10px;
+}
+.content > .device .management .tabs > li > a:hover,
+.content > .device .management .tabs > li > a.current-section {
+    width: calc(var(--icon-size) + 60px + 0.5rem + 3rem);
+}
+
+.content > .device .management .tabs > li > a:hover path,
+.content > .device .management .tabs > li > a.current-section path
+{
+  fill: var(--glorange-60);
+}
+.content > .device .management .tabs > li:first-of-type a {
+    border-top-left-radius: 4px;
+}
+.content > .device .management .tabs > li:last-of-type a {
+    border-top-right-radius: 4px;
+}
+
+.content > .device .management .tabs > li > a:hover .icon,
+.content > .device .management .tabs > li > a.current-section .icon {
+    background-image: var(--icon-selected);
+}
+
+.content > .device .management .tabs > li > a .icon {
+    grid-column: 1/1;
+    grid-row: 1/1;
+    width: var(--icon-size);
+    height: var(--icon-size);
+}
+
+.content > .device .management .tabs > li > a .label {
+    grid-column: 2;
+    grid-row: 1/1;
+    translate: 0 2px;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 100ms ease-out;
+}
+.content > .device .management .tabs > li > a:hover .label,
+.content > .device .management .tabs > li > a.current-section .label {
+    opacity: 1;
+}
+
+/* Breadcrumbs */
+.content > .device .management .breadcrumbs {
+    gap: 0.5rem;
+    display: none;
+    background-color: var(--management-background-color);
+    color: var(--management-font-color);
+    min-height: 1ch;
+    padding: 0.5rem 1.5rem;
+    font-size: 9px;
+    border-top-right-radius: 4px;
+    grid-row: 1;
+    grid-column: 1/4;
+    margin-top: var(--management-gap);
+}
+.content > .device .management .breadcrumbs:has(a) {
+    display: flex;
+}
+
+.content > .device .management .breadcrumbs > a:hover {
+    color: var(--gold-1);
+    cursor: pointer;
+}
+
+/* Content */
+.content > .device .management .content {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto 1fr;
+    gap: var(--management-gap);
+    column-gap: 1px;
+}
+
+.content > .device .management .content .page {
+    flex: 1;
+    font-size: 13px;
+    overflow: hidden;
+    display: flex;
+    gap: var(--management-gap);
+    grid-row: 2;
+    grid-column: 1;
+    height: var(--management-page-height);
+}
+
+.content > .device .management .content .page > .panel {
+    background-color: var(--management-background-color);
+    padding: var(--management-padding);
+    overflow: hidden;
+    flex: 1;
+}
+
+.content > .device .management .content .page header {
+    font-size: 16px;
+    font-family: var(--header-font);
+    color: var(--base-shades-20);
+}
+
+.content > .device .management .content .page .layout .panel {
+    background-color: var(--management-background-color);
+    padding: var(--management-padding);
+    overflow: hidden;
+    flex: 1;
+}
+
+/* Actions */
+.content > .device .management .content > .actions {
+    --action-menu-width: 30px;
+
+    position: relative;
+    border-bottom-right-radius: 4px;
+    padding: var(--management-padding);
+    background-color: var(--management-background-color);
+    color: var(--base-shades-40);
+    grid-row: 2;
+    grid-column: 3;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr auto auto;
+    align-items: center;
+    gap: 5px;
+    border-top-right-radius: 4px;
+}
+.content > .device .management .content .breadcrumbs:has(a) ~ .actions {
+    border-top-right-radius: 0;
+}
+
+.content > .device .management .content .more-actions-menu {
+    --more-actions-width: 125px;
+
+    position: absolute;
+    right: calc(var(--more-actions-width) - var(--action-menu-width) - var(--management-padding));
+    top: 0;
+    height: var(--management-page-height);
+
+    background-color: var(--management-background-color);
+    /* border: solid 0 #707070; */
+    box-shadow: -10px 0 40px -5px rgb(0 0 0 / 0.5);
+
+    display: grid;
+    gap: 5px;
+    grid-template-columns: 1fr;
+    font-size: 10px;
+    white-space: nowrap;
+
+    transition:
+        width 200ms ease-out,
+        padding 200ms ease-out,
+        border-width ease-out 200ms;
+    overflow: hidden;
+    width: 0;
+    padding: 0;
+}
+.content > .device .management .content .more-actions-menu.open {
+    width: var(--more-actions-width);
+    padding: var(--management-padding) 5px;
+    border-width: 1px;
+    z-index: 5;
+    height: 100%;
+}
+
+.content > .device .management .content .more-actions-menu > a {
+    cursor: pointer;
+}
+.content > .device .management .content .more-actions-menu > a:hover {
+    color: var(--glorange-60);
+}
+
+
+.more-actions-menu .local-profile-import
+{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.more-actions-menu .local-profile-import:hover
+{
+    color: var(--base-shades-40) !important;
+    cursor: default !important;
+}
+
+.content > .device .management .content > .actions .action {
+    display: grid;
+    grid-template-rows: auto auto;
+    gap: 5px;
+    background-color: transparent;
+    align-items: center;
+    justify-items: center;
+    font-weight: normal;
+    width: var(--action-menu-width);
+    overflow: visible;
+    padding: 0;
+    color: #f5f5f5;
+}
+
+.content > .device .management .content > .actions .more-actions-container {
+    height: 100%;
+}
+
+.content > .device .management .content > .actions .action .display {
+    border-radius: 2px;
+    --size: 25px;
+    width: var(--size);
+    height: var(--size);
+    border: solid 1px transparent;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition:
+        background-color 200ms ease-out,
+        border-color 200ms ease-out;
+}
+.content > .device .management .content > .actions .action.more-actions .display {
+    border-color: #707070;
+    background-color: transparent;
+}
+.content > .device .management .content > .actions .action.undo .display {
+    /* border-color: white; */
+    /* background-color: white; */
+    /* color: black; */
+    background-color: #f5f5f5;
+}
+.content > .device .management .content > .actions .action.save .display {
+    border-color: var(--brand-color-1);
+    background-color: var(--brand-color-1);
+    /* color: black; */
+}
+.content > .device .management .content > .actions .action.save .display.outline {
+    border-color: var(--brand-color-1);
+    background-color: transparent;
+}
+
+.content > .device .management .content > .actions .action .display img {
+    --size: 14px;
+    width: var(--size);
+    height: var(--size);
+}
+
+.content > .device .management .content > .actions .action .label {
+    /* color: white; */
+    font-size: 10px;
+    white-space: nowrap;
+}
+
+/*
+.content > .device .management
+{
+    grid-area: management;
+    margin: var(--management-margin);
+    display: grid;
+    gap: var(--management-gap);
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+}
+
+.content > .device .management .page
+{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+    gap: var(--management-gap);
+    overflow: hidden;
+}
+
+
+
+.content > .device .management .content .page
+{
+    display: flex;
+    flex: 1;
+    border-bottom-left-radius: 4px;
+}
+.content > .device .management .content .page > *:first-child
+{
+    border-bottom-left-radius: 4px;
+}
+
+.content > .device .management .content > .page > .layout
+{
+    background-color: var(--management-background-color);
+    color: var(--management-font-color);
+    padding: var(--management-padding);
+}
+
+.management .content header
+,.management .content h1
+,.management .content h2
+,.management .content h3
+{
+    font-size: 16px;
+}
+
+
+ */
+
+.content > .device .management .content .page .stack-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    min-width: 180px;
+    max-width: 200px;
+    overflow-y: hidden;
+}
+
+.content > .device .management .content .page .stack-container > header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.content > .device .management .content .page .stack-container > header .title {
+    font-size: 16px;
+    font-family: var(--header-font);
+    color: var(--base-shades-20);
+}
+
+.content > .device .management .content .page .stack-container > header > button {
+    border: solid 1px var(--white-2);
+    color: var(--white-2);
+    padding: 0.5rem;
+}
+.content > .device .management .content .page .stack-container > header > button:hover {
+    border: solid 1px var(--white-1);
+    color: var(--white-1);
+}
+
+.content > .device .management .content .page .stack-container > header > button img {
+    --size: 16px;
+    width: var(--size);
+    height: var(--size);
+}
+
+.content > .device .management .content .page .stack-container .stack {
+    flex: 1;
+    width: auto;
+    max-height: 180px;
+}
+
+.content > .device .management .content .page .stack {
+    display: inline-flex;
+    flex-direction: column;
+    border: solid 1px var(--white-2);
+    width: 180px;
+    padding: 10px;
+    gap: 10px;
+    overflow-y: auto;
+    font-size: 13px;
+}
+
+.content > .device .management .content .page .stack > a:hover,
+.content > .device .management .content .page .stack > a.selected {
+    color: var(--gold-1);
+    cursor: pointer;
+}
+
+.content > .device .management .content .page .stack-container .editable-list input {
+    flex: 1;
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+    background-color: transparent;
+    border: solid 1px transparent;
+    outline: none;
+    min-width: 0;
+}
+.content > .device .management .content .page .stack-container .editable-list input:focus,
+.content > .device .management .content .page .stack-container .editable-list input:focus-within {
+    border-bottom-color: var(--gold-1);
+    outline: var(--gold-1);
+}

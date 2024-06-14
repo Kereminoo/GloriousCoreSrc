@@ -1,0 +1,124 @@
+.pairing
+{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+    flex: 1;
+}
+
+.pairing > h1
+{
+    font-size: 16px;
+    text-transform: uppercase;
+    align-self: flex-start;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.pairing .instructions
+{
+    font-size: 13px;
+    width: 100%;
+    margin: 20px;
+    margin-left: 40px;
+}
+
+.pairing .instructions > header
+{
+    font-size: 16px;
+}
+
+.pairing .instructions ol
+{
+    font-weight: normal;
+    padding-left: 40px;
+}
+
+.pairing .panels
+{
+    font-weight: normal;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    gap: 20px;
+}
+
+.pairing .panels > .panel
+{
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #1C1C1C;
+    display: grid;
+    grid-template-columns: 100px auto;
+}
+
+.pairing .panels > .panel .device-image
+{
+    /* grid-column: 1; */
+}
+
+.pairing .panels > .panel .right
+{
+    display: grid;
+    grid-template-rows: 1fr auto;
+}
+
+.pairing .panels > .panel .right > header
+{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.pairing .panels > .panel .right .name
+,.pairing .panels > .panel .right .status
+{
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--status-color);
+}
+
+.pairing .panels > .panel .right .option-select
+{
+    --option-select-width: 150px;
+}
+
+
+.pairing .actions
+{
+    margin-top: 20px;
+}
+
+.pairing .actions button
+{
+    color: #1C1C1C;
+    width: 150px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background-color: var(--brand-color-1);
+    text-transform: uppercase;
+}
+
+.pairing .actions button[disabled]
+{
+    opacity: .8;
+}
+
+.help
+{
+    margin-top: auto;
+    font-size: 10px;
+    text-align: center;
+}
+
+.help a
+{
+    text-decoration: underline;
+    cursor: pointer;
+}

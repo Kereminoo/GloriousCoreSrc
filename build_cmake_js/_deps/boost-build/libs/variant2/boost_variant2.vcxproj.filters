@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps\boost-src\libs\variant2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps\boost-src\libs\variant2\extra\boost_variant2.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps\boost-src\libs\variant2\include\boost\variant2.hpp">
+      <Filter>Header Files\boost</Filter>
+    </None>
+    <None Include="C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps\boost-src\libs\variant2\include\boost\variant2\variant.hpp">
+      <Filter>Header Files\boost\variant2</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{38898C6C-48E1-392D-8043-19D05D66CFA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\boost">
+      <UniqueIdentifier>{41652748-3964-37BE-92EB-4EB5AFBABD2B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\boost\variant2">
+      <UniqueIdentifier>{035EFFA2-91EC-386B-9B09-FB1C61C1ED4D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,215 @@
+:root
+{
+    --font-family: 'Work Sans';
+
+    --gold-1: hsl(39, 98%, 61%);
+
+    --gray-1: hsl(0, 0%, 19%);
+    --gray-2: hsl(0, 0%, 11%);
+    --gray-3: hsl(0, 0%, 44%);
+    
+    /* --gray-3: rgb(111,111,111); */
+    /* --gray-3: hsl(0, 0%, 19%); */
+
+    --white-1: hsl(0, 0%, 100%);
+    --white-2: hsl(0, 0%, 75%);
+    --white-3: hsl(0, 0%, 96%);
+
+    --brand-color-1: var(--gold-1);
+    --brand-color-1-font-color: var(--gray-2);
+
+
+    --body-background-color: var(--gray-2);
+    --body-font-color: var(--white-2);
+    --body-font-emphasis-color: var(--white-3);
+
+    --title-bar-height: 25px;
+    --title-background-color: var(--gray-2);
+
+    --navigation-width: 80px;
+    --navigation-background-color: var(--gray-2);
+    --navigation-icon-color: var(--gray-3);
+    --navigation-active-icon-color: var(--gray-3);
+
+    --content-background-color: var(--gray-1);
+
+    --device-grid-item-background-color: var(--gray-2);
+
+    --global-border-radius: 2px;
+    --rounded-border-radius: 5px;
+
+    --button-inline-padding: 5px 20px;
+    --button-font-size: 13px;
+    --button-font-weight: bold;
+    --button-background-color: var(--brand-color-1);
+    --button-font-color: var(--brand-color-1-font-color);
+    --button-border-radius: 2px;
+
+    --panel-background: var(--gray-2);
+
+    --toggle-track-color: var(--brand-color-1);
+    --toggle-thumb-color: var(--white-1);
+    --toggle-track-text-color: var(--gray-2);
+
+    
+    --range-track-color: var(--gray-3);
+    --range-track-filled-color: var(--brand-color-1);
+    --range-thumb-color: var(--brand-color-1);
+
+    --option-select-line-color: var(--white-1);
+    --option-list-background-color: var(--gray-2);
+    --option-list-highlight-color: var(--gray-1);
+
+
+
+
+
+    -webkit-font-smoothing: antialiased;
+
+  --primary-font-family: 'Work Sans', sans-serif;
+  --secondary-font-family: 'Space Grotesk', sans-serif;
+  --text-font: var(--primary-font-family);
+  --label-font: var(--primary-font-family);
+  --header-font: var(--secondary-font-family);
+
+  --base-shades-10: #ffffff;
+  --base-shades-20: #f5f5f5;
+  --base-shades-30: #d9d9d9;
+  --base-shades-40: #909090;
+  --base-shades-50: #707070;
+  --base-shades-60: #515151;
+  --base-shades-70: #313131;
+  --base-shades-80: #262626;
+  --base-shades-90: #1c1c1c;
+  --base-shades-100: #111111;
+  --glorange-20: #feead2;
+  --glorange-20: #fddeb8;
+  --glorange-50: #ffba73;
+  --glorange-60: #ffa40d;
+  --atomic-purple-30: #d9cef4;
+  --atomic-purple-50: #8477be;
+  --focus-60: #56b7e6;
+  --red-dark-20: #511d1d;
+  --red-dark-40: #c64646;
+  --red-dark-60: #ff5a5a;
+  --red-dark-80: #ffb0b0;
+  --green-dark-30: #4ea146;
+  --green-dark-40: #5fc656;
+  --green-dark-60: #7bff6f;
+  --green-dark-80: #bbffb7;
+
+  --purple-40: #C5B4E3;
+  --purple-60: #4A25AA;
+
+  --yellow-40: #FCD299;
+  --yellow-60: var(--glorange-60);
+
+  
+  --friendly-yellow: var(--glorange-60);
+  --friendly-blue: #26B4FF;
+  --friendly-red: #FF2626;
+  --friendly-green: #18B30A;
+  --friendly-purple: #BA01FF;
+  --friendly-teal: #2EF6CA;
+
+  --gid-success-dark: var(--green-dark-60);
+  --gid-success-light: #3CAC32;
+  --gid-upload-dark: var(--base-shades-20);
+  --gid-upload-light: var(--purple-60);
+  --gid-syncing-dark: var(--yellow-40);
+  --gid-syncing-light: var(--purple-40);
+  --gid-disconnect-dark: var(--red-dark-60);
+  --gid-disconnect-light: #FF3434;
+  --gid-logo-mark: var(--purple-40);
+
+  --gap-small: 4px;
+  --gap: 8px;
+  --gap-large: 12px;
+  --space: 16px;
+  --space-medium: 20px;
+  --space-large: 24px;
+  --space-double: 32px;
+  --space-xlarge: 38px;
+  --space-triple: 64px;
+
+  --element-height-large: 48px;
+  --element-height-medium: 40px;
+  --element-height: 32px;
+  --element-height-small: 24px;
+
+  --border-thin: 1px;
+  --border: 2px;
+  --border-radius: 4px;
+  --border-radius-thin: 2px;
+
+  --transition-fast: 300ms;
+  --transition-slow: 500ms;
+
+  --tooltip-size: 20px;
+  --tooltip-font-color: var(--base-shades-20);
+  --tooltip-border-color: var(--base-shades-20);
+  --tooltip-message-background-color: var(--base-shades-80);
+  --tooltip-message-border-color: var(--purple-40);
+
+}
+
+button
+{
+    cursor: pointer;
+    border: solid 1px transparent;
+    padding: var(--button-inline-padding);  
+    border-radius: var(--button-border-radius);
+    font-weight: var(--button-font-weight);
+    font-size: var(--button-font-size);
+}
+
+button.glorious
+{
+    background-color: var(--button-background-color);
+    color: var(--button-font-color);
+}
+
+button.secondary
+{
+    background-color: var(--white-1);
+    color: var(--gray-1);
+}
+
+button.hollow
+{
+    padding: var(--button-inline-padding);
+  
+    border-radius: var(--button-border-radius);
+    background-color: transparent;
+    border: solid 2px var(--white-2);
+    color: var(--white-2);
+    font-weight: var(--button-font-weight);
+    font-size: var(--button-font-size);
+}
+
+button[disabled]
+{
+  opacity: .7;
+}
+
+button.embed
+{
+    padding: .5rem;
+  
+    border-radius: var(--button-border-radius);
+    background-color: transparent;
+    border: none;
+}
+
+.charging .bolt
+{
+  animation: blink 2s linear infinite alternate;
+}
+
+@keyframes blink
+{
+  100%
+  {
+    fill: var(--base-shades-50);
+  }
+}

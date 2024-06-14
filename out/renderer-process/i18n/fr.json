@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "Veuillez connecter vos produits Glorious"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "L'apparition des appareils peut prendre quelques secondes"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "Chargement des appareils connectés"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "Page d’accueil"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "Paramètres"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "Noms des produits"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I 2"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "Paramètres"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "Version"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "Voir le journal des modifications"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "Lancer automatiquement CORE au démarrage de l'ordinateur"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "Lancer CORE minimisé par défaut"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "Info-bulles CORE"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "Activer les mises à jour automatiques"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "Modifier le thème des couleurs"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "Mise en veille globale"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "Éteindre après l'inactivité"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "Langue"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "Soutien"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "Y a-t-il une fonctionnalité que vous aimeriez demander ?"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "Utilité de l'appariement Glorious"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "Étapes d'appariement"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1. Débranchez tous les câbles et récepteurs de la souris Glorious."
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2. Branchez la souris que vous souhaitez coupler via le câble USB. Branchez le récepteur sans fil."
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3. Sélectionnez la souris à appairer dans l'outil ci-dessous."
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4. Lorsque le récepteur USB et le récepteur sans fil ont été reconnectés, cliquez sur le bouton Appairer."
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "Souris"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "Récepteur sans fil"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "Connecté"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "Déconnecté"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "Sélectionnez la souris"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "Vous ne voyez pas votre souris dans la liste ?"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "Veuillez vous référer au lien suivant pour la prise en charge des appareils classiques : Utilitaire d'appairage classique"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "Utilitaire de couplage classique."
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "Mon appareil"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "Ma souris"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "Mon clavier"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "Mon pavé numérique"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "Mon tapis de souris"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "Mon câble"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "Mon casque"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "Éclairage Accueil"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "Reliure aux touches"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "Accueil de raccourcis clavier"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "Macro"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "Raccourcis"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "Home"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "Firmware"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "Profils"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "À jour"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "Mise à jour disponible"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "Mise à jour..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "Mise à jour a échoué"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "Arrêt du RVB après inactivité"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "Mise à jour disponible"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "Les performances"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "Taux de rapport"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "Sensibilité rotative"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "Latence d'entrée"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "Attendre"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "Paramètres"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "Taux de rapport"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "Relève séparée pour filaire/sans fil"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "Distance de décollage"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "Temps de réponse"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "Synchronisation des mouvements"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "Réglages avancés"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "Temps de presse"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "Avant la presse"
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "Après presse"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "Temps de libération"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "Avant la sortie"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "Après la libération"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "Temps de pressage au décollage"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "Éclairage"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "Effet"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "Luminosité filaire/sans fil séparée"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "avec fil"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "Luminosité"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "Luminosité sans fil"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "RGB Gradient"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "Taux"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "Effets prédéfinis"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "Style de couleur"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "Personnalisé par clé"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "Aucune mise en page personnalisée"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "Sélection rapide des touches"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "Respiration"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "Niveaux de PPP"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "Défaut"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "Sélectionnez un bouton de la souris ci-dessus pour voir ses options de raccourci clavier."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "Raccourcis clavier"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "Déplacement de couche"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "Un bouton de la souris doit être assigné comme décalage de couche sur la \r\nCouche standard sous « Fonction de la souris » pour accéder à \r\nla deuxième couche de fonctionnalités."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "Frappe"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "Touche"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "Modificateur"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "Fonction du clavier"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "Fonction de la souris"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "Macros"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "En sélectionnant « Nouvelle macro », vous ouvrez la fenêtre \r\nmodale de création de macro. À l'intérieur, vous pouvez choisir le type de macro que vous \r\nsouhaitez créer, lui donner un nom, et enregistrer et modifier vos entrées.\r\n\r\n L'enregistrement à partir de la fenêtre modale l'ajoutera à la liste de \r\ngauche."
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "Aucun Macro sauvegardé"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "Type de macro"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "Multimédia"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "Raccourcis"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "Bouton de désactivation"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "Glissière"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "Codeur rotatif"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "Volume de candidature"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "Source audio"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "Chemin"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "Actionnement"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "Point d'actionnement personnalisé"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "Utilisez le curseur pour définir le point où toute pression sur une touche s'activera."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "La sélection du bouton ci-dessous vous permettra de modifier le point d'actionnement pour chaque touche."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "Afficher la visualisation"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "Clés avancées"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "Bienvenue à la synchronisation RVB"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "La synchronisation RVB Glorious permet de synchroniser les \r\neffets d'éclairage entre vos produits Glorious \r\npour une personnalisation RVB plus poussée que jamais."
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "Me donner une visite guidée"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "Sauter la visite guidée"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "Ne me montrez plus cela"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "En faisant une sélection dans la liste ci-contre, vous appliquerez \r\nl'effet d'éclairage correspondant aux produits que vous avez \r\nconnectés. \r\n\r\nLes paramètres de personnalisation varient d'un effet à l'autre. \r\nUtilisez les onglets ci-dessus pour naviguer dans les options de \r\nl'effet d'éclairage sélectionné."
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "Effet lumière"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "Vague"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "Sonique"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "Spirale"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "Cycle"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "Onde linéaire"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "Ondulation"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "Respiratoire"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "Pluie"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Feu"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "Déclencheur"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "Synchronisation audio"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "Apparence"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "Mouvement"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "Luminosité"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "Ajuster la luminosité de l'effet"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "Taux"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "Ajuster la vitesse de l'effet"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "Style de couleur"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "Dégradé RVB"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "Couleur personnalisée"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "Opacité"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "Couleur"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "Vitesse"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "Largeur de bande"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "Pente"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "Angle"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "Direction"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "Bosse"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "L'effet se déplace dans la direction normale\r\n et rebondit."
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "Écart"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "Ajuster l'espacement entre les couleurs."
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "Bidirectionnel"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "Deux effets de lumière identiques se déplacent dans\r\n des directions opposées en même temps."
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "Quantité"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "Gamme d'effets"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "Rayon"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "Toutes les clés situées dans le rayon d'action sont éclairées"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "Amplitude"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "Connexion"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "Se connecter à"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "Registre"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "Adresse électronique"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "Mot de passe"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "Mot de passe oublié"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "Ne vous inquiétez pas ! Saisissez l'adresse électronique associée \r\nà votre compte et nous vous enverrons un lien \r\npour réinitialiser votre mot de passe."
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "Créer un mot de passe"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "Créer un nouveau mot de passe"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "Confirmer le mot de passe"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "Confirmer le nouveau mot de passe"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "Continuer à la page de connexion"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "Continuer"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "Correspondance des mots de passe"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "Mot de passe incorrect"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "N'avez-vous pas de compte ?"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "Avez-vous déjà un compte ?"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "Se connecter ici"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "Ou continuer avec"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "Inscription à l'authentification unique"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "Veuillez saisir une adresse électronique valide"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "Envoyer"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "Lien envoyé"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "Vous ne voyez pas le lien ? Il peut prendre jusqu'à 000m \r\npour apparaître dans votre boîte de réception."
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "Envoyer un autre lien"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "Bienvenue"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "Bon retour"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "Connexion réussie"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "Inscription réussie"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "Authentification unique"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "Connectez-vous à votre compte Google/Meta pour accéder à votre \r\nGlorious ID!"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "Connecter un compte client"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "Connectez votre \r\ncompte client gloriousgaming.com à votre identifiant Glorious pour synchroniser les informations \r\net profiter pleinement des fonctionnalités et des avantages."
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "Connecter"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "Continuer sans lier de compte"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "Vous pouvez toujours connecter un compte ultérieurement."
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "Confirmer votre région"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "Est-ce que cela vous semble correct ?"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "Dans le cas contraire, sélectionnez la bonne région dans le \r\nmenu déroulant avant de continuer."
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "Sélectionner votre langue"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "Réviser le contrat de licence d'utilisation / RGPD"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "Je confirme que j'ai plus de 13 ans"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "Réinitialiser les paramètres par défaut"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "Masquer la navigation à gauche"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "Guide des produits"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "Support produits"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "Choisissez le type de macro que vous souhaitez pour commencer. \r\nVous pouvez le modifier à tout moment."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "Aucune répétition"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "Une macro Aucune répétition est exécutée une fois par activation de \r\nl'endroit où elle est affectée."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "Basculer"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "Une fois activée, une macro de Basculement fonctionne en continu\r\n jusqu'à ce qu'elle soit activée une seconde fois."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "Répéter en maintenant"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "La macro assignée fonctionnera en continu tant que son \r\ndéclencheur assigné sera maintenu enfoncé."
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "Délai"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "Délai constant entre toutes les frappes de touches. \r\nValeur réglable de 10ms à 10000ms."
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "Les délais entre les frappes apparaîtront conformes \r\nà leur durée d'enregistrement."
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "Sélecteur de couleurs"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "Couleur active"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "Rouge"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "Vert"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "Bleu"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "Aplats"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "Changements non sauvegardés"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "Vous avez des modifications non sauvegardées qui seront \r\nperdues si vous choisissez de quitter maintenant. \r\n\r\nSouhaitez-vous continuer ?"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "Oui, rejeter les modifications"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "Non, j'aimerais revenir"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "Veuillez connecter tous les appareils requis via USB pour effectuer la mise à jour du firmware."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "Annuler"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "Continuer"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "Téléchargement (produit)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "Installation du micrologiciel pour (produit)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "Do not unplug your (mouse) cable and receiver or restart the app!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "Ne débranchez pas le câble (de votre clavier) et ne redémarrez pas l'application !"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "(produit) mise à jour du firmware réussie"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "Fermer"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "Validation de l'appairage des appareils sans fil"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "Certaines mises à jour dissocient le récepteur de la souris."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "Pour rétablir la connectivité sans fil, appairez à nouveau votre récepteur à l'aide de l'Utilitaire d'appairage."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "Ignorer"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "Utilitaire d'appariement ouvert"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "Échec de la mise à jour du firmware"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "Le récepteur sans fil de l'appareil semble être déconnecté."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "Veuillez vérifier votre récepteur sans fil et réessayer."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "Échec du téléchargement de la mise à jour"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "Gestionnaire de micrologiciel"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "Une nouvelle version du Firmware est disponible pour ces appareils"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "Autres appareils"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "Télécharger et installer le micrologiciel"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "Installer le micrologiciel"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "Annuler"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "Nettoyer le micrologiciel"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "Veuillez vous assurer que votre souris et votre récepteur sont branchés."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "Application du dernier firmware"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "Téléchargement du firmware"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "Installation du firmware"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "Ne débranchez pas le câble (de la souris) et le récepteur et ne redémarrez pas l'application !"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "Une nouvelle version est détectée"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "Le télécharger et l'installer ?"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "Télécharger"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "Annuler"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "Télécharger Glorious CORE"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "Mise à jour de l'application"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "Le programme d'installation de mise à jour a été lancé"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "Fermeture..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "Pour commencer l'appariement"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "Paramètres anti-rebond avancés"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "Veuillez débrancher et éteindre votre souris à l'aide de l'interrupteur situé sous la souris."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "Tout en maintenant le bouton de la molette de défilement enfoncé, touchez le récepteur avec la souris et activez-le."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "Maintenir le bouton de la molette de défilement pendant environ 4 secondes jusqu'à ce que les DEL clignotent en vert."
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "D'accord"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "Pour continuer l'appariement"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "Appariement réussi"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "Vous pouvez désormais utiliser votre souris sans fil."
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "Échec de l'appariement"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "Échec de l'appariement"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "Assurez-vous d'avoir une connexion internet stable avant de réessayer."
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "Connecté"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "Connecté"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "Connecté"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "Modifications non enregistrées"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "Vérifier pour des mises à jour"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "Actif"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "Inactif"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "État"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "Dernière mise à jour"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "Taux de rapport"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "Synchronisation des mouvements"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "Effet de lumière"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "Profils de tapis de souris"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "Profil de la souris"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "Profil du clavier"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "Connectez-vous"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "Registre"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "à Glorious ID afin d'accéder aux profils dans le nuage !"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "Profils nuage"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "Profils nuage"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "Vérifier les mises à jour"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "Prolonger la garantie"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "Page d'acceuil du support"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "Fonctionnalité vote positif"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "Appairer"
+    },
+    {
+        "key": "Button_Save",
+        "value": "Sauvegarder"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "Annuler"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "Actions additionnelles"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "Vérifier la mise à jour du micrologiciel"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "MISE À JOUR DU FIRMWARE"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "Importer"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "Exporter"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "Élargir"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "Effacer l'aplat"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "Nouveau macro"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "Modifier le Macro"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "Importer"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "Exporter"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "Démarrer l'enregistrement"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "Arrêter l'enregistrement"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "Sauvegarder le Macro"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "Parcourir"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "Annuler"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "Ok"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "Révéler la navigation à gauche"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "Masquer la navigation à gauche"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "Guide produit"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "Support produit"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "SUR"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "DÉSACTIVÉ"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "Dégradé RVB"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "Couleur personnalisée"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "Temps de réglage"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "Tel qu'enregistré"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "Latence d'entrée"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "La latence d'entrée est le temps qui s'écoule entre l'envoi d'un signal électrique et l'apparition d'une action correspondante."
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "Profils"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "L'exportation d'un profil vous permet d'enregistrer des paramètres personnalisés. L'importation d'un profil vous permettra d'appliquer des paramètres personnalisés à partir de ce profil. Vous pouvez avoir jusqu'à trois profils dans CORE à la fois."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "Taux de rapport"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "La fréquence d’interrogation est la fréquence à laquelle votre système d'exploitation vérifie les entrées.\r\n Cela s'agit d'un facteur qui permet de déterminer la latence maximale\r\n des touches du clavier. Un taux d'interrogation élevé utilise plus de ressources de l'unité centrale\r\n qu'une fréquence d'interrogation plus faible."
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "Sensibilité rotative"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "La sensibilité rotative contrôle l'incrément de réglage entre chaque étape."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "Désactivé"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "L'appareil ne passera pas en mode veille, quelle que soit la minuterie de veille globale."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "Hériter du Global"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "L'appareil respectera le réglage global de la minuterie de veille."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "Spécifique à l'appareil"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "La minuterie de veille de l'appareil sera indépendante de la minuterie de veille globale."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "Distance de décollage"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "Le temps de rebond est un délai dans la détection des clics après \r\nun clic initial."
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "Temps de réponse"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "Le temps de réponse est un délai dans la détection des clics après un clic initial."
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "Synchronisation des mouvements"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "Motion Sync optimise le suivi de la souris en \r\nsynchronisant les événements d'interrogation du capteur et de l'USB."
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "Paramètres anti-rebond avancés"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "Sélectionnez cette option afin de pouvoir spécifier davantage quand et où vos minuteries anti-rebond sont déclenchées. Toutes les options anti-rebond sont appliquées à tous les boutons de la souris."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "Changez le nom de votre macro et accédez à ces informations à tout moment."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "Accédez au menu de sélection du type de macro."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "Utilisez ce bouton pour démarrer et mettre en pause l'enregistrement de la frappe macro."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "La sélection entre Définir l'heure ou Comme enregistré vous permet soit de définir automatiquement des délais cohérents entre les entrées, soit d'enregistrer/ajuster manuellement."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "Enregistrez votre macro."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "Ajustez le délai anti-rebond au moment exact où vous commencez à appuyer ou avez complètement appuyé sur le bouton de la souris."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "Ajustez le délai anti-rebond au moment exact où vous commencez à relâcher ou après avoir complètement relâché le bouton de la souris."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "Ajustez le délai anti-rebond au moment exact où vous avez soulevé et replacé la souris sur la surface."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "Hériter du Global"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "Spécifique à l'appareil"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "Mode Glorieux"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "Respiration uniforme"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "Respiration"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "Unicolore"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "Respiration unicolore"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "Queue"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "Rave"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "Vague"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "LED éteint"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "Vague #1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "Vague #2"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "Vague en spirale"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "Mode acide"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "Normalement ouvert"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "Ripple Graff"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "Passer sans laisser des traces"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "Courir vite sans laisser des traces"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "Matrice 2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "Matrice 3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "Arc-en-ciel"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "Capteur de rythme cardiaque"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "Temps numériques"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "Kamehameha"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "Ping Pong"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "Surmonter"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "OG RGB"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "Arc-en-ciel RVB"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "Pamplemousse rose"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "Nébuleuse"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "Pastel"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "Feu céleste"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "Glace céleste"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "Caméleon"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "Or Glorious"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "Rave"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "Kitt"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "Reliure de touches"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "Standard"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "Couche de fonctions"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "Couche alternative"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "Fonction + Calque Alt"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "Décalage de couche"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "Effets prédéfinis"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "Clavier à touches personnalisables"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "Nombres"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "Feux latéraux"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "Modificateurs"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "Touches F"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "Flèches"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "Tous"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "Frappe"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "Fonction de clavier"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "Fonction de souris"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "DPI"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "Macro"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "Multimédia"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "Raccourcis"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "Désactiver"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "Basculement audio"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "Contrôle du son"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "Cycle de profil vers le haut"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "Cycle de profil vers le bas"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "Cycle de couches vers le haut"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "Cycle de couches vers le bas"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "Clic gauche"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "Clic de droite"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "Clic de défilement"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "Suivant"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "Dos"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "Défiler vers le haut"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "Défiler vers le bas"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "Cycle de profil vers le haut"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "Cycle de profil vers le bas"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "Décalage de la couche"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "Étape DPI améliorée"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "Étape DPI vers le bas"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "Cycle de PPP vers le haut"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "Cycle de PPP vers le bas"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "Verrouillage PPP"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "Ouvrir le lecteur multimédia"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "Lecture/Pause"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "Piste suivante"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "Piste précédente"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "Arrêter"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "muet"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "Augmentation du volume"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "Réduction du volume"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "piste suivante"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "piste précédente"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "Lancer le programme"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "Lancer le site Web"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "Fonction Windows"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "Courriel"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "Calculatrice"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "Mon ordinateur"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "Explorer"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "Page d'accueil"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "Actualisation"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "Arrêter"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "Dos"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "Suivant"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "Rechercher"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "Clé Windows"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "Pas de répétition"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "Sélectionnez le mode"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "Basculer"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "Répéter en maintenant"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "Pousser le bouton"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "Rotation du bouton"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "Hériter du Global"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "Spécifique à l'appareil"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "Saisir l'URL du programme"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "Entrer l'URL"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "Page d’accueil"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "Attribué"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "Macro Info"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "Câble USB"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "Bienvenue sur GLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "Bénéficiez des avantages d’un accès transparent et d’une expérience personnalisée lorsque vous vous inscrivez à Glorious ID. Rationalisez votre interaction avec CORE 2.0 avec des fonctionnalités exclusives qui incluent:"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "Enregistrez et synchronisez jusqu'à 25 profils uniques sur le cloud."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "Accédez à vos profils cloud depuis n'importe quel appareil avec CORE 2.0 installé."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "Gérez et partagez facilement les profils que vous créez."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "Se connecter"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "Registre"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "Bienvenue sur Glorious ID ! Créer un compte vous permet d'accéder à votre expérience personnalisée !"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "Mettre à jour les informations du compte"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "Se déconnecter"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "Glorieux profils de cloud"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "Compte SSO"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "Connectez votre compte client gloriousgaming.com..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "Connected"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "Pas connecté"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "Connecter"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "Exécuter"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "Fermer"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "Télécharger"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "Mettre à jour l'appareil"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "Mettre à jour le récepteur"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "Gestionnaire de mise à jour"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "Ok"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "Les appareils en surbrillance dans la liste des appareils ont des mises à jour de firmware disponibles !"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "Sélectionnez les appareils que vous souhaitez mettre à jour :"
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "Aucun appareil disponible"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "Avertissement"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "Certains des appareils sélectionnés pour les mises à jour n'ont pas à la fois leur câble et leur récepteur sans fil branchés. Êtes-vous sûr de vouloir continuer?"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "Appareil non trouvé."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "Une erreur s'est produite lors du chargement du périphérique sélectionné."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "Profil1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "Profil2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "Profil3"
+    }
+]

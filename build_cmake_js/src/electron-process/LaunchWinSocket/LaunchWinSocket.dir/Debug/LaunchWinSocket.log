@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9002: ignoring unknown option '/EH;'
+cl : command line  warning D9002: ignoring unknown option '/EH/'
+cl : command line  warning D9002: ignoring unknown option '/EHE'
+cl : command line  warning D9002: ignoring unknown option '/EHH'
+  LaunchWinSocket.cc
+     Creating library C:/Development/core/projects/glorious-core-app/build_cmake_js/src/electron-process/LaunchWinSocket/Debug/LaunchWinSocket.lib and object C:/Development/core/projects/glorious-core-app/build_cmake_js/src/electron-process/LaunchWinSocket/Debug/LaunchWinSocket.exp
+  LaunchWinSocket.vcxproj -> C:\Development\core\projects\glorious-core-app\build_cmake_js\Debug\LaunchWinSocket.node

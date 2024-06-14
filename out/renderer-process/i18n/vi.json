@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "Vui lòng kết nối các sản phẩm Glorious của bạn"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "Có thể mất vài giây để các thiết bị xuất hiện"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "Đang tải các thiết bị được kết nối"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "Trang chủ"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "Cài đặt"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "Tên sản phẩm"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "Cài đặt"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "Phiên bản"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "Xem nhật ký thay đổi"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "Tự động khởi chạy CORE khi khởi động máy tính"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "Khởi chạy CORE được thu nhỏ theo mặc định"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "Chú giải công cụ CORE"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "Bật cập nhật tự động"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "Thay đổi chủ đề màu"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "Chế độ chờ toàn bộ"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "Tắt sau khi ngừng hoạt động"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "Ngôn ngữ"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "Hỗ trợ"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "Có tính năng nào bạn muốn yêu cầu không?"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "Tiện ích ghép nối Glorious"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "Các bước ghép nối"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1. Rút tất cả cáp của chuột và bộ thu Glorious."
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2. Cắm dây cáp của chuột bạn muốn ghép nối qua cáp USB. Cắm bộ thu không dây."
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3. Chọn chuột được ghép nối từ tiện ích bên dưới."
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4. Khi cả USB và bộ thu không dây đã được kết nối lại, hãy nhấp vào nút Ghép nối."
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "Chuột"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "Bộ thu không dây"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "Đã kết nối"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "Ngắt kết nối"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "Chọn Chuột"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "Không thấy chuột của bạn trong danh sách?"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "Vui lòng tham khảo liên kết sau cho hỗ trợ thiết bị cổ điển: Tiện ích ghép nối cổ điển"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "Classic Pairing Utility."
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "Thiết bị của tôi"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "Chuột của tôi"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "Bàn phím của tôi"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "Bàn phím số của tôi"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "Bàn di chuột của tôi"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "Cáp của tôi"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "Tai nghe của tôi"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "Thắp sáng ngôi nhà"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "Ràng buộc chính"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "Trang chủ liên kết phím"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "Macro"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "Phím tắt"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "Trang chủ"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "Phần sụn"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "Hồ sơ"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "Cập nhật"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "Cập nhật có sẵn"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "Đang cập nhật..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "Cập nhật không thành công"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "Tắt RGB sau khi không hoạt động"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "Có sẵn bản cập nhật"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "Hiệu suất"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "Tốc độ polling"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "Độ nhạy quay"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "Độ trễ đầu vào"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "Đứng gần"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "Cài đặt"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "Tốc độ kiểm soát vòng*"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "Bỏ phiếu riêng cho có dây/không dây"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "Khoảng cách nâng lên*"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "Thời gian hãm*"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "Đồng bộ hóa chuyển động*"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "Cài đặt nâng cao"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "Thời điểm báo chí"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "Trước Báo Chí"
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "Sau Báo Chí"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "Thời gian phát hành"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "Trước khi phát hành"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "Sau khi được thả"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "Thời gian báo chí nâng hạ"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "Chiếu sáng"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "Hiệu ứng"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "Độ sáng có dây/không dây riêng biệt"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "Có dây"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "Độ sáng"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "Không dây Độ sáng"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "Độ dốc RGB"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "Tốc độ"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "Hiệu ứng cài sẵn"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "Phong cách màu sắc"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "Tùy chỉnh cho mỗi phím"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "Không có bố cục tùy chỉnh"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "Chọn phím nhanh"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "Hơi thở"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "Các giai đoạn DPI"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "Mặc định"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "Chọn Nút Chuột ở trên để xem các tùy chọn liên kết phím của nút đó."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "Liên kết phím"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "Dịch chuyển lớp"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "Nút chuột phải được gán chức năng Chuyển đổi lớp trên \r\nlớp Tiêu chuẩn dưới “Chức năng chuột” để truy cập \r\nlớp chức năng thứ hai."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "Tổ hợp phím"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "Phím"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "Bộ điều chỉnh"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "Chức năng bàn phím"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "Chức năng chuột"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "Macro"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "Chọn ‘Macro mới’ sẽ mở phương thức tạo macro \r\n. Bên trong, bạn có thể chọn loại macro bạn \r\nmuốn tạo, đặt tên, và ghi lại & chỉnh sửa đầu vào của bạn.\r\n\r\nLưu từ bên trong phương thức sẽ thêm macro vào danh sách \r\nbên trái."
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "Không có macro nào được lưu"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "Loại vĩ mô"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "Đa phương tiện"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "Phím tắt"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "Vô hiệu hóa nút"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "Thanh trượt"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "Bộ mã hóa quay"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "Khối lượng ứng dụng"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "Nguồn âm thanh"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "Con đường"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "Kích hoạt"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "Điểm kích hoạt tùy chỉnh"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "Sử dụng thanh trượt để đặt điểm mà bất kỳ lần nhấn phím nào sẽ kích hoạt."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "Việc chọn nút bên dưới sẽ cho phép bạn chỉnh sửa điểm truyền động trên cơ sở từng phím."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "Hiển thị trực quan"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "Chìa khóa nâng cao"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "Chào mừng đến với RGB Sync"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "Chức năng RGB Sync của Glorious cho phép đồng bộ hóa \r\nhiệu ứng chiếu sáng giữa các sản phẩm Glorious của bạn \r\nđể tùy chỉnh RGB tốt hơn bao giờ hết."
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "Cho tôi xem một vòng"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "Bỏ qua giới thiệu một vòng"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "Đừng hiển thị lại phần này cho tôi"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "Lựa chọn từ danh sách liền kề sẽ áp dụng \r\nhiệu ứng chiếu sáng tương ứng cho các sản phẩm mà bạn đã \r\nkết nối. \r\n\r\nCác hiệu ứng khác nhau có các thông số tùy chỉnh khác nhau. \r\nSử dụng tab ở trên để điều hướng các tùy chọn cho \r\nhiệu ứng chiếu sáng đã chọn."
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "Hiệu ứng chiếu sáng"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "Sóng"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "Âm thanh"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "Xoắn ốc"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "Chu kỳ"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "Sóng tuyến tính"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "Gợn sóng"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "Hô hấp"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "Mưa"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Lửa"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "Bộ kích hoạt"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "Đồng bộ âm thanh"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "Bề ngoài"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "Chuyển động"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "Độ sáng"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "Điều chỉnh độ sáng của hiệu ứng"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "Tốc độ"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "Điều chỉnh tốc độ của hiệu ứng"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "Kiểu màu"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "Chuyển sắc RGB"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "Màu tùy chỉnh"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "Độ mờ"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "Màu"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "Tốc độ"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "Băng thông"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "Chuyển sắc"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "Góc"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "Hướng"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "Phần tăng"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "Hiệu ứng di chuyển theo hướng bình thường\r\nvà bật trở lại."
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "Khoảng cách"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "Điều chỉnh khoảng cách giữa các màu."
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "Hai chiều"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "Hai hiệu ứng chiều sáng giống nhau di chuyển theo\r\nhướng ngược lại cùng một lúc."
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "Số"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "Phạm vi hiệu ứng"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "Bán kính"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "Tất cả các phím trong cùng bán kính được chiếu sáng"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "Biên độ"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "Đăng nhập"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "Đăng nhập vào"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "Đăng ký"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "Địa chỉ email"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "Mật khẩu"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "Quên mật khẩu"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "Đừng lo lắng! Hãy nhập địa chỉ email được kết nối \r\nvới tài khoản của bạn và chúng tôi sẽ gửi cho bạn một liên kết \r\nđể đặt lại mật khẩu của bạn."
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "Tạo mật khẩu"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "Tạo mật khẩu mới"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "Xác nhận mật khẩu"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "Xác nhận mật khẩu mới"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "Tiếp tục đăng nhập"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "Tiếp tục"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "Mật khẩu khớp nhau"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "Mật khẩu không đúng"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "Không có tài khoản?"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "Đã có tài khoản?"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "Đăng nhập ở đây"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "Hoặc tiếp tục với"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "Đăng ký SSO"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "Vui lòng nhập địa chỉ email hợp lệ"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "Gửi"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "Đã gửi liên kết"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "Không thấy liên kết? Có thể mất tới 000m để \r\nnó xuất hiện trong hộp thư đến của bạn."
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "Gửi một liên kết khác"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "Chào mừng"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "Chào mừng trở lại"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "Đăng nhập thành công"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "Đăng ký thành công"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "Đăng nhập một lần"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "Đăng nhập vào tài khoản Google/Meta của bạn để truy cập \r\nGlorious ID của bạn!"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "Kết nối tài khoản khách hàng"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "Kết nối \r\ntài khoản khách hàng gloriousgaming.com của bạn với Glorious ID để đồng bộ hóa thông tin \r\nvà tận dụng tối đa các tính năng và lợi ích."
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "Kết nối"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "Tiếp tục mà không cần liên kết"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "Bạn luôn có thể kết nối một tài khoản sau này."
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "Xác nhận khu vực của bạn"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "Trông có đúng không?"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "Nếu không, hãy chọn khu vực đúng từ \r\ntrình đơn thả xuống trước khi tiếp tục."
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "Chọn ngôn ngữ của bạn"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "Xem lại EULA/GDPR"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "Tôi xác nhận rằng tôi trên 13 tuổi"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "Đặt lại thành mặc định"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "Ẩn điều hướng bên trái"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "Hướng dẫn sản phẩm"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "Hỗ trợ sản phẩm"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "Chọn loại macro mong muốn để bắt đầu. \r\nBạn có thể thay đổi bất cứ lúc nào."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "Không lặp lại"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "Macro Không lặp lại sẽ thực hiện một lần cho mỗi lần kích hoạt \r\nở nơi được gán."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "Chuyển đổi"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "Sau khi kích hoạt, macro Chuyển đổi sẽ hoạt động liên tục\r\ncho đến khi được kích hoạt lần thứ hai."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "Lặp lại trong khi giữ"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "Macro được gán sẽ hoạt động liên tục miễn là \r\nbộ kích động được gán của macro đó được nhấn giữ."
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "Trì hoãn"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "Độ trễ thời gian nhất quán giữa tất cả các lần nhấn phím. \r\nĐặt giá trị từ 10ms thành 10000ms."
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "Độ trễ giữa các lần nhấn phím sẽ xuất hiện\r\nchính xác theo thời gian đã ghi."
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "Bộ chọn màu"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "Màu hiện hoạt"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "Đỏ"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "Xanh lá"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "Xanh lam"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "Mẫu màu"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "Các thay đổi chưa được lưu"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "Bạn có những thay đổi chưa được lưu và sẽ bị \r\nmất nếu bạn chọn thoát ngay bây giờ. \r\n\r\nBạn có muốn tiếp tục?"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "Có, hủy bỏ thay đổi"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "Không, tôi muốn quay lại"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "Vui lòng kết nối tất cả các thiết bị yêu cầu qua USB để thực hiện cập nhật phần sụn."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "Hủy"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "Tiếp tục"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "Tải xuống (sản phẩm)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "Đang cài đặt phần sụn cho (sản phẩm)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "Không rút cáp và bộ thu (chuột) của bạn hoặc khởi động lại ứng dụng!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "Không rút dây cáp của (bàn phím) hoặc khởi động lại ứng dụng!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "Cập nhật thành công phần sụn của (sản phẩm)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "Đóng"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "Xác thực ghép nối thiết bị không dây"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "Một số cập nhật sẽ hủy ghép nối bộ thu khỏi chuột."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "Để khôi phục kết nối không dây, vui lòng ghép nối lại bộ thu của bạn bằng Tiện ích ghép nối."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "Bỏ qua"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "Mở tiện ích ghép nối"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "Cập nhật phần sụn không thành công"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "Bộ thu không dây của thiết bị có vẻ bị ngắt kết nối."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "Vui lòng chọn bộ thu không dây của bạn và thử lại."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "Tải xuống bản cập nhật không thành công"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "Trình quản lý phần mềm"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "Đã có phiên bản Firmware mới cho các thiết bị này"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "Các thiết bị khác"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "Tải xuống và cài đặt chương trình cơ sở"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "Cài đặt chương trình cơ sở"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "Hủy bỏ"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "Dọn dẹp phần mềm"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "Hãy đảm bảo cả chuột và đầu thu của bạn đều được cắm."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "Đang áp dụng phần sụn mới nhất"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "Đang tải xuống phần sụn"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "Đang cài đặt phần sụn"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "Không rút dây cáp của (chuột) và bộ thu hoặc khởi động lại ứng dụng!"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "Đã phát hiện một phiên bản mới"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "Tải xuống và cài đặt nó?"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "Tải xuống"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "Hủy"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "Tải xuống Glorious CORE"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "Cập nhật ứng dụng"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "Trình cài đặt cập nhật đã được khởi chạy"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "Đang đóng..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "Để bắt đầu ghép nối"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "Cài đặt gỡ lỗi nâng cao"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "Vui lòng rút dây cắm và tắt chuột bằng nút bật/tắt ở dưới cùng."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "Trong khi nhấn giữ nút cuộn chuột, chạm vào bộ thu của chuột và bật công tắc lên."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "Tiếp tục giữ nút cuộn chuột trong khoảng 4 giây cho đến khi đèn LED nhấp nháy màu xanh lá."
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "OK"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "Để tiếp tục ghép nối"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "Đang ghép nối thành công"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "Bây giờ bạn có thể sử dụng chuột không dây."
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "Ghép nối thất bại"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "Ghép nối thất bại"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "Đảm bảo bạn có kết nối internet ổn định trước khi thử lại."
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "Đã kết nối"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "Đã kết nối"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "Đã kết nối"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "Những thay đổi chưa được lưu"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "Kiểm tra cập nhật"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "Đang hoạt động"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "Không hoạt động"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "Tình trạng"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "Cập nhật lần cuối"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "Tốc độ polling"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "Đồng bộ hóa chuyển động"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "Hiệu ứng ánh sáng"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "Hồ sơ bàn di chuột"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "Profile chuột"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "Profile bàn phím"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "Đăng nhập"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "Đăng ký"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "Glorious ID để truy cập profile đám mây!"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "Profile đám mây"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "Profile đám mây"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "Kiểm tra cập nhật"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "Gia hạn bảo hành"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "Trang chủ hỗ trợ"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "Ủng hộ tính năng"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "Ghép nối"
+    },
+    {
+        "key": "Button_Save",
+        "value": "Lưu"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "Hoàn tác"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "Thêm hành động"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "Kiểm tra cập nhật"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "CẬP NHẬT FIRMWARE"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "Nhập"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "Xuất"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "Mở rộng"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "Xóa mẫu màu"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "Macro mới"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "Chỉnh sửa Macro"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "Nhập"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "Xuất"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "Bắt đầu ghi"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "Ngừng ghi"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "Lưu Macro"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "Duyệt"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "Cancel"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "Ok"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "Hiển thị điều hướng bên trái"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "Ẩn điều hướng bên trái"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "Hướng dẫn sản phẩm"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "Hỗ trợ sản phẩm"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "TRÊN"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "TẮT"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "Chuyển sắc RGB"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "Tự phối màu"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "Đặt giờ"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "Như đã ghi"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "Độ trễ đầu vào"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "Độ trễ đầu vào là lượng thời gian trôi qua từ khi gửi tín hiệu điện đến khi xảy ra hành động tương ứng."
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "Hồ sơ"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "Xuất hồ sơ cho phép bạn lưu cài đặt tùy chỉnh. Nhập cấu hình sẽ cho phép bạn áp dụng cài đặt tùy chỉnh từ cấu hình đó. Bạn có thể có tối đa ba hồ sơ trong CORE cùng một lúc."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "Tốc độ polling"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "*Chú giải công cụ - Tốc độ kiểm soát vòng là tần suất hệ điều hành của bạn kiểm tra đầu vào.\r\nĐây là yếu tố quyết định độ trễ đầu vào tối đa\r\ncủa các lần nhấn phím. Tốc độ kiểm soát vòng cao chiếm nhiều tài nguyên CPU\r\nhơn so với tốc độ kiểm soát vòng thấp hơn."
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "Độ nhạy quay"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "Độ nhạy quay kiểm soát mức tăng điều chỉnh giữa mỗi bước."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "Tắt"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "Thiết bị sẽ không chuyển sang chế độ chờ bất kể bộ hẹn giờ chờ chung."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "Kế thừa toàn cầu"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "Thiết bị sẽ tuân thủ cài đặt hẹn giờ chờ chung."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "Thiết bị cụ thể"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "Bộ hẹn giờ chờ của thiết bị sẽ độc lập với bộ hẹn giờ chờ chung."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "Khoảng cách nhấc lên"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "*Chú giải công cụ - Thời gian hãm là độ trễ trong việc phát hiện các lần nhấp chuột\r\nsau lần nhấp chuột đầu tiên."
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "Độ trễ phát hiện nhấp chuột"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "Độ trễ phát hiện nhấp chuột là độ trễ trong việc phát hiện các nhấp chuột sau lần nhấp chuột đầu tiên."
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "Đồng bộ hóa chuyển động"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "*Chú giải công cụ - Đồng bộ hóa chuyển động tối ưu hóa theo dõi chuột bằng cách \r\nđồng bộ hóa cảm biến và các sự kiện kiểm soát vòng USB."
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "Cài đặt gỡ lỗi nâng cao"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "Chọn tùy chọn này để bạn có thể chỉ định thêm thời điểm và vị trí bộ hẹn giờ gỡ lỗi của bạn được kích hoạt. Tất cả các tùy chọn gỡ lỗi được áp dụng cho tất cả các nút trên chuột."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "Thay đổi tên macro của bạn và truy cập thông tin này bất cứ lúc nào."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "Truy cập menu chọn Loại Macro."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "Sử dụng nút này để bắt đầu và tạm dừng ghi thao tác gõ phím macro."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "Việc chọn giữa Đặt thời gian hoặc Như đã ghi cho phép bạn tự động đặt độ trễ nhất quán giữa các đầu vào hoặc ghi/điều chỉnh theo cách thủ công."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "Lưu macro của bạn."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "Điều chỉnh độ trễ gỡ lỗi tại thời điểm chính xác mà bạn bắt đầu nhấn hoặc đã nhấn hoàn toàn nút chuột."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "Điều chỉnh độ trễ gỡ lỗi tại thời điểm chính xác mà bạn bắt đầu thả hoặc đã thả hoàn toàn nút chuột."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "Điều chỉnh độ trễ gỡ lỗi vào đúng thời điểm bạn nhấc và đặt chuột trở lại bề mặt."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "Kế thừa toàn cầu"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "Thiết bị cụ thể"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "Chế độ rực rỡ"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "Hơi thở liền mạch"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "Hơi thở"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "Một màu"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "Hơi thở một màu"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "Đuôi"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "Rave"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "Sóng"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "Đèn LED tắt"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "Sóng #1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "Sóng #2"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "Sóng xoắn ốc"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "Chế độ axit"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "Bình thường bật"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "Gợn sóng"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "Vượt qua không dấu vết"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "Chạy nhanh không dấu vết"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "Ma trận 2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "Ma trận 3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "Cầu vồng"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "Cảm biến nhịp tim"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "Thời gian kỹ thuật số"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "Kamehameha"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "Bóng bàn"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "Vượt qua"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "OG RGB"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "Cầu vồng RGB"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "Bưởi hồng"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "Tinh vân"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "Pastel"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "Thiên Hỏa"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "Thiên Băng"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "Tắc kè"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "Vàng rực rỡ"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "Rave"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "Kitt"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "Ràng buộc chính"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "Tiêu chuẩn"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "Lớp chức năng"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "Lớp Alt"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "Chức năng + Lớp Alt"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "Dịch chuyển lớp"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "Hiệu ứng cài sẵn"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "Tùy chỉnh mỗi khóa"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "số"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "Đèn bên"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "sửa đổi"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "Phím F"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "Mũi tên"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "Tất cả"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "Tổ hợp phím"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "Chức năng bàn phím"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "Chức năng chuột"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "DPI"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "Vĩ mô"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "Đa phương tiện"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "Phím tắt"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "Tắt"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "Chuyển đổi âm thanh"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "Kiểm soát âm thanh"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "Nâng cấp hồ sơ"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "Giảm cấp hồ sơ"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "Nâng cấp lớp"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "Giảm cấp lớp"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "Nhấp chuột trái"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "Nhấp chuột phải"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "Cuộn nhấp chuột"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "Tiến tới"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "Quay lại"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "Cuộn lên"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "Cuộn xuống"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "Chuyển lên Profile trên"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "Chuyển xuống Profile dưới"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "Dịch chuyển lớp"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "Giai đoạn tăng tốc của GDP"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "Giai đoạn GDP xuống"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "Nâng cấp DPI"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "Giảm cấp DPI"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "Khóa DPI"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "Mở Trình phát Đa phương tiện"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "Phát/Tạm dừng"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "Rãnh tiếp theo"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "Rãnh trước"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "Ngừng"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "Tắt tiếng"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "Tăng âm lượng"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "Giảm âm lượng"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "Rãnh tiếp theo"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "Rãnh trước"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "Khởi chạy chương trình"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "Khởi chạy website"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "Chức năng Windows"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "Email"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "Máy tính"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "PC của tôi"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "Explorer"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "Trang chủ"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "Làm mới"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "Ngừng"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "Quay lại"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "Tiến tới"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "Tìm kiếm"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "Phím Windows"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "Không lặp lại"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "Chọn chế độ"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "Chuyển đổi"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "Lặp lại trong khi giữ"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "Núm Đẩy"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "Vặn xoay"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "Kế thừa toàn cầu"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "Thiết bị cụ thể"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "Nhập URL chương trình"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "Nhập URL"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "Trang chủ"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "Được gán"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "Thông tin vĩ mô"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "Cáp USB"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "Chào mừng bạn đến GLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "Mở khóa lợi ích của quyền truy cập liền mạch và trải nghiệm được cá nhân hóa khi bạn đăng ký Glorious ID. Hợp lý hóa hoạt động tương tác của bạn với CORE 2.0 với các tính năng độc quyền bao gồm:"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "Lưu và đồng bộ hóa tối đa 25 hồ sơ duy nhất lên đám mây."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "Truy cập hồ sơ đám mây của bạn từ bất kỳ thiết bị nào đã cài đặt CORE 2.0."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "Quản lý và chia sẻ hồ sơ bạn tạo một cách dễ dàng."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "Đăng nhập"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "Đăng ký"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "Chào mừng bạn đến với Glorious ID! Tạo tài khoản cho phép bạn truy cập vào trải nghiệm được cá nhân hóa của mình!"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "Cập nhật thông tin tài khoản"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "Đăng xuất"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "Glorious Cloud Hồ sơ"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "Tài khoản SSO"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "Kết nối tài khoản khách hàng vinh gloriousgaming.com của bạn..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "Đã kết nối"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "Không kết nối"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "Kết nối"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "Hành hình"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "Tắt"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "Tải xuống"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "Cập nhật thiết bị"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "Người nhận cập nhật"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "Trình quản lý cập nhật"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "Ok"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "Các thiết bị được tô sáng trong danh sách thiết bị đều có sẵn bản cập nhật chương trình cơ sở!"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "Chọn các thiết bị bạn muốn cập nhật:"
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "Không có thiết bị nào"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "Cảnh báo"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "Một số thiết bị được chọn để cập nhật chưa cắm cả cáp và bộ thu không dây. Bạn có chắc chắn muốn tiếp tục không?"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "Không tìm thấy thiết bị."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "Đã xảy ra lỗi khi tải thiết bị đã chọn."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "Profile1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "Profile2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "Profile3"
+    }
+]

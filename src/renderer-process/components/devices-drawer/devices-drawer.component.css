@@ -1,0 +1,51 @@
+.devices {
+    display: flex;
+    gap: 5px;
+}
+
+.devices .drawer-item {
+    width: 70px;
+    height: 100px;
+    padding: 4px;
+    background-color: #1c1c1c;
+    display: grid;
+}
+
+.devices .drawer-handle {
+    background-color: #1c1c1c;
+    width: 35px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .handle-box {
+        font-size: xx-large;
+    }
+}
+
+.item-box i.icon {
+    --icon-size: 40px;
+}
+
+.item-box input {
+    align-self: flex-end;
+    margin-left: 10px;
+}
+
+.drawer-item .item-box {
+    display: flex;
+    flex-direction: row;    
+}
+
+nav a.device .icon
+{
+  max-height: 55px;
+}
+nav a.device.selected .icon
+{
+  background-image: var(--icon-selected);
+}
+nav a.device:hover .icon
+{
+  background-image: var(--icon-active, var(--icon-selected, var(--icon-default)));
+}

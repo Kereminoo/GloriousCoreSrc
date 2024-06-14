@@ -1,0 +1,103 @@
+.update-manager .monitor .items
+{
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 275px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: solid 1px #F5F5F5;
+    min-height: 100px;
+}
+
+.update-manager .monitor .items .item
+{
+    display: grid;
+    grid-template-columns: auto 50px 1fr;
+}
+
+.update-manager .monitor .items li.no-items
+{
+    padding: 7px 10px;
+    font-size: 14px;
+}
+
+.update-manager .monitor .items .item .column
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.update-manager .monitor .check
+{
+    --icon-size: 35px;
+    align-self: center;
+    max-width: var(--icon-size);
+    max-height: var(--icon-size);
+    opacity: 0;
+    pointer-events: none;
+}
+.update-manager .monitor .item.selected .check
+{
+    opacity: 1;
+    pointer-events: initial;
+}
+
+.update-manager .monitor .icon
+{
+    --icon-size: 35px;
+    max-width: var(--icon-size);
+    max-height: var(--icon-size);
+}
+
+.update-manager .monitor .status
+{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.update-manager .monitor .status .tasks
+{
+    display: flex;
+    gap: 5px;
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+}
+
+.update-manager .monitor .status .tasks .task
+{
+    width: var(--width);
+    display: flex;
+}
+
+.update-manager .monitor .status .tasks .task progress
+{
+    flex: 1;
+    appearance: none;
+    height: 10px;
+    margin: 5px 0;
+}
+
+.update-manager .monitor .item.device.has-update
+{
+    border: 1px solid #ffac26;
+}
+
+.task progress[value]::-webkit-progress-bar
+{
+    background-color: #666;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+.task progress[value]::-webkit-progress-value
+{
+    background-color: var(--brand-color-1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+    box-shadow: 0 0 8px -2px var(--brand-color-1);
+}

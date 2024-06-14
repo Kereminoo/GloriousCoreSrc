@@ -1,0 +1,109 @@
+.trigger-point-tooltip {
+    position: absolute;
+    display: flex;
+
+    left: calc(var(--value) * 1%);
+    height: var(--tooltip-height);
+    font-size: 10px;
+
+    --tooltip-height: 26px;
+    --tooltip-border-color: #6f7070;
+    --tooltip-border: 1px solid;
+    --tooltip-border-radius: 2px;
+}
+.key-press .trigger-point-tooltip {
+    transform: rotate(-90deg) translateY(-36px) translateX(-100%);
+}
+.key-release .trigger-point-tooltip {
+    transform: rotate(-90deg) translateY(-36px) translateX(42px);
+    flex-direction: row-reverse;
+}
+.key-press .trigger-point-tooltip::after,
+.key-release .trigger-point-tooltip::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent transparent var(--white-1);
+}
+.key-press .trigger-point-tooltip::after {
+    transform: translateY(-50%);
+    right: -10px;
+}
+.key-release .trigger-point-tooltip::before {
+    transform: translateY(-50%) rotate(180deg) translateX(100%);
+    right: 0;
+    left: 0px;
+}
+.trigger-point-tooltip .trigger-point-main-menu {
+    background: #313131;
+    border-radius: var(--tooltip-border-radius);
+    border: var(--tooltip-border);
+    border-color: var(--tooltip-border-color);
+    color: #c1c1c2;
+    width: 80px;
+    height: inherit;
+
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+.trigger-point-tooltip .trigger-point-main-menu:hover {
+    --tooltip-border-color: #c1c1c1;
+}
+
+.trigger-point-tooltip .trigger-point-main-menu > div.chosen-key-action {
+    min-width: var(--tooltip-height);
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.trigger-point-tooltip .trigger-point-main-menu > div.chosen-key-action {
+    border-right: var(--tooltip-border);
+    border-color: var(--tooltip-border-color);
+}
+.trigger-point-tooltip .trigger-point-main-menu > div.trigger-point-value {
+    padding-left: 4px;
+}
+.trigger-point-tooltip .trigger-point-main-menu > div.trigger-point-value {
+    padding-right: 4px;
+}
+
+.trigger-point-actions-selected {
+    position: absolute;
+    display: flex;
+    gap: 4px;
+}
+.key-release .trigger-point-actions-selected {
+    flex-direction: row-reverse;
+}
+.key-press .trigger-point-actions-selected {
+    transform: translateX(calc(-100% - 4px));
+}
+.key-release .trigger-point-actions-selected {
+    left: 84px;
+}
+
+.trigger-point-actions-selected > div {
+    width: var(--tooltip-height);
+    height: var(--tooltip-height);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: var(--tooltip-border);
+    border-color: var(--tooltip-border-color);
+    border-radius: var(--tooltip-border-radius);
+    cursor: pointer;
+}
+
+.trigger-point-actions-selected > div:hover {
+    --tooltip-border-color: #c1c1c1;
+}
+.trigger-point-value {
+    user-select: none;
+}

@@ -1,0 +1,683 @@
+.macro-editor[open]
+{
+    display: grid;
+}
+.macro-editor
+{
+    grid-template-areas: 'macro-help name mode recording-actions recording-actions close'
+    'field field field field field field'
+    'recording-type recording-type recording-type recording-type actions actions';
+    grid-template-columns: auto 1fr auto 1fr auto auto;
+    grid-template-rows: auto 1fr auto;
+    gap: 2px;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    background-color: var(--content-background-color);
+    margin: 14px 0 0 40px;
+    width: calc(100% - 90px);
+    height: calc(100% - 38px);
+    overflow: hidden;
+    color: var(--base-shades-20);
+}
+
+.macro-editor > .panel
+{
+    background-color: #1C1C1C;
+    padding: 10px;
+}
+
+.macro-editor > .macro-help
+{
+    grid-area: macro-help;
+    display: flex;
+    align-items: center;
+}
+.macro-editor > .name
+{
+    grid-area: name;
+    min-width: 200px;
+    display: flex;
+    align-items: center;
+}
+.macro-editor > .mode
+{
+    grid-area: mode;
+    min-width: 160px;
+    display: flex;
+    align-items: center;
+}
+.macro-editor > .recording-actions
+{
+    grid-area: recording-actions;
+    display: flex;
+    display: flex;
+    align-items: center;
+}
+.macro-editor > .recording-actions button
+{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.macro-editor > .close
+{
+    grid-area: close;
+    display: flex;
+    align-items: center;
+}
+.macro-editor > .close button
+{
+    min-width:auto;
+}
+.macro-editor > .close button .icon
+{
+    width: 10px;
+    height: 10px;
+}
+
+
+.macro-editor > .field
+{
+    grid-area: field;
+    flex: 1;
+    display: flex;
+    overflow: hidden;
+    padding: 30px 50px;
+}
+
+/* .macro-editor > .field .markers
+{
+    flex: 1;
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.macro-editor > .field .markers > img
+{
+    flex: 1;
+} */
+
+.macro-editor > .macro-help button
+{
+    padding: 5px;
+    min-width: auto;
+}
+
+.macro-editor > .macro-help button .icon
+{
+    height: 16px;
+    width: 16px;
+    margin: 0;
+    display: block;
+}
+
+.macro-editor > .panel.name button
+{
+    background: transparent;
+    border: none;
+    outline: none;
+    padding: 0;
+    margin: 10px;
+    min-width: 0;
+    opacity: 0;
+    transition: opacity ease-out 200ms;
+}
+.macro-editor > .panel.name:hover button
+{
+    opacity: 1;
+}
+
+.macro-editor > .panel.name button i
+{
+    margin-top: 0;
+    width: 15px;
+    height: 15px;
+}
+
+.macro-editor > .panel.name input
+{
+    appearance: none;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    border: none;
+    outline: none;
+    flex: 1;
+    min-width: 0;
+}
+
+.macro-editor > .panel.mode > button
+{
+    padding: 0;
+}
+
+.macro-editor > .panel.mode .macro-mode
+{
+    height: 35px;
+    width: 55px;
+}
+.macro-editor > .panel.mode .current
+{
+    display: flex;
+    align-items: center;
+    color: #F5F5F5;
+    font-weight: normal;
+}
+
+.macro-editor .scroll-container
+{
+    display: grid;
+    flex: 1;
+    overflow-x: auto;
+    overflow-y: hidden;
+    /* will-change: transform; */
+}
+
+.macro-editor .scroll-container .recording-cursor
+{
+    grid-row: 1;
+    grid-column: 1;
+    z-index: 10;
+    width: 0;
+    border-right: solid 2px #F5F5F5;
+    display: none;
+    translate: var(--translation);
+}
+.macro-editor[data-recording] .scroll-container .recording-cursor
+{
+    /* display: block; */
+}
+
+.macro-editor .scroll-container .markers
+{
+    grid-row: 1;
+    grid-column: 1;
+    z-index: 0;
+    display: flex;
+    padding: 10px;
+}
+
+.macro-editor .scroll-container .item
+{
+    width: var(--item-width);
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    translate: var(--translation, 0);
+}
+
+.macro-editor .scroll-container .item .marker
+{
+    width: var(--item-width);
+    border-left: dashed 1px #707070;
+    flex: 1;
+    margin-bottom: 5px;
+}
+
+.macro-editor .scroll-container .item .label
+{
+    translate: var(--translation) 0;
+    font-size: 8px;
+}
+
+.macro-editor > .recording-type
+{
+    grid-area: recording-type;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.macro-editor > .actions
+{
+    grid-area: actions;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.macro-editor > .recording-type > input
+{
+    width: 50px;
+    border: solid 1px #707070;
+    font: inherit;
+    color: inherit;
+    border-radius: 2px;
+    background-color: transparent;
+
+    text-align: center;
+    padding: 3px;
+    position: relative;
+}
+.macro-editor > .recording-type > input:after
+{
+    content: 'ms';
+    position: absolute;
+    right: 0;
+}
+
+/* .macro-editor .entry-editor
+{
+    display: grid;
+    grid-template-columns: min-content max-content;
+    grid-template-rows: auto 1fr;
+    align-items:center;
+    gap: 1rem;
+
+    border: solid 1px var(--white-2);
+    padding: 1rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.macro-editor .entry-editor > .actions
+{
+    margin-right: 200px;
+}
+
+.macro-editor .entry-editor > .actions .button
+{
+    font-size: 16px;
+    padding: .5rem 1rem;
+    border-width: 1px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    font-weight: normal;
+    grid-row:2;
+}
+
+.macro-editor .entry-editor .button .icon
+{
+    --size: 16px;
+    width: var(--size);
+    height: var(--size);
+}
+
+.macro-editor .entry-editor .button.start-recording
+{
+    display: grid;
+    grid-template-columns: auto max-content;
+    padding: .5rem 1rem;
+    transition: gap 200ms ease, padding 200ms ease, grid-template-columns 200ms ease;
+}
+.macro-editor.has-entries .entry-editor .button.start-recording
+{
+    gap: 0;
+}
+.macro-editor.has-entries .entry-editor .button.start-recording:hover
+{
+    gap: .5rem;
+}
+
+.macro-editor.has-entries .entry-editor .button.start-recording .text
+{
+    width: 0;
+    overflow:hidden;
+}
+.macro-editor.has-entries .entry-editor .button.start-recording:hover .text
+{
+    width: auto;
+}
+
+.macro-editor .entry-editor .button.stop-recording
+{
+    color: var(--gold-1);
+    border-color: var(--gold-1);
+}
+
+.macro-editor .entry-editor .button.stop-recording .icon
+{
+    color: var(--gold-1);
+}
+
+.macro-editor .recording-message
+{
+    opacity: 0;
+    transition: opacity 200ms ease;
+    grid-row:1/1;
+}
+.macro-editor.recording .recording-message
+{
+    opacity: 1;
+}*/
+
+.macro-editor .entries
+{
+    grid-row: 1;
+    grid-column: 1;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    overflow-x: hidden;
+    /* height: 383px; */
+    padding: 15px 10px;
+    user-select: none;
+}
+
+.macro-editor .entry-types
+{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 10px;
+    /* height: 383px; */
+}
+
+.macro-editor .entry-type
+{
+    display: flex;
+}
+
+.macro-editor .entries .entry-type .entry
+{
+    /* display: grid;
+    grid-template-rows: auto auto;
+    align-items: flex-end;
+    gap: .25rem;
+    position: relative; */
+    /* background-color: rgb(0 0 0 / .3); */
+    translate: var(--translation);
+    background-color: #262626;
+    padding: 5px;
+    box-shadow: 0px 8px 8px rgb(0 0 0 / .15);
+    border: 1px solid #707070;
+    border-radius: 2px;
+    color: #F5F5F5;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 0%;
+    white-space: nowrap;
+    --padding: 5px;
+    padding: var(--padding);
+
+    width: var(--entry-width, 0);
+    z-index: 1;
+}
+
+.macro-editor .entries .entry-type .entry.selected {
+    border-color: var(--brand-color-1);
+}
+
+/* .macro-editor .entries .entry-type .entry .lines
+{
+    position: relative;
+} */
+
+.macro-editor .entries .entry-type .callout
+{
+    position: relative;
+    opacity: 0;
+    transition: opacity 200ms ease;
+    pointer-events: none;
+    z-index: 2;
+}
+/*.macro-editor .entries .entry-type .entry:hover + .callout*/
+/*{*/
+/*    opacity: 0;*/
+/*    pointer-events: none;*/
+/*}*/
+
+.macro-editor .entries .entry-type .entry:hover
+{
+    background-color: var(--base-shades-60);
+    cursor: pointer;
+}
+
+.macro-editor .entries .entry-type .callout.selected
+{
+    opacity: 1;
+    pointer-events: initial;
+}
+
+.macro-editor .entries .entry-type .callout .button:hover .icon
+{
+  background-image: var(--icon-selected);
+}
+
+.macro-editor .entries .entry-type .callout .options
+{
+    position: absolute;
+    top: 0;
+    left: var(--translation);
+    translate: 25% +25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 0 .25rem;
+    border: solid 1px var(--white-2);
+    background-color: #1C1C1C;
+    border-radius: 3px;
+    --icon-size: 14px;
+}
+
+.macro-editor .entries .entry-type .callout .options button
+{
+    min-width: auto;
+}
+
+/* .macro-editor .entries .entry-type .entry .callout .lines
+{
+    top: -1rem;
+}
+
+.macro-editor .entries .entry-type .entry .callout .lines::before
+{
+    height: 20px;
+    position: absolute;
+} */
+
+/* .macro-editor .entries .entry-type .entry .interval
+{
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+}
+
+.macro-editor .entries .entry-type .entry .interval
+{
+    opacity: 0;
+    transition: opacity 200ms ease;
+}
+.macro-editor .entries .entry-type .entry:hover .interval
+{
+    opacity: 1;
+} */
+
+.macro-editor .entries .entry-type .entry .text
+{
+    grid-row: 2;
+    text-align: center;
+}
+
+.macro-editor .entries .entry-type .entry .name
+{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* .macro-editor .entries .entry-type .entry .interval .lines
+{
+    height: 10px;
+    border: solid 1px #F5F5F5;
+    border-top: none;
+}
+.macro-editor .entries .entry-type .entry .interval .lines::before
+{
+    height: 10px;
+} */
+
+/* .macro-editor .entries .entry-type .entry.pre-duration .lines::before
+,.macro-editor .entries .entry-type .entry.post-duration .lines::before
+{
+    height: 43px;
+    top: -20px;
+}  */
+
+
+.macro-editor .entries .recorded-limits
+{
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.macro-editor .entries .recorded-limits .recording-span
+{
+    background-color: var(--brand-color-1);
+    height: 3px;
+    translate: var(--translation);
+}
+
+/* .macro-editor .entries progress
+{
+    height: 3px;
+    appearance: none;
+    -webkit-appearance: none;
+    flex: 1;
+    translate: var(--translation);
+}
+.macro-editor .entries progress::-webkit-progress-bar
+{
+    background-color: transparent;
+    background-color: white;
+}
+.macro-editor .entries progress::-webkit-progress-value
+{
+    background-color:var(--brand-color-1);
+} */
+
+.macro-editor [data-toggle-choice] .choice
+{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.macro-info
+{
+    display: none;
+    background-color: var(--base-shades-90);
+    position: absolute;
+    top: 57px;
+    bottom: 57px;
+    left: 0;
+    right: 5px;
+    z-index: 5;
+
+    grid-template-rows: max-content 1fr max-content;
+}
+.macro-info.show
+{
+    display: grid;
+}
+
+.macro-info .info-box
+{
+    background-color: var(--base-shades-70);
+    border: solid 1px var(--base-shades-50);
+    color: var(--base-shades-20);
+    padding: 10px 5px;
+    margin: 10px 5px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+}
+
+.macro-info .name-info
+{
+    width: 230px;
+    grid-row: 1;
+}
+
+.macro-info .macro-type-info
+{
+    width: 120px;
+    grid-row: 1;
+}
+
+.macro-info .start-info
+{
+    width: 200px;
+    grid-row: 1;
+}
+
+.macro-info .exit-info
+{
+    width: 42px;
+    grid-row: 1;
+    justify-self: flex-end;
+}
+
+.macro-info .recording-type-info
+{
+    width: 530px;
+    grid-column: span 3;
+    grid-row: 3;
+}
+
+.macro-info .save-button-info
+{
+    width: 100px;
+    grid-row: 3;
+    justify-self: flex-end;
+}
+
+
+.mode-options
+{
+    display: none;
+    background-color: var(--base-shades-90);
+    position: absolute;
+    top: 57px;
+    bottom: 57px;
+    left: 0;
+    right: 5px;
+    z-index: 5;
+    gap: 20px;
+
+    align-items: center;
+    justify-items: center;
+
+    grid-template-rows: 1fr auto auto 1fr;
+}
+.mode-options.show
+{
+    display: grid;
+}
+
+.mode-options > header
+{
+    text-align: center;
+    grid-row: 2;
+    width: 355px;
+}
+
+.mode-options .options
+{
+    display: flex;
+    gap: 10px;
+    grid-row: 3;
+}
+
+.mode-options .options .option
+{
+    background-color: var(--base-shades-80);
+    border: solid 1px var(--base-shades-50);
+    color: var(--base-shades-20);
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 2px;
+    width: 217px;
+}

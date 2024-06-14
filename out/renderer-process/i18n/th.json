@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "กรุณาเชื่อมต่อผลิตภัณฑ์ Glorious ของคุณ"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "อาจใช้เวลาสองสามวินาทีก่อนที่อุปกรณ์จะปรากฏ"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "กำลังโหลดอุปกรณ์ที่เชื่อมต่อ"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "หน้าหลัก"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "การตั้งค่า"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "ชื่อผลิตภัณฑ์"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "การตั้งค่า"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "เวอร์ชัน"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "ดูบันทึกการเปลี่ยนแปลง"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "เปิดใช้งาน CORE โดยอัตโนมัติเมื่อเริ่มต้นพีซี"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "เปิดใช้งาน CORE ย่อเล็กสุดตามค่าเริ่มต้น"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "เคล็ดลับเครื่องมือ CORE"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "เปิดใช้งานการอัปเดตอัตโนมัติ"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "เปลี่ยนธีมสี"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "สแตนด์บายส่วนกลาง"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "ปิดหลังจากไม่มีการใช้งาน"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "ภาษา"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "การสนับสนุน"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "มีฟีเจอร์ที่คุณต้องการขอหรือไม่"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "โปรแกรมอรรถประโยชน์การจับคู่ Glorious"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "ขั้นตอนการจับคู่"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1. ถอดสายเมาส์และตัวรับสัญญาณ Glorious ทั้งหมด"
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2. เสียบเมาส์ที่คุณต้องการจับคู่ผ่านสาย USB เสียบตัวรับสัญญาณไร้สาย"
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3. เลือกเมาส์ที่กําลังจับคู่จากโปรแกรมอรรถประโยชน์ด้านล่าง"
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4. เมื่อทั้ง USB และตัวรับสัญญาณไร้สายเชื่อมต่อใหม่แล้ว ให้คลิกปุ่มจับคู่"
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "เมาส์"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "ตัวรับสัญญาณไร้สาย"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "เชื่อมต่อแล้ว"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "ยกเลิกการเชื่อมต่อแล้ว"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "เลือกเมาส์"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "ไม่เห็นเมาส์ของคุณในรายการใช่หรือไม่"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "กรุณาดูลิงก์ต่อไปนี้สําหรับการสนับสนุนอุปกรณ์แบบคลาสสิก: โปรแกรมอรรถประโยชน์การจับคู่แบบคลาสสิก"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "ยูทิลิตี้การจับคู่แบบคลาสสิก"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "My Device"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "เมาส์ของฉัน"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "คีย์บอร์ดของฉัน"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "นัมแพดของฉัน"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "แผ่นรองเมาส์ของฉัน"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "เคเบิลของฉัน"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "ชุดหูฟังของฉัน"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "แสงสว่างหน้าแรก"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "การผูกกุญแจ"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "หน้าหลักการเชื่อมโยงปุ่ม"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "มาโคร"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "ทางลัด"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "บ้าน"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "เฟิร์มแวร์"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "โปรไฟล์"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "ปัจจุบัน"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "อัปเดตพร้อมใช้งาน"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "กำลังอัปเดต..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "การอัพเดทล้มเหลว"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "ปิด RGB หลังจากไม่มีการใช้งาน"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "อัปเดตพร้อมใช้งาน"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "ประสิทธิภาพ"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "อัตราการสำรวจ"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "ความไวของโรตารี"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "เวลาแฝงอินพุต"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "รอ"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "การตั้งค่า"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "อัตราการสำรวจ"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "แยกโพลสำหรับแบบมีสาย/ไร้สาย"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "ระยะการยกเมาส์ออก"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "เวลาดีเด้ง"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "ซิงค์การเคลื่อนไหว"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "ตั้งค่าขั้นสูง"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "กด เวลา"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "ก่อนกด."
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "หลังจากกด"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "เวลาวางจำหน่าย"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "ก่อนปล่อย"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "หลังจากปล่อย"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "เวลากดยกออก"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "การจัดแสง"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "เอฟเฟกต์"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "แยกความสว่างแบบมีสาย/แบบไร้สาย"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "มีสาย"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "ความสว่าง"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "ไร้สาย ความสว่าง"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "RGB Gradient"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "อัตรา"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "เอฟเฟกต์ที่ตั้งไว้ล่วงหน้า"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "สไตล์สี"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "กำหนดเองต่อคีย์"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "ไม่มีเค้าโครงที่กำหนดเอง"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "การเลือกคีย์ด่วน"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "การหายใจ"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "ขั้นตอน DPI"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "ค่าเริ่มต้น"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "เลือกปุ่มเมาส์ด้านบนเพื่อดูตัวเลือกการผูกปุ่ม."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "การเชื่อมโยงปุ่ม"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "การเลื่อนเลเยอร์"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "ปุ่มเมาส์ต้องกําหนดเป็น Layer Shift บน \r\nเลเยอร์มาตรฐานในส่วน \"ฟังก์ชันเมาส์\" เพื่อเข้าถึง \r\nเลเยอร์ที่สองของฟังก์ชันการทํางาน"
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "การกดแป้นพิมพ์"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "ปุ่ม"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "ตัวขยาย"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "ฟังก์ชันแป้นพิมพ์"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "ฟังก์ชันเมาส์"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "มาโคร"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "การเลือก 'มาโครใหม่' จะเปิดโมดอล\r\nการสร้าง มาโคร ภายใน คุณสามารถเลือกประเภทของมาโครที่คุณต้องการ \r\nสร้าง ตั้งชื่อ และบันทึก และแก้ไขอินพุตของคุณ\r\n\r\nการบันทึกจากภายในโมดอลจะเพิ่มลงในรายการทางด้านซ้าย\r\n"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "ไม่มีการบันทึกมาโคร"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "ประเภทมาโคร"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "มัลติมีเดีย"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "ทางลัด"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "ปุ่มปิดใช้งาน"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "สไลเดอร์"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "โรตารีเอ็นโค้ดเดอร์"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "ปริมาณการสมัคร"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "แหล่งกำเนิดเสียง"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "เส้นทาง"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "การกระตุ้น"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "จุดสั่งงานแบบกำหนดเอง"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "ใช้แถบเลื่อนเพื่อกำหนดจุดที่จะเปิดใช้งานการกดปุ่มใดๆ."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "การเลือกปุ่มด้านล่างจะทำให้คุณสามารถแก้ไขจุดกระตุ้นการทำงานตามแต่ละคีย์ได้."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "แสดงการแสดงภาพ"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "คีย์ขั้นสูง"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "ยินดีต้อนรับสู่ RGB Sync"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "Glorious RGB Sync ช่วยให้สามารถซิงโครไนซ์ \r\nเอฟเฟกต์แสงระหว่างผลิตภัณฑ์ \r\nGlorious ของคุณเพื่อการปรับแต่ง RGB ที่มากขึ้นกว่าเดิม"
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "แสดงให้ฉันเห็นเพิ่มเติม"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "ข้ามการทัวร์ชม"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "ไม่ต้องแสดงให้ฉันเห็นอีก"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "การเลือกจากรายการที่อยู่ติดกันจะปรับใช้ \r\nเอฟเฟกต์แสงที่เกี่ยวข้องกับผลิตภัณฑ์ที่คุณ\r\nเชื่อมต่อ \r\n\r\nเอฟเฟกต์ที่แตกต่างกันมีพารามิเตอร์การปรับแต่งที่แตกต่างกัน\r\nใช้แท็บด้านบนเพื่อนําทางตัวเลือกสําหรับเอฟเฟกต์แสงที่คุณเลือก\r\n"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "เอฟเฟกต์แสง"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "คลื่น"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "โซนิค"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "ก้นหอย"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "วงกลม"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "คลื่นเชิงเส้น"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "กระเพื่อม"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "หายใจ"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "ฝน"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "ไฟ"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "ทริกเกอร์"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "การซิงค์เสียง"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "ลักษณะ"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "การเคลื่อนไหว"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "ความสว่าง"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "ปรับความสว่างของเอฟเฟกต์"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "อัตรา"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "ปรับความเร็วของเอฟเฟกต์"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "สไตล์สี"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "การไล่ระดับสี RGB"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "สีที่กําหนดเอง"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "ความทึบ"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "สี"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "ความเร็ว"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "แบนด์วิดท์"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "การไล่ระดับสี"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "มุม"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "ทิศทาง"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "กระแทก"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "เอฟเฟกต์เคลื่อนที่ไปในทิศทาง\r\nปกติและเด้งกลับ"
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "ช่องว่าง"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "ปรับระยะห่างระหว่างสี"
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "แบบสองทิศทาง"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "เอฟเฟกต์แสงเดียวกันสองแบบเคลื่อนที่ไปในทิศทาง\r\nตรงกันข้ามในเวลาเดียวกัน"
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "หมายเลข"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "ช่วงของเอฟเฟกต์"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "รัศมี"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "ปุ่มทั้งหมดภายในรัศมีจะสว่างขึ้น"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "แอมพลิจูด"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "เข้าสู่ระบบ"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "เข้าสู่ระบบไปยัง"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "ลงทะเบียน"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "ที่อยู่อีเมล"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "รหัสผ่าน"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "ลืมรหัสผ่าน"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "อย่าหงุดหงิด! ป้อนที่อยู่อีเมลที่เชื่อมต่อกับ \r\nบัญชีของคุณ แล้วเราจะส่งลิงก์\r\nเพื่อรีเซ็ตรหัสผ่านของคุณ"
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "สร้างรหัสผ่าน"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "สร้างรหัสผ่านใหม่"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "ยืนยันรหัสผ่าน"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "ยืนยันรหัสผ่านใหม่"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "ดำเนินการต่อเพื่อเข้าสู่ระบบ"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "ดำเนินการต่อ"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "รหัสผ่านตรงกัน"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "รหัสผ่านไม่ถูกต้อง"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "ยังไม่มีบัญชีใช่หรือไม่"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "มีบัญชีอยู่แล้วใช่หรือไม่"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "ลงชื่อเข้าใช้ที่นี่"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "หรือดําเนินการต่อด้วย"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "การลงทะเบียน SSO"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "กรุณาป้อนที่อยู่อีเมลที่ถูกต้อง"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "ส่ง"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "ส่งลิงก์ไปแล้ว"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "ไม่เห็นลิงก์ใช่หรือไม่ อาจใช้เวลาไม่เกิน 000m เพื่อให้\r\nปรากฏในกล่องจดหมายของคุณ"
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "ส่งลิงก์อื่น"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "ยินดีต้อนรับ"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "ยินดีต้อนรับกลับมา"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "เข้าสู่ระบบสําเร็จ"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "การลงทะเบียนสําเร็จ"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "การลงชื่อเข้าระบบครั้งเดียว"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "ลงชื่อเข้าใช้บัญชี Google/Meta ของคุณเพื่อเข้าถึง \r\nGlorious ID ของคุณ!"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "เชื่อมต่อบัญชีลูกค้า"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "เชื่อมต่อบัญชีลูกค้า \r\ngloriousgaming.com ของคุณกับ Glorious ID ของคุณเพื่อซิงค์ข้อมูล \r\nและใช้ประโยชน์จากฟีเจอร์และประโยชน์อย่างเต็มที่"
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "เชื่อมต่อ"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "ดําเนินการต่อโดยไม่ต้องเชื่อมโยง"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "คุณสามารถเชื่อมต่อบัญชีในภายหลังได้ตลอดเวลา"
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "ยืนยันภูมิภาคของคุณ"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "ข้อมูลนี้ถูกต้องหรือไม่"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "หากไม่ถูกต้อง ให้เลือกภูมิภาคที่ถูกต้องจากเมนูแบบเลื่อนลง\r\nก่อนดําเนินการต่อ"
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "เลือกภาษาของคุณ"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "ตรวจสอบ EULA / GDPR"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "ฉันยืนยันว่าฉันมีอายุมากกว่า 13 ปี"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "รีเซ็ตเป็นค่าเริ่มต้น"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "ซ่อนการนําทางด้านซ้าย"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "คำแนะนำผลิตภัณฑ์"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "การสนับสนุนผลิตภัณฑ์"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "เลือกประเภทมาโครที่คุณต้องการเพื่อเริ่มต้น \r\nคุณสามารถเปลี่ยนแปลงได้ทุกเมื่อ"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "ไม่ทำซ้ำ"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "มาโครไม่ทำซ้ำจะดําเนินการหนึ่งครั้งต่อการเปิดใช้งาน\r\nตําแหน่งที่กําหนด"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "สลับ"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "เมื่อเปิดใช้งาน มาโครสลับจะทํางานอย่างต่อเนื่อง\r\nจนกว่าจะเปิดใช้งานเป็นครั้งที่สอง"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "ทําซ้ำขณะกดค้าง"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "มาโครที่กําหนดจะทํางานอย่างต่อเนื่องตราบเท่าที่\r\nทริกเกอร์ที่กําหนดถูกกดค้างไว้"
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "การหน่วงเวลา"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "การหน่วงเวลาที่สอดคล้องกันระหว่างการกดแป้นพิมพ์ทั้งหมด \r\nตั้งค่าจาก 10ms เป็น 10000ms"
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "การหน่วงเวลาระหว่างการกดแป้นพิมพ์จะปรากฏถูกต้อง\r\nตามเวลาที่บันทึกไว้"
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "ตัวเลือกสี"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "สีที่ใช้งาน"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "แดง"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "เขียว"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "ฟ้า"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "สวอตช์"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "การเปลี่ยนแปลงที่ยังไม่ได้บันทึก"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "คุณมีการเปลี่ยนแปลงที่ยังไม่ได้บันทึกซึ่งจะ\r\nหายไป หากคุณเลือกที่จะออกตอนนี้ \r\n\r\nคุณต้องการดําเนินการต่อหรือไม่"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "ใช่ ละทิ้งการเปลี่ยนแปลง"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "ไม่ใช่ เดี๋ยวฉันกลับมา"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "กรุณาเชื่อมต่ออุปกรณ์ที่จําเป็นทั้งหมดผ่าน USB เพื่อทําการอัปเดตเฟิร์มแวร์นี้"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "ยกเลิก"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "ดำเนินการต่อ"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "กําลังดาวน์โหลด (ผลิตภัณฑ์)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "กำลังติดตั้งเฟิร์มแวร์สําหรับ (ผลิตภัณฑ์)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "อย่าถอดปลั๊กสายเคเบิล (เมาส์) และตัวรับสัญญาณของคุณ หรือรีสตาร์ทแอป!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "อย่าถอดสายเคเบิล (แป้นพิมพ์) หรือรีสตาร์ทแอป!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "การอัปเดตเฟิร์มแวร์ (ผลิตภัณฑ์) สําเร็จ"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "ปิด"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "การตรวจสอบการจับคู่อุปกรณ์ไร้สาย"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "การอัปเดตบางอย่างจะยกเลิกการจับคู่ตัวรับสัญญาณจากเมาส์"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "หากต้องการคืนค่าการเชื่อมต่อไร้สาย กรุณาจับคู่ตัวรับสัญญาณของคุณใหม่โดยใช้โปรแกรมอรรถประโยชน์การจับคู่"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "เพิกเฉย"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "เปิดโปรแกรมอรรถประโยชน์การจับคู่"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "การอัปเดตเฟิร์มแวร์ล้มเหลว"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "ตัวรับสัญญาณไร้สายของอุปกรณ์ดูเหมือนจะถูกตัดการเชื่อมต่อ"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "กรุณาตรวจสอบตัวรับสัญญาณไร้สายของคุณ แล้วลองอีกครั้ง"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "ดาวน์โหลดการอัปเดตล้มเหลว"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "ผู้จัดการเฟิร์มแวร์"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "มีเฟิร์มแวร์เวอร์ชันใหม่สำหรับอุปกรณ์เหล่านี้"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "อุปกรณ์อื่น ๆ"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "ดาวน์โหลดและติดตั้งเฟิร์มแวร์"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "ติดตั้งเฟิร์มแวร์"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "ยกเลิก"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "ทำความสะอาดเฟิร์มแวร์"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "โปรดตรวจสอบให้แน่ใจว่าได้เสียบปลั๊กทั้งเมาส์และตัวรับสัญญาณแล้ว."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "กำลังปรับใช้เฟิร์มแวร์ล่าสุด"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "กำลังดาวน์โหลดเฟิร์มแวร์"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "กำลังติดตั้งเฟิร์มแวร์"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "อย่าถอดสายเคเบิลและตัวรับสัญญาณ (เมาส์) หรือรีสตาร์ทแอป!"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "ตรวจพบเวอร์ชันใหม่"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "ดาวน์โหลดและติดตั้งหรือไม่"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "ดาวน์โหลด"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "ยกเลิก"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "กําลังดาวน์โหลด Glorious CORE"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "อัปเดตแอป"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "ตัวติดตั้งการอัปเดตได้เริ่มต้นขึ้นแล้ว"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "กำลังปิด..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "เพื่อเริ่มการจับคู่"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "Advanced Debounce Settings"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "กรุณาถอดปลั๊ก แล้วปิดเมาส์โดยใช้สวิตช์เปิด/ปิดที่ด้านล่าง"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "ขณะที่กดปุ่มลูกกลิ้งค้างไว้ ให้แตะเมาส์กับตัวรับสัญญาณ แล้วเปิดเครื่อง"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "กดปุ่มลูกกลิ้งค้างไว้ประมาณ 4 วินาทีจนกระทั่งไฟ LED กะพริบเป็นสีเขียว"
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "ตกลง"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "เพื่อจับคู่ต่อไป"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "การจับคู่สําเร็จ"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "ตอนนี้ คุณสามารถใช้เมาส์แบบไร้สายได้แล้ว"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "การจับคู่ล้มเหลว"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "การจับคู่ล้มเหลว"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "ตรวจสอบให้แน่ใจว่าคุณมีการเชื่อมต่ออินเทอร์เน็ตที่เสถียร ก่อนที่จะลองอีกครั้ง"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "เชื่อมต่อแล้ว"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "เชื่อมต่อแล้ว"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "เชื่อมต่อแล้ว"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "การเปลี่ยนแปลงที่ไม่ได้บันทึก"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "ตรวจสอบการอัปเดต"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "ใช้งานอยู่"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "ไม่ได้ใช้งาน"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "สถานะ"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "อัปเดตล่าสุด"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "อัตราการสำรวจ"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "เอฟเฟกต์แสง"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "เอฟเฟกต์แสง"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "โปรไฟล์แผ่นรองเมาส์"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "โปรไฟล์เมาส์"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "โปรไฟล์คีย์บอร์ด"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "ลงชื่อเข้าใช้"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "ลงทะเบียน"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "Glorious ID เพื่อเข้าถึงโปรไฟล์คลาวด์!"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "โปรไฟล์คลาวด์"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "โปรไฟล์คลาวด์"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "ตรวจสอบการอัปเดต"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "ขยายระยะเวลารับประกัน"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "หน้าเพจการสนับสนุน"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "ฟีเจอร์โหวตความคิดเห็น"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "จับคู่"
+    },
+    {
+        "key": "Button_Save",
+        "value": "บันทึก"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "เลิกทำ"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "การดำเนินการเพิ่มเติม"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "ตรวจสอบการอัปเดต"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "อัพเดตเฟิร์มแวร์"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "นําเข้า"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "ส่งออก"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "ขยาย"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "ลบสวอตช์"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "มาโครใหม่"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "แก้ไขมาโคร"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "นําเข้า"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "ส่งออก"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "เริ่มการบันทึก"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "หยุดการบันทึก"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "บันทึกมาโคร"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "เรียกดู"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "ยกเลิก"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "ตกลง"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "เปิดเผยการนำทางด้านซ้าย"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "ซ่อนการนำทางด้านซ้าย"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "คู่มือผลิตภัณฑ์"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "การสนับสนุนผลิตภัณฑ์"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "บน"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "ปิด"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "การไล่ระดับสี RGB"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "สีที่กำหนดเอง"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "ตั้งเวลา"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "ตามที่บันทึกไว้"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "เวลาแฝงอินพุต"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "เวลาแฝงอินพุต คือระยะเวลาที่ผ่านไประหว่างการส่งสัญญาณไฟฟ้าและการเกิดกระบวนการที่เกี่ยวข้อง"
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "โปรไฟล์"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "การส่งออกโปรไฟล์ทำให้คุณสามารถบันทึกการตั้งค่าแบบกำหนดเองได้ การนำเข้าโปรไฟล์จะทำให้คุณสามารถใช้การตั้งค่าที่กำหนดเองจากโปรไฟล์นั้นได้ คุณสามารถมีโปรไฟล์ใน CORE ได้สูงสุดสามโปรไฟล์ในคราวเดียว."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "อัตราการสำรวจ"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "Polling Rate คือความถี่ที่ระบบปฏิบัติการของคุณตรวจสอบอินพุต\r\nนี่คือปัจจัยในการกําหนดเวลาแฝงอินพุตสูงสุด\r\nของการกดปุ่ม Polling Rate ที่สูงใช้ทรัพยากร CPU\r\nมากกว่า Polling Rate ที่ต่ำกว่า"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "ความไวของโรตารี"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "ความไวของโรตารีควบคุมการเพิ่มการปรับระหว่างแต่ละขั้นตอน."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "ปิด"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "อุปกรณ์จะไม่เข้าสู่โหมดสแตนด์บายโดยไม่คำนึงถึงตัวจับเวลาสแตนด์บายทั่วโลก."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "สืบทอดทั่วโลก"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "Tอุปกรณ์ของเขาจะเป็นไปตามการตั้งค่าตัวจับเวลาสแตนด์บายทั่วโลก."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "เฉพาะอุปกรณ์"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "ตัวจับเวลาสแตนด์บายของอุปกรณ์จะไม่ขึ้นอยู่กับตัวจับเวลาสแตนด์บายทั่วโลก."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "ระยะการยกออก"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "ระยะการยกออกคือระยะห่างที่เซ็นเซอร์เมาส์ต้องอยู่ห่างจากแผ่นรองเมาส์หรือพื้นผิวจึงจะหยุดการติดตาม."
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "เวลาดีเด้ง"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "Debounce Time คือความล่าช้าในการตรวจจับการคลิก หลังจากการคลิกครั้งแรก"
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "ซิงค์การเคลื่อนไหว"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "- Motion Sync ช่วยเพิ่มประสิทธิภาพการติดตามเมาส์โดย\r\nการซิงโครไนซ์เซนเซอร์และกิจกรรม USB Polling"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "การตั้งค่า Debounce ขั้นสูง"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "เลือกตัวเลือกนี้เพื่อให้คุณสามารถระบุเพิ่มเติมได้ว่าตัวจับเวลา debounce ของคุณจะถูกทริกเกอร์เมื่อใดและที่ไหน ตัวเลือก debounce ทั้งหมดจะถูกนำไปใช้กับทุกปุ่มบนเมาส์."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "เปลี่ยนชื่อมาโครของคุณและเข้าถึงข้อมูลนี้ได้ตลอดเวลา."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "เข้าถึงเมนูการเลือกประเภทมาโคร."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "ใช้ปุ่มนี้เพื่อเริ่มและหยุดการบันทึกการกดมาโครชั่วคราว."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "การเลือกระหว่างตั้งเวลาหรือตามที่บันทึกไว้จะทำให้คุณสามารถตั้งค่าการหน่วงเวลาที่สอดคล้องกันระหว่างอินพุตโดยอัตโนมัติ หรือบันทึก/ปรับด้วยตนเอง."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "บันทึกมาโครของคุณ."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "ปรับการหน่วงเวลาดีเด้งทันทีที่คุณเริ่มกดหรือกดปุ่มเมาส์จนสุด."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "ปรับการหน่วงเวลาดีเด้งทันทีที่คุณเริ่มปล่อย หรือปล่อยปุ่มเมาส์จนสุดแล้ว."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "ปรับความล่าช้าในการเด้งกลับตามเวลาที่คุณยกขึ้น และวางเมาส์กลับลงบนพื้นผิว."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "สืบทอดทั่วโลก"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "เฉพาะอุปกรณ์"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "โหมดกลอเรียส"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "จังหวะการหายใจที่ราบรื่น"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "การหายใจ"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "สีเดียว"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "สีเดียวตามจังหวะการหายใจ"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "หาง"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "กะพริบถี่"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "คลื่น"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "ปิดไฟ LED"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "คลื่น #1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "คลื่น #2"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "คลื่นเกลียว"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "โหมดกรด"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "เปิดตามปกติ"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "ริพเพิลกาฟฟ์"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "ผ่านอย่างไร้ร่องรอย"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "วิ่งเร็วอย่างไร้ร่องรอย"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "เมตริกซ์ 2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "เมตริกซ์ 3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "สายรุ้ง"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "เซนเซอร์จับการเต้นของหัวใจ"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "เวลาดิจิทัล"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "คาเมฮาเมฮา"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "ปิงปอง"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "เซอร์เมาน์ต"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "OG RGB"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "RGB สายรุ้ง"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "ส้มโอสีชมพู"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "เนบิวลา"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "พาสเทล"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "เซเลสเชียลไฟร์"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "เซเลสเชียลไอซ์"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "คาเมเลียน"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "ทองคำกลอเรียส"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "เรฟ"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "คิตต์"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "การผูกกุญแจ"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "มาตรฐาน"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "เลเยอร์ฟังก์ชัน"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "เลเยอร์ Alt"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "ฟังก์ชั่น + เลเยอร์ Alt"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "การเลื่อนเลเยอร์"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "เอฟเฟกต์ที่ตั้งไว้ล่วงหน้า"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "กำหนดเองต่อคีย์"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "ตัวเลข"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "ไฟด้านข้าง"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "ตัวดัดแปลง"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "เอฟคีย์"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "ลูกศร"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "ทั้งหมด"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "การกดแป้นพิมพ์"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "ฟังก์ชันคีย์บอร์ด"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "ฟังก์ชันเมาส์"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "DPI"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "มาโคร"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "มัลติมีเดีย"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "ทางลัด"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "ปิดใช้งาน"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "สลับเสียง"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "การควบคุมเสียง"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "โปรไฟล์ Cycle Up"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "โปรไฟล์ Cycle Down"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "เลเยอร์ Cycle Up"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "เลเยอร์ Cycle Down"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "คลิกซ้าย"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "คลิกขวา"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "คลิกเลื่อน"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "ไปข้างหน้า"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "ย้อนกลับ"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "เลื่อนขึ้น"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "เลื่อนลง"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "โปรไฟล์วนรอบขึ้น"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "โปรไฟล์วนรอบลง"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "การย้ายเลเยอร์"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "ขั้น DPI ขึ้น"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "ระดับ DPI ลดลง"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "วงจร DPI ขึ้น"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "Dวงจร PI ลง"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "ล็อก DPI"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "เปิดเครื่องเล่นสื่อ"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "เล่น/หยุดชั่วคราว"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "แทร็กต่อไป"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "แทร็กก่อนหน้า"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "หยุด"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "ปิดเสียง"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "เพิ่มระดับเสียง"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "ลดระดับเสียง"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "แทร็กถัดไป"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "แทร็กก่อนหน้า"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "เปิดใช้งานโปรแกรม"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "เปิดใช้งานเว็บไซต์"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "ฟังก์ชัน Windows"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "อีเมล"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "เครื่องคิดเลข"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "พีซีของฉัน"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "Explorer"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "โฮมเพจ"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "รีเฟรช"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "หยุด"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "ย้อนกลับ"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "ไปข้างหน้า"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "การค้นหา"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "คีย์ Windows"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "ไม่มีการทำซ้ำ"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "เลือกโหมด"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "สลับ"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "ทำซ้ำในขณะที่ถือ"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "ลูกบิดดัน"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "การหมุนลูกบิด"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "สืบทอดทั่วโลก"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "เฉพาะอุปกรณ์"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "ป้อน URL ของโปรแกรม"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "Enter URL"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "หน้าหลัก"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "กำหนดแล้ว"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "Macro Info"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "สาย USB"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "ยินดีต้อนรับสู่GLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "ปลดล็อกสิทธิประโยชน์ของการเข้าถึงที่ราบรื่นและประสบการณ์ส่วนตัวเมื่อคุณลงทะเบียน Glorious ID ปรับปรุงการโต้ตอบของคุณด้วย CORE 2.0 ด้วยคุณสมบัติพิเศษที่รวมถึง:"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "บันทึกและซิงค์โปรไฟล์ที่ไม่ซ้ำกันได้มากถึง 25 โปรไฟล์ไปยังระบบคลาวด์"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "เข้าถึงโปรไฟล์คลาวด์ของคุณจากอุปกรณ์ใด ๆ ที่ติดตั้ง CORE 2.0"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "จัดการและแบ่งปันโปรไฟล์ที่คุณสร้างได้อย่างง่ายดาย"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "เข้าสู่ระบบ"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "ลงทะเบียน"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "ยินดีต้อนรับสู่ Glorious ID! การสร้างบัญชีช่วยให้คุณเข้าถึงประสบการณ์ส่วนตัวของคุณได้!"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "อัปเดตข้อมูลบัญชี"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "ออกจากระบบ"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "โปรไฟล์คลาวด์อันรุ่งโรจน์"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "บัญชี สสส"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "เชื่อมต่อบัญชีลูกค้า gloriousgaming.com ของคุณ..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "เชื่อมต่อแล้ว"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "ไม่ได้เชื่อมต่อ"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "เชื่อมต่อ"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "ดำเนินการ"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "ปิดตัวลง"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "ดาวน์โหลด"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "อัปเดตอุปกรณ์"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "อัพเดตตัวรับ"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "ตัวจัดการอัปเดต"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "Ok"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "อุปกรณ์ที่ไฮไลต์ในรายการอุปกรณ์มีการอัปเดตเฟิร์มแวร์ให้ใช้งานได้!"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "เลือกอุปกรณ์ที่คุณต้องการอัปเดต:"
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "ไม่มีอุปกรณ์ที่พร้อมใช้งาน"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "คำเตือน"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "อุปกรณ์ที่เลือกไว้สำหรับการอัปเดตบางตัวไม่ได้เสียบทั้งตัวรับสัญญาณเคเบิลและไร้สาย คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "ไม่พบอุปกรณ์."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "เกิดข้อผิดพลาดในการโหลดอุปกรณ์ที่เลือก."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "โปรไฟล์ 1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "โปรไฟล์ 2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "โปรไฟล์ 3"
+    }
+]

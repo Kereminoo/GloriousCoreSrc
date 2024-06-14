@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "נא לחבר את מוצרי ה- Glorious שלך"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "ייתכן והמכשירים יופיעו לאחר מספר שניות"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "טעינת התקנים מחוברים"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "לדף הבית"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "הגדרות"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "שמות המוצרים"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "הגדרות"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "גרסה"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "צפה ב- Changelog"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "הפעל CORE באופן אוטומטי עם הפעלת המחשב"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "הפעל CORE מוקטן כברירת מחדל"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "טיפים לשימוש ב- CORE"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "אפשר עדכונים אוטומטיים"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "שנה את הגדרות הצבע"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "עמדת המתנה גלובלית"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "כבה לאחר חוסר פעילות"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "שפה"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "תמיכה"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "האם יש מאפיין שברצונך לבקש?"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "כלי זיווג מפואר"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "שלבי החיבור"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1. נתק את כל חוטי העכבר והמקלטים של Glorious."
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2. חבר את העכבר שברצונך לצוות לכבל ה- USB. חבר את המקלט האלחוטי."
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3. בחר את העכבר שיחובר מתוך האפשרויות למטה."
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4. כאשר ה- USB והמקלט האלחוטי מחוברים מחדש, לחץ על מקש ה- PAIR."
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "עכבר"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "מקלט אלחוטי"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "מחובר"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "מנותק"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "בחר עכבר"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "העבר שלך אינו מופיע ברשימה?"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "נא לעיין בקישור הבא לתמיכה במכשירים קלאסיים: תוכנית לחיבור קלאסי"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "כלי שירות זיווג קלאסי."
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "המכשיר שלי"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "העכבר שלי"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "המקלדת שלי"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "המספר שלי"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "משטח העכבר שלי"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "הכבל שלי"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "האוזניות שלי"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "בית תאורה"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "כריכת מפתחות"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "לבית מקשי קישור"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "מאקרו"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "קיצורי דרך"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "בית"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "קשחה"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "פרופילים"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "עדכני"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "עדכון זמין"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "עִדכּוּן..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "עדכון נכשל"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "כבה RGB לאחר חוסר פעילות"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "עדכון זמין"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "ביצוע"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "קצב דגימה"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "רגישות סיבובית"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "זמן אחזור קלט"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "המתנה"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "הגדרות"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "שיעור הסקרים"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "סקר נפרד עבור קווי/אלחוטי"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "מרחק המראה"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "זמן debounce"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "סינכרוניזציה של תנועה"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "הגדרות מתקדמות"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "זמן הקש"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "לפני לחיצה"
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "אחרי לחיצה"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "זמן שחרור"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "לפני השחרור"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "אחרי השחרור"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "זמן לחיצת הרמה"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "תאורה"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "אפקט"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "בהירות קווית/אלחוטית נפרדת"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "חוטי"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "בהירות"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "בהירות אלחוטית"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "RGB Gradient"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "שיעור"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "אפקטים מוגדרים מראש"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "סגנון צבע"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "התאמה לפי מקש"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "ללא פריסות מותאמות אישית"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "בחירת מפתח מהירה"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "נְשִׁימָה"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "שלבי DPI"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "ברירת מחדל"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "בחר בלחצן עכבר למעלה כדי לראות את אפשרויות כריכת המקשים שלו."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "מקשי קישור"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "תזוזת שכבות"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "יש להקצות לחצן עכבר כתזוזת שכבות \r\nבשכבה הסטנדרטית של \"פעולת העכבר\" כדי לגשת \r\nלשכבה השנייה של הפונקציונליות."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "הקשה על מקש"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "מקש"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "מגדיר"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "פעולת המקלדת"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "פעולת העכבר"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "מקרו"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "בחירת \"מקרו חדש\" יפתח את מודל יצירת המקרו\r\n, בתוכו תוכל לבחור את סוג המקרו שברצונך \r\nליצור, לקבוע עבורו שם, להקליט ולערוך את השינויים שלך.\r\n\r\n שמירה מתוך המודל יוסיף אותו לרשימה מצד \r\nשמאל."
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "אין מקרו שמור"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "Macro Type"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "מולטימדיה"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "קיצורי דרך"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "לחצן השתק"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "מחוון"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "מקודד סיבובי"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "נפח יישומים"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "מקור שמע"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "נָתִיב"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "הפעלה"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "נקודת הפעלה מותאמת אישית"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "השתמש במחוון כדי להגדיר את הנקודה שבה כל לחיצה על מקש תופעל."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "בחירה בכפתור למטה תאפשר לך לערוך את נקודת ההפעלה על בסיס של מפתח."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "הצג ויזואליזציה"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "מפתחות מתקדמים"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "ברוכים הבאים ל- RGB Sync"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "Glorious RGB Sync מאפשר את הסנכרון \r\nשל אפקטי תאורה בין מוצרי ה- Glorious שלך\r\n לקבלת התאמת RGB טובה יותר מאי פעם."
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "הראה לי את השטח"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "דלג על הסיור"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "אל תציג זאת שוב"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "בחירה מתוך הרשימה הסמוכה תפעיל את \r\nאפקט התאורה המתאימה למוצר\r\nשבחרת. \r\n\r\nלאפקטים שונים יש פרמטרים שונים להתאמה אישית\r\nהשתמש בטאבים לעיל כדי לנווט לאופציות של \r\n אפקט התאורה הנבחר שלך."
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "אפקט תאורה"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "גל"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "קולי"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "ספירלי"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "מעגל"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "גל ליניארי"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "אפקטי גלי"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "נשימתי"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "גשם"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "אש"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "טריגר"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "סנכרון קולי"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "תצוגה"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "תנועה"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "בהירות"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "התאם את בהירות האפקט"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "שיעור"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "התאם את מהירות האפקט"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "תצורת צבע"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "RGB מדורג"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "צבע מותאם אישית"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "עמימות"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "צבע"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "מהירות"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "רוחב פס"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "הדרגתי"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "זווית"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "כיוון"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "בליטה"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "האפקט נע בכיוון נורמלי \r\nוקופץ חזרה."
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "רווח"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "התאם רווח בין הצבעים."
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "דו-כיווני"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "שני אפקטי תאורה זהים נעים\r\nבכיוונים הפוכים באותו הזמן."
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "מספר"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "טווח האפקט"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "רדיוס"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "כל המקשים בתוך הרדיוס מוארים"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "אמפליטודה"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "כניסה למערכת"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "כניסה למערכת"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "הרשם"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "כתובת דואר אלקטרוני"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "ססמה"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "שכחתי ססמה"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "לא להילחץ! רשום את כתובת הדואר האלקטרוני שלך הקשור \r\n לחשבונך ונשלח לך קישור\r\nלחידוש הססמה."
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "צור ססמה"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "צור ססמה חדשה"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "אשר ססמה"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "אשר ססמה חדשה"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "המשך לכניסה למערכת"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "המשך"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "התאמת ססמאות"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "ססמה לא נכונה"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "אין לך חשבון?"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "כבר יש לך חשבון?"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "הירשם כאן"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "או המשך עם"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "רישום SSO"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "נא הכנס כתובת דואר אלקטרוני תקף"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "שלח"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "הקישור נשלח"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "אינך רואה קישור? ייתכן וייקח עד 000 דקות \r\nעד להופעת הקישור בדואר הנכנס שלך."
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "שלח קישור נוסף"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "ברוכים הבאים"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "ברוכים השבים"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "כניסה מוצלחת"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "רישום מוצלח"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "רישום בודד"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "היכנס לחשבון גוגל/מטא שלך כדי לגשת \r\nלחשבון ה- Glorious ID שלך!"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "חבר חשבון לקוח"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "חבר את חשבון לקוח ה- gloriousgaming.com \r\n שלך ל-Glorious ID שלך כדי לסנכרן מידע\r\n ולהנות ממגוון המאפיינים והיתרונות."
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "חבר"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "המשך ללא חיבור החשבון"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "תמיד תוכל לחבר את החשבון במועד מאוחר יותר."
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "אשר את האזור שלך"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "האם זה נראה נכון?"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "אם לא, בחר את האזור הנכון מתוך התפריט הנשלף\r\nלפני שתמשיך."
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "בחר שפה"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "סקור את EULA / GDPR"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "אני מאשר שאני מעל גיל 13"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "איפוס לברירת מחדל"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "הסתר ניווט שמאלי"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "הנחיות מוצר"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "תמיכת מוצר"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "בחר את סוג המקרו הרצוי כדי להתחיל. \r\nניתן לשנות אותו בכל עת."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "אין חזרה"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "מקרו אין חזרה מבצע פעולת הפעלה אחת\r\nבמקום שבו הוקצה."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "החלפה בין מצבים"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "עם ההפעלה, מקרו ההחלפה ממשיך לפעול ללא הפסקה \r\nעד להפעלה נוספת."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "חזור בזמן לחיצה"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "המקרו המוקצה ימשיך לפעול ללא הפסקה כל עוד \r\n לוחצים על הלחצן המיועד."
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "השהייה"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "עיכוב קבוע בין הקשה על כל המקשים. \r\nקבע ערך מ- 10ms ל- 10000ms."
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "ההשהיה בין הקשת מקשים תיראה מדויקת \r\nלפי זמן ההקלטה."
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "בחירת צבע"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "צבע פעיל"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "אדום"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "ירוק"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "כחול"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "החלפות"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "שינויים לא שמורים"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "יש לך שינויים לא שמורים \r\nשיאבדו אם תצא עכשיו מהמערכת. \r\n\r\nהאם ברצונך להמשיך?"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "כן, מחק שינויים"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "לא, ברצוני לחזור"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "נא לחבר את כל המכשירים הדרושים באמצעות USB לפני ביצוע עדכון הקשחה."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "בטל"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "המשך"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "הורדת (מוצר)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "התקנת קשחה עבור (המוצר)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "אין לנתק את הכבל והמקלט (העכבר) או להפעיל מחדש את האפליקציה!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "אל תנתק את כבל (המקלדת) ואל תאתחל את האפליקציה!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "(מוצר) קשחה עודכן בהצלחה"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "סגור"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "אישור חיבור מכשירים אלחוטיים"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "ייתכן וחלק מהעדכונים ינתקו את החיבור בין המקלט לעכבר."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "כדי לשחזר את החיבור האלחוטי, נא לחבר מחדש את המקלט שלך באמצעות כלי החיבור."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "התעלם"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "פתח כלי החיבור"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "עדכון קשחה נכשל"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "נראה שהמקלט האלחוטי של המכשיר מנותק."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "נא לבדוק את המקלט האלחוטי ונסה שוב."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "הורדת עדכון נכשלה"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "מנהל קושחה"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "גרסת קושחה חדשה זמינה עבור מכשירים אלה"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "מכשירים אחרים"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "הורד והתקן קושחה"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "התקן קושחה"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "לְבַטֵל"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "נקה קושחה"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "אנא ודא שגם העכבר וגם המקלט שלך מחוברים לחשמל."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "יישום קשחה עדכנית"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "הורדת קשחה"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "התקנת קשחה"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "אל תנתק את כבל (העכבר) או הקולט, ואל תאתחל את האפליקציה!"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "יש גרסה חדשה"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "הורד והתקן?"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "הורד"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "בטל"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "הורדת Glorious CORE"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "עדכון אפליקציה"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "מתקין העדכון החל"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "סגירה..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "להתחלת החיבור"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "הגדרות מתקדמות של ביטול יציאה"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "נא לנתק ולאחר מכן לכבות את העכבר באמצעות מתג ההפעלה/הכיבוי בתחתית."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "גע עם העכבר במקלט והפעל אותו תוך כדי לחיצה ממושכת על לחצן גלגל הגלילה."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "המשך להחזיק את לחצן גלגל הגלילה למשך כ-4 שניות עד שנוריות הלד יהבהבו בירוק."
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "אישור"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "להמשך החיבור"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "חיבור מוצלח"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "כעת תוכל להשתמש בעכבר האלחוטי שלך."
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "החיבור לא הצליח"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "החיבור לא הצליח"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "וודא כי יש לך חיבור יציב לאינטרנט לפני ניסיון נוסף."
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "מְחוּבָּר"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "מְחוּבָּר"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "מְחוּבָּר"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "שינויים שלא נשמרו"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "בדיקה לקיום עדכון"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "פעיל"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "לא פעיל "
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "סטטוס"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "עודכן לאחרונה"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "קצב דגימה"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "סנכרון תנועה"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "אפקט תאורה"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "פרופילי משטח עכבר"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "פרופיל עכבר"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "פרופיל מקלדת"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "להתחבר"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "הירשם"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "לזיהוי Glorious ID כדי להגיע לפרופילים בענן!"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "פרופילי ענן"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "פרופילי ענן"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "בדוק לעדכונים"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "אחריות מורחבת"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "דף בית תמיכה"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "מאפיין UPVOTE"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "חיבור"
+    },
+    {
+        "key": "Button_Save",
+        "value": "שמירה"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "בטל פעולה"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "פעולות נוספות"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "בדיקה לקיום עדכון"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "עדכון קושחה"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "ייבוא"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "ייצוא"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "הרחבה"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "מחק החלפה"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "מקרו חדש"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "ערוך מקרו"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "ייבוא"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "ייצוא"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "התחל הקלטה"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "הפסק הקלטה"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "שמור מקרו"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "דפדף"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "לְבַטֵל"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "בסדר"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "חשוף ניווט שמאלי"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "הסתר ניווט שמאלה"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "מדריך מוצר"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "תמיכת מוצר"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "עַל"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "כבוי"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "RGB מדורג"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "צבע מותאם אישית"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "קביעת זמן"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "כפי שהוקלט"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "זמן אחזור קלט"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "קצב אחזור קלט הוא הזמן שעובר בין שליחת אות אלקטרוני והביצוע של פעולה בעקבותיה."
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "פרופילים"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "ייצוא פרופיל מאפשר לך לשמור הגדרות מותאמות אישית. ייבוא ​​פרופיל יאפשר לך להחיל הגדרות מותאמות אישית מאותו פרופיל. אתה יכול להחזיק עד שלושה פרופילים ב-CORE בו-זמנית."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "קצב דגימה"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "טיפים לשימוש בכלים - שיעור הסקרים היא התכיפות שבה אתה מבצע בדיקות OS לתשומה. \r\nזהו גורם בקביעת רמת השהיית התשומה המקסימלית\r\nשל לחיצות מפתח. שיעור סקרים גבוה דורש משאבי CPU רבים יותר\r\nמאשר שיעור סקרים נמוך יותר."
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "רגישות סיבובית"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "רגישות סיבובית שולטת בקצב ההתאמה בין כל שלב."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "כבוי"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "המכשיר לא יעבור למצב המתנה ללא קשר לטיימר ההמתנה העולמי."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "ירושה גלובלית"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "המכשיר יעמוד בהגדרת טיימר ההמתנה העולמית."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "התקן ספציפי"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "טיימר ההמתנה של המכשיר יהיה בלתי תלוי בטיימר ההמתנה העולמי."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "מרחק המראה"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "טיפ לשימוש בכלים - זמן debounce הוא עיכוב בזיהוי קליקים לאחר \r\nהקליק הראשון."
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "זמן התנתקות"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "זמן התנתקות הוא העיכוב בזיהוי קליקים לאחר הקליק הראשוני."
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "סנכרון תנועה"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "סינכרוניזציה של תנועה מייעלת את ניתוב העכבר באמצעות \r\nסנכרון של החיישן ואירועי סקירת USB."
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "הגדרות מתקדמות של ביטול יציאה"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "בחר באפשרות זו כדי שתוכל לציין עוד יותר מתי והיכן מופעלים טיימרים לביטול היציאה שלך. כל אפשרויות היציאה מהיציאה מיושמות על כל הכפתורים בעכבר."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "שנה את שם המאקרו שלך וגישה למידע זה בכל עת."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "גש לתפריט בחירת סוג המאקרו."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "השתמש בלחצן זה כדי להתחיל ולהשהות את הקלטת הקשות המאקרו."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "הבחירה בין הגדר זמן או כפי שהוקלט מאפשרת לך להגדיר אוטומטית השהיה עקבית בין כניסות, או להקליט/להתאים באופן ידני."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "שמור את המאקרו שלך."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "כוונן את עיכוב היציאה ליציאה לרגע המדויק שבו אתה מתחיל ללחוץ או ללחוץ במלואו על לחצן העכבר."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "התאם את עיכוב היציאה מהדיפה ברגע המדויק שאתה מתחיל לשחרר, או שחרור מלא של כפתור העכבר."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "התאם את עיכוב היציאה ליציאה לרגע המדויק שהרמת והנחת את העכבר בחזרה על פני השטח."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "ירושה גלובלית"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "התקן ספציפי"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "מצב Glorious"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "נשימה חלקה"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "נשימה"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "צבע אחד"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "נשימת צבע יחיד"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "זנב"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "רייב"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "גל"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "לד כבוי"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "גל מס' 1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "גל מס' 2"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "גל מסתלסל"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "מצב אסיד"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "פעיל בדרך כלל"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "גרף אדווה"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "מעבר ללא עקבות"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "ריצה מהירה ללא עקבות"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "מטריצה 2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "מטריצה 3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "קשת בענן"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "חיישן פעימות לב"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "זמנים דיגיטליים"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "קמהאמהה"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "פינג פונג"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "התגברות"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "OG RGB"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "קשת RGB"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "אשכולית ורודה"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "ערפילית"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "פַּסטֵל"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "אש שמימית"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "קרח שמימי"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "זיקית"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "זהב Glorious"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "רייב"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "קיט"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "כריכת מפתחות"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "סטנדרטי"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "שכבת פונקציה"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "שכבה חלופית"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "פונקציה + שכבה Alt"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "הסטת שכבות"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "אפקטים מוגדרים מראש"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "מותאם אישית לכל מפתח"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "מספרים"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "אורות צד"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "משנה"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "מפתחות F"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "חצים"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "את כל"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "הקשה"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "פונקציית מקלדת"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "פעולת עכבר"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "DPI"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "מקרו"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "מולטימדיה"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "קיצורים"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "נטרול"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "מתג אודיו"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "בקרת סאונד"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "הפעל פרופיל כלפי מעלה"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "הפעל פרופיל כלפי מטה"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "הפעל שלב כלפי מעלה"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "הפעל שלב כלפי מטה"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "לחצן שמאלה"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "לחצן ימינה"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "לחצן גלילה"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "קדימה"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "אחורה"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "גלול מעלה"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "גלילה למטה"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "מחזור פרופיל למעלה"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "מחזור פרופיל למטה"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "הסטת שכבה"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "DPI Stage Up"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "DPI Stage Down"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "הפעל DPI כלפי מעלה"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "הפעל DPI כלפי מטה"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "נעל DPI"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "פתח נגן מדיה"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "הפעל/הפסק"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "מסלול הבא"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "מסלול קודם"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "עצור"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "לְהַשְׁתִיק"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "הגבר קול"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "הנמך קול"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "ערוץ הבא"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "הערוץ הקודם"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "הפעל תוכנה"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "הפעל אתר"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "פעולת חלונות"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "דואר אלקטרוני"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "מחשבון"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "המחשב שלי"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "מגלה ארצות"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "דף הבית"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "רענן"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "עצור"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "אחורה"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "קדימה"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "חפש"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "מפתח Windows"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "אין חזרה"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "בחר מצב"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "לְמַתֵג"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "חזור תוך כדי החזקה"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "דחיפת כפתור"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "סיבוב כפתור"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "ירושה גלובלית"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "התקן ספציפי"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "הפעל כתובת האתר של התוכנית"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "הזן כתובת אתר"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "לדף הבית"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "מיועד"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "מידע מאקרו"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "כבל USB"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "ברוך הבא לGLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "גלה את היתרונות של גישה חלקה וחוויה מותאמת אישית כשאתה נרשם ל- Glorious ID. ייעל את האינטראקציה שלך עם CORE 2.0 עם תכונות בלעדיות הכוללות:"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "שמור וסנכרן עד 25 פרופילים ייחודיים לענן."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "גש לפרופילי הענן שלך מכל מכשיר עם CORE 2.0 מותקן."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "נהל ושתף את הפרופילים שאתה יוצר בקלות."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "כניסה"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "הרשמ"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "ברוכים הבאים ל- Glorious ID! יצירת חשבון מאפשרת לך לגשת לחוויה המותאמת אישית שלך!"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "עדכון פרטי חשבון"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "להתנתק"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "פרופילי ענן מפוארים"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "SSO חֶשְׁבּוֹן"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "חבר את חשבון הלקוחות שלך gloriousgaming.com..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "מְחוּבָּר"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "לא מחובר"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "לְחַבֵּר"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "לבצע"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "לכבות"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "הורד"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "עדכון מכשיר"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "עדכון מקלט"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "מנהל עדכונים"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "Ok"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "להתקנים המוגדשים ברשימת ההתקנים יש עדכוני קושחה זמינים!"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "יש לבחור את ההתקנים שברצונכם לעדכן:"
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "אין מכשירים זמינים"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "אַזהָרָה"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "לחלק מהמכשירים שנבחרו לעדכונים אין גם כבל וגם מקלט אלחוטי מחוברים. האם אתה בטוח שברצונך להמשיך?"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "מכשיר לא נמצא."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "אירעה שגיאה בטעינת המכשיר שנבחר."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "פרופיל 1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "פרופיל 2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "פרופיל 3"
+    }
+]

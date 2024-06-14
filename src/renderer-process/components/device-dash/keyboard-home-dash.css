@@ -1,0 +1,216 @@
+.keyboard-dash {
+    position: absolute;
+    width: 100%;
+    padding: 20px 20px 0;
+}
+
+.keyboard-dash .panel.main {
+    background-color: var(--management-background-color);
+    padding: var(--management-padding);
+    overflow: hidden;
+    height: 136px;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+
+.keyboard-dash .panel.main .background
+{
+    grid-column: 1;
+    grid-row: 1;
+    z-index: 0;
+    translate: 74px -64px;
+    justify-self: flex-end;
+    opacity: .25;
+    pointer-events: none;
+}
+
+.keyboard-dash .panel.main .content
+{
+    grid-column: 1;
+    grid-row: 1;
+
+    display: grid;
+    gap: 1ch;
+    grid-template-columns: auto 1fr auto;
+    grid-template-rows: max-content max-content max-content;
+    isolation: isolate;
+}
+
+.keyboard-dash .profile-tile
+{
+    width: 240px;
+    font-size: 12px;
+    grid-row: 2;
+    padding: 0 !important;
+}
+.keyboard-dash .profile-tile .profile-name
+{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+}
+.keyboard-dash .profile-tile .status
+{
+    display: flex;
+    align-items: center;
+    color: var(--green-dark-60);
+    border-left: solid 1px var(--base-shades-70);
+    padding: 5px 10px;
+}
+
+.keyboard-dash .device-name h2 {
+    margin: 0;
+}
+
+.keyboard-dash .firmware {
+    grid-column: 3;
+    grid-row: 2;
+}
+
+.keyboard-dash .device-states {
+    grid-column: 3;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.keyboard-dash .connection-state {
+    gap: 10px;
+}
+.keyboard-dash .battery-state {
+    gap: 8px;
+}
+
+.keyboard-dash .connection-state, .keyboard-dash .battery-state {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+}
+
+.keyboard-dash .unsaved-changes {
+    display: flex;
+    grid-row: 3;
+}
+
+.keyboard-dash .unsaved-changes span {
+    color: var(--glorange-60);
+    font-size: 10px;
+}
+
+
+.keyboard-dash .layer-selection
+{
+    --layers-width: 88px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1C1C1C;
+    font-size: 10px;
+    border-radius: 4px;
+    padding: 12px 30px;
+    width: var(--layers-width);
+    overflow: hidden;
+    margin: 5px var(--layers-right-margin) 0 auto;
+    transition: margin ease-out 200ms;
+}
+.keyboard-dash .layer-selection .icon.top
+{
+    height: 25px;
+    width: 47px;
+}
+.keyboard-dash .layer-selection .icon.center
+{
+    height: 17px;
+    width: 47px;
+}
+.keyboard-dash .layer-selection .icon.bottom
+{
+    height: 17px;
+    width: 47px;
+}
+.keyboard-dash .layer-selection .icon.active
+{
+  background-image: var(--icon-active);
+}
+.keyboard-dash .layer-selection .icon:hover
+{
+  background-image: var(--icon-active, var(--icon-selected, var(--icon-default)));
+}
+
+.keyboard-dash .layer-selection .label
+{
+    display: flex;
+    align-items: center;
+    gap: 1ch;
+    margin-top: 5px;
+}
+
+
+/* .keyboard-dash .device-colors
+{
+    --device-colors-width: 80px;
+    --device-colors-right-margin: 0;
+
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(4, 10px);
+    grid-template-rows: repeat(auto-fill, 10px);
+    gap: 5px;
+    align-items: center;
+    background-color: #1C1C1C;
+    font-size: 10px;
+    border-radius: 4px;
+    padding: 12px 10px;
+    width: var(--device-colors-width);
+    overflow: hidden;
+    margin: 5px var(--device-colors-right-margin) 0 5px;
+    transition: margin ease-out 200ms;
+}
+.keyboard-dash .device-colors .color
+{
+    box-sizing: border-box;
+    border: solid 1px #f5f5f5;
+    border-radius: 2px;
+    width: 10px;
+    height: 10px;
+} */
+.keyboard-dash .device-colors
+{
+    grid-column: 3;
+    grid-row: 1;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: repeat(4, auto);
+    gap: 3px;
+}
+.keyboard-dash .device-colors .color
+{
+    box-sizing: border-box;
+    border: solid 1px var(--base-shades-20);
+    border-radius: 3px;
+    width: 24px;
+    height: 24px;
+}
+.keyboard-dash .device-colors .color.current-animation
+{
+    border-color: var(--brand-color-1);
+}
+.keyboard-dash .device-colors .color.current-selecting
+{
+    border-color: blue;
+}
+
+.keyboard-dash .device-colors .label
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1ch;
+    grid-column: 1 / 5;
+    text-align: center;
+}

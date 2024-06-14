@@ -1,0 +1,199 @@
+[data-color-picker]
+{
+    --picker-size: 100px;
+    --swatch-size: 20px;
+    --hue-picker-thickness: 20px;
+
+    display: grid;
+    gap: 5px;
+    grid-template-areas: 'active-color swatches'
+    'saturation-lightness swatches'
+    'hue hue';
+    grid-template-columns: var(--picker-size) auto;
+    grid-template-rows: auto var(--picker-size) var(--hue-picker-thickness);
+
+}
+[data-color-picker].expanded
+{
+    --picker-size: 150px;
+    --hue-picker-thickness: 20px;
+    grid-template-columns: 150px auto;
+    grid-template-rows: auto 150px 20px;
+}
+
+[data-color-picker] .active-color .field
+{
+    flex-direction: row;
+    gap: 5px;
+}
+
+[data-color-picker] .active-color .field input
+{
+    background-color: transparent;
+    border: solid 1px white;
+    border-radius: 2px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: normal;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+[data-color-picker].expanded .active-color .field input
+{
+    width: 80px;
+}
+
+[data-color-picker] .active-color .hex .color-preview
+{
+    width: var(--swatch-size);
+    height: var(--swatch-size);
+}
+
+[data-color-picker] .active-color .field.hex input
+{
+    flex: 1;
+    height: 20px;
+    width: calc(var(--picker-size) - var(--swatch-size) - 10px);
+    color: white;
+}
+
+[data-color-picker] .active-color .integer-values
+{
+    display: none;
+}
+[data-color-picker].expanded .active-color .integer-values
+{
+    display: grid;
+}
+
+[data-color-picker] .active-color > header
+{
+    display: none;
+}
+[data-color-picker].expanded .active-color > header
+{
+    display: block;
+}
+
+[data-color-picker] .color-picker-heading
+{
+    display: none;
+}
+[data-color-picker].expanded .color-picker-heading
+{
+    display: block;
+}
+
+[data-color-picker] .saturation-lightness
+{
+    grid-area: saturation-lightness;
+    width: var(--picker-size);
+    height: calc(var(--picker-size) + 20px);
+    background-image: linear-gradient(to top, #000 0%, transparent 100%), /* saturation */ linear-gradient(to right, #fff 0%, transparent 100%);  /* lightness */
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+
+[data-color-picker] .saturation-lightness .indicator
+{
+    grid-row: 1;
+    grid-column: 1;
+
+    border: solid 1px white;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+
+    pointer-events: none;
+    user-select: none;
+}
+
+[data-color-picker] .hue
+{
+    grid-area: hue;
+    height: var(--hue-picker-thickness);
+    background: linear-gradient(to right, #f00 0%, #ff0 16.6665%,#0f0 33.3333%, #0ff 50%, #00f 66.6666%, #f0f 83.33325%, #f00 100%);   /* hue */
+    
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    position: relative;
+}
+[data-color-picker].expanded .hue
+{
+    height: var(--picker-size);
+    width: var(--hue-picker-thickness);
+    background: linear-gradient(to top, #f00 0%, #ff0 16.6665%,#0f0 33.3333%, #0ff 50%, #00f 66.6666%, #f0f 83.33325%, #f00 100%);   /* hue */
+}
+
+[data-color-picker] .hue .indicator
+{
+    grid-row: 1;
+    grid-column: 1;
+    width: 10px;
+    height: calc(100% + 7px);
+    top:-3.5px;
+    left: -5px;
+    position: relative;
+    border: solid 2px white;
+    border-radius: 10px;
+
+    pointer-events: none;
+    user-select: none;
+}
+
+
+[data-color-picker] .swatches
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+[data-color-picker] .swatches > header
+{
+    display: none;
+}
+[data-color-picker].expanded .swatches > header
+{
+    display: block;
+}
+
+.swatches .items
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    display: grid;
+    grid-template-columns: repeat(3, 20px);
+    grid-template-rows: repeat(4, 20px);
+    gap: 5px;
+}
+[data-color-picker].expanded .swatches .items
+{
+    grid-template-columns: repeat(4, 20px);
+    grid-template-rows: repeat(5, 20px);
+}
+
+.swatches
+{
+    grid-area: swatches;
+}
+
+.swatches .items .swatch
+{
+    /* border: solid 1px white; */
+
+    border-radius: 1px;
+}
+.swatches .items .swatch:hover
+,.swatches .items .swatch.selected
+{
+    border: solid 1px white;
+}

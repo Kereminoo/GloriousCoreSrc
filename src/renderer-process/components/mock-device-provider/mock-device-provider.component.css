@@ -1,0 +1,69 @@
+[data-toggle] input
+{
+    display: none;
+}
+
+[data-toggle].track
+{
+    width: 60px;
+    background-color: transparent;
+    color: white;
+    border-radius: 21px;
+    border: solid 1px white;
+    padding: 2px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+    flex-shrink: 0;
+
+    transition: background-color 200ms ease, color 200ms ease, border-color 200ms ease;
+}
+
+[data-toggle].track:has(input:checked)
+{
+    background-color: var(--toggle-track-color);
+    color: var(--toggle-track-text-color);
+    border-color: transparent;
+}
+
+[data-toggle] .thumb
+{
+    --size: 21px;
+    grid-column: 1/1;
+    grid-row: 1/1;
+    background-color: var(--toggle-thumb-color);
+    width: var(--size);
+    height: var(--size);
+    border-radius: 50%;
+    transition: translate 200ms ease-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 13px;
+    z-index: 2;
+}
+
+[data-toggle] input:checked ~ .thumb
+{
+    translate: calc(100% + 12px) 0;
+}
+
+[data-toggle] .checked-state
+{
+    justify-self: flex-start;
+    translate: calc(100% - 3px) 0;
+    transition: translate 200ms ease-out;
+    font-weight: bold;
+    font-size: 13px;
+    grid-column: 1/1;
+    grid-row: 1/1;
+    z-index: 1;
+    user-select: none;
+}
+
+[data-toggle] input:checked ~ .checked-state
+{
+    translate: 2px 0;
+}

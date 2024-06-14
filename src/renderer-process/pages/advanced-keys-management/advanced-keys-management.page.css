@@ -1,0 +1,249 @@
+.advanced-keys.layout {
+    display: flex;
+    gap: 2px;
+    position: relative;
+}
+
+.panel.second,
+.panel.forth {
+    display: flex;
+    gap: 20px;
+}
+
+.panel.key-press {
+    position: relative;
+}
+
+.panel.second .keyname {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #828282;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.advanced-keys p,
+.advanced-keys h3 {
+    margin-top: 0;
+}
+
+.advanced-keys h4 {
+    margin-top: 6px;
+    margin-bottom: 8px;
+}
+
+.key-press .key-press-slider .range.gauge {
+    transform: rotate(90deg);
+    position: absolute;
+    top: calc(50% + 13px);
+    right: -36px;
+}
+
+.key-press .key-press-slider .range.gauge input {
+    width: 148px;
+    --track-height: 0px;
+}
+.key-press-slider.stage-one > .range.gauge,
+.key-release-slider.stage-one > .range.gauge {
+    z-index: 1;
+}
+
+.panel .key-mark {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 19px;
+}
+
+.panel .key-mark p {
+    margin: 0;
+}
+
+.panel .key-mark .key-mark-box {
+    border: 1px solid #6f6f6f;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.panel .key-mark .key-mark-box i {
+    width: 12px;
+    height: 12px;
+}
+
+.panel .key-mark .key-mark-box.key-mark-press i {
+    transform: rotate(90deg);
+}
+
+.panel .key-mark .key-mark-box.key-mark-release i {
+    transform: rotate(-90deg);
+}
+
+.panel.key-press, .panel.key-release {
+    padding-top: 10px !important;
+}
+
+.key-release .key-release-slider .range.gauge {
+    transform: rotate(90deg);
+    position: absolute;
+    top: calc(50% + 13px);
+}
+
+.key-release .key-release-slider .range.gauge input {
+    width: 148px;
+    --track-height: 0px;
+}
+
+.layout.advanced-keys .panel.main .key-binding-mode-label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 16px;
+}
+
+.layout.advanced-keys .panel.main .key-binding-mode-label h3 {
+    margin: 0;
+}
+
+.layout.advanced-keys .test-binding-container {
+    border: 1px solid #575858;
+    min-width: 100px;
+    min-height: 50px;
+    max-width: 240px;
+}
+
+.layout.advanced-keys .panel.main .key-binding-mode-label .orange-box {
+    height: 18px;
+    width: 6px;
+    background: #ffa40d;
+}
+
+.panel.second.character-selection button:focus-visible {
+    outline: none;
+}
+
+.content > .device .management .layout.advanced-keys .panel.second.character-selection {
+    flex: 1 1 150px;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.layout.advanced-keys .panel.second.character-selection > .column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.layout.advanced-keys .panel.second.character-selection > .column:nth-child(2) {
+    margin-right: 20px;
+}
+.layout.advanced-keys .panel.second.character-selection > .column > div {
+    max-width: 300px;
+}
+
+.layout.advanced-keys .panel.second.character-selection > .column button {
+    align-self: start;
+}
+
+.layout.advanced-keys .panel.third {
+    position: relative;
+    padding: 0!important;
+    max-width: 50px;
+}
+.layout.advanced-keys .panel.third .column.slider-column {
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: -66px;
+}
+
+.layout.advanced-keys .panel.third .column .key-press-slider {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.layout.advanced-keys .panel.third .column .key-press-slider .range {
+    position: absolute;
+}
+
+.layout.advanced-keys .panel.third .column .key-press-slider input {
+    width: 152px;
+    --track-height: 29px;
+    --thumb-size: 0px;
+}
+
+.layout.advanced-keys .panel.third .column .key-press-slider input::-webkit-slider-runnable-track {
+    border-radius: 0 !important;
+}
+
+.layout.advanced-keys .panel.third .column .key-press-slider .range.gauge {
+    transform: rotate(90deg);
+    left: -5px;
+    padding-left: 37px;
+}
+
+.binding-row {
+    height: 40px;
+    display: flex;
+    margin-bottom: 10px;
+    --binding-row-border-radius: 2px;
+    --binding-row-border-color: #313131;
+    --binding-row-background-color: #262626;
+}
+.binding-row-details {
+    height: inherit;
+    border: 1px solid;
+    border-color: var(--binding-row-border-color);
+    background: var(--binding-row-background-color);
+    border-top-left-radius: var(--binding-row-border-radius);
+    border-bottom-left-radius: var(--binding-row-border-radius);
+
+    cursor: pointer;
+    flex: 1;
+}
+.binding-row-details:hover {
+    --binding-row-border-color: white;
+}
+.binding-row-details .binding-key {
+    width: 70px;
+}
+.binding-row .remove-binding {
+    margin-left: auto;
+    cursor: pointer;
+    position: relative;
+    z-index: 3;
+    height: inherit;
+    border: 1px solid;
+    border-color: var(--binding-row-border-color);
+    background: var(--binding-row-background-color);
+    border-left: 0;
+}
+.binding-row .remove-binding:hover i {
+    background-image: var(--icon-selected);
+}
+.binding-row > div, .binding-row-details > div {
+    display: flex;
+    align-items: center;
+}
+.binding-row-details > div, .remove-binding  {
+    min-width: 40px;
+    padding: 0 10px;
+    height: inherit;
+    justify-content: center;
+}
+.binding-row-details > div:nth-child(2),
+.binding-row-details > div:nth-child(3) {
+    border-left: 1px solid  var(--binding-row-border-color);
+}
+
+
+
+
+
+
+

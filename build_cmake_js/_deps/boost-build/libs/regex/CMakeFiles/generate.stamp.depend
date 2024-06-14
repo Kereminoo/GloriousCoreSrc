@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Development/core/projects/glorious-core-app/build_cmake_js/CMakeFiles/cmake.verify_globs
+C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-src/libs/regex/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindICU.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake

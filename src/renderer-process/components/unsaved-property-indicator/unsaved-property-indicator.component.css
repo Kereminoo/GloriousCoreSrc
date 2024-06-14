@@ -1,0 +1,11 @@
+.unsaved-property-indicator
+{
+  display: inline-block;
+  width: 0;
+  min-height: 10px;
+  background-color: var(--brand-color-1);
+}
+.unsaved-property-indicator.unsaved
+{
+  width: 5px;
+}

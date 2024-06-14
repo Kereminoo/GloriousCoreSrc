@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography renders correctly with type prop 1`] = `
+<DocumentFragment>
+  <p
+    class="paragraphmedium"
+  >
+    Test Text
+  </p>
+</DocumentFragment>
+`;
+
+exports[`Typography renders correctly without color prop 1`] = `
+<DocumentFragment>
+  <p
+    class="heading2"
+  >
+    No Color
+  </p>
+</DocumentFragment>
+`;

@@ -1,0 +1,12 @@
+i.icon
+{
+  max-height: 55px;
+  background-image: var(--icon-default);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  --size: var(--icon-size, 16px);
+  width: var(--size);
+  height: var(--size);
+  display: inline-block;
+}

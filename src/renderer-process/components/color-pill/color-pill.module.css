@@ -1,0 +1,55 @@
+.color-pill
+{
+  padding: var(--padding);
+  display: inline-grid;
+  min-width: 88px;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  background-color: var(--base-shades-70);
+  border-radius: 30px;
+  gap: 5px;
+  border: solid 1px var(--base-shades-50);
+  user-select: none;
+}
+.color-pill:hover
+{
+  border-color: var(--hover-border-color);
+  cursor: var(--hover-cursor);
+}
+
+.selected
+{
+  border-color: var(--glorange-60);
+}
+
+.color-pill-default
+{
+  border-color: var(--glorange-60);
+}
+
+.color
+{
+  box-sizing: border-box;
+  display: block;
+  border-radius: 50%;
+  width: var(--size);
+  height: var(--size);
+  background-color: var(--color);
+  font-weight: normal;
+}
+.border-color
+{
+  border: solid 2px var(--color);
+  background-color: transparent;
+}
+
+.value
+{
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--base-shades-20);
+}
+.color-pill:hover .value
+{
+  color: var(--hover-text-color);
+}

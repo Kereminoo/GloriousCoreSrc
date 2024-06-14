@@ -1,0 +1,12 @@
+.input-small-width {
+    width: 4em;
+}
+
+.label-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.label-span {
+    width: 120px;
+}

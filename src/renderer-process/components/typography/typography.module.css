@@ -1,0 +1,123 @@
+.heading1 {
+  font-family: var(--secondary-font-family);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  margin: 0;
+}
+
+.heading2 {
+  font-family: var(--secondary-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  margin: 0;
+}
+
+.paragraphlargebold,
+.paragraphlarge {
+  font-family: var(--primary-font-family);
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0;
+}
+
+.paragraphmediumbold,
+.paragraphmedium {
+  font-family: var(--primary-font-family);
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+}
+
+.paragraphsmallbold,
+.paragraphsmall {
+  font-family: var(--primary-font-family);
+  font-size: 12px;
+  line-height: 16px;
+  margin: 0;
+}
+
+.paragraphxsmallbold,
+.paragraphxsmall {
+  font-family: var(--primary-font-family);
+  font-size: 10px;
+  line-height: 16px;
+  margin: 0;
+}
+
+.paragraphlargebold,
+.paragraphmediumbold,
+.paragraphsmallbold,
+.paragraphxsmallbold {
+  font-weight: 600;
+}
+
+.buttonlarge {
+  font-family: var(--primary-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  margin: 0;
+}
+
+.buttonmedium {
+  font-family: var(--secondary-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 16px;
+  margin: 0;
+}
+
+.buttonsmall {
+  font-family: var(--secondary-font-family);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16px;
+  margin: 0;
+}
+
+.linktextlarge {
+  font-family: var(--secondary-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.linktextmedium {
+  font-family: var(--secondary-font-family);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 16px;
+}
+
+.linktextsmall {
+  font-family: var(--secondary-font-family);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+}
+
+.primary {
+  color: var(--base-shades-30);
+}
+
+.white {
+  color: var(--base-shades-10);
+}
+
+.medium {
+  color: var(--base-shades-30);
+}
+
+.bright {
+  color: var(--base-shades-20);
+}
+
+.dark {
+  color: var(--base-shades-90);
+}
+
+.underline {
+  text-decoration: underline;
+}

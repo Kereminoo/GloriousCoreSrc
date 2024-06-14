@@ -1,0 +1,1 @@
+import { DeviceDataRecord, ProfileData } from "src/common/data/records/device-data.record";

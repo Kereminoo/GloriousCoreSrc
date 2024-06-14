@@ -1,0 +1,208 @@
+{
+  "name": "glorious-core",
+  "productName": "Glorious Core",
+  "description": "Glorious Device Management",
+  "author": "Glorious, LLC",
+  "version": "2.0.0",
+  "buildVersion": "2.0.1.4-rc+01",
+  "main": "./out/main/index.js",
+  "private": true,
+  "dependencies": {
+    "@electron-toolkit/preload": "^2.0.0",
+    "@electron-toolkit/utils": "^1.0.2",
+    "@grpc/grpc-js": "^1.10.6",
+    "@grpc/proto-loader": "^0.7.12",
+    "@ngx-translate/core": "^14.0.0",
+    "@ngx-translate/http-loader": "^7.0.0",
+    "@protobuf-ts/plugin": "^2.9.4",
+    "@protobuf-ts/runtime": "^2.9.4",
+    "@types/color-convert": "^2.0.0",
+    "adm-zip": "^0.5.9",
+    "axios": "^1.6.2",
+    "cmake-js": "^7.2.1",
+    "jquery": "^3.6.1",
+    "keytar": "^7.9.0",
+    "lockfile": "^1.0.4",
+    "lodash": "^4.17.21",
+    "nedb": "^1.8.0",
+    "node-downloader-helper": "^2.1.9",
+    "os-locale": "^2.1.0",
+    "prettier": "^3.0.3",
+    "qs": "^6.11.2",
+    "react-colorful": "^5.6.1",
+    "react-viewport-list": "^7.1.1",
+    "request": "^2.88.2",
+    "tslib": "^2.3.0",
+    "universal-analytics": "^0.5.3"
+  },
+  "optionalDependencies": {
+    "dmg-license": "^1.0.11"
+  },
+  "window": {
+    "frame": false,
+    "center": true,
+    "width": 1440,
+    "height": 880,
+    "minWidth": 1440,
+    "minHeight": 880,
+    "skip-taskbar": false,
+    "show": true,
+    "resizable": true,
+    "transparent": true,
+    "maximizable": false,
+    "webPreferences": {
+      "nodeIntegration": true,
+      "enableRemoteModule": true,
+      "contextIsolation": false
+    },
+    "icon": "./app-icon.ico"
+  },
+  "versionFileUrl": "https://gloriouscore.nyc3.digitaloceanspaces.com/Glorious_Core/Version.json",
+  "core2VersionFileUrl": "https://gloriouscore.nyc3.digitaloceanspaces.com/CORE2/version.json",
+  "useDebugVersionFileUrl": true,
+  "showDebugUI": true,
+  "BuiltType": 0,
+  "BuildCode": 2,
+  "mockDevices": [
+    {
+      "name": "GMMK Numpad",
+      "vid": "z0x320F",
+      "pid": "z0x5088"
+    },
+    {
+      "name": "GMMK PRO",
+      "vid": "z0x320F",
+      "pid": "z0x5044"
+    },
+    {
+      "name": "GMMK PRO Alt",
+      "vid": "z0x320F",
+      "pid": "z0x5092"
+    },
+    {
+      "name": "GMMK PRO ISO",
+      "vid": "z0x320F",
+      "pid": "z0x5046"
+    },
+    {
+      "name": "GMMK PRO ISO alt",
+      "vid": "z0x320F",
+      "pid": "z0x5093"
+    },
+    {
+      "name": "GMMK V2 65 US",
+      "vid": "z0x320F",
+      "pid": "z0x5045"
+    },
+    {
+      "name": "GMMK V2 65 ISO",
+      "vid": "z0x320F",
+      "pid": "z0x504A"
+    },
+    {
+      "name": "GMMK V2 96 US",
+      "vid": "z0x320F",
+      "pid": "z0x504B"
+    },
+    {
+      "name": "GMMK V2 96 ISO",
+      "vid": "z0x320F",
+      "pid": "z0x505A"
+    },
+    {
+      "name": "Model O Wired",
+      "vid": "z0x258A",
+      "pid": "z0x0036"
+    },
+    {
+      "name": "Model O Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x2011"
+    },
+    {
+      "name": "Model O Minus Wired",
+      "vid": "z0x258A",
+      "pid": "z0x2036"
+    },
+    {
+      "name": "Model O Minus Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x2013"
+    },
+    {
+      "name": "Model O Pro Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x2015"
+    },
+    {
+      "name": "Model O2 Wired",
+      "vid": "z0x320F",
+      "pid": "z0x823A"
+    },
+    {
+      "name": "Model O2 Wireless",
+      "vid": "z0x093A",
+      "pid": "z0x822A"
+    },
+    {
+      "name": "Model O2 Pro 1k Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x2019"
+    },
+    {
+      "name": "Model O2 Pro 8k Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x201B"
+    },
+    {
+      "name": "Series One Pro Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x2018"
+    },
+    {
+      "name": "Model D Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x2012"
+    },
+    {
+      "name": "Model D Minus Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x2014"
+    },
+    {
+      "name": "Model D Pro Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x2017"
+    },
+    {
+      "name": "Model D2 Wired",
+      "vid": "z0x320F",
+      "pid": "z0x825A"
+    },
+    {
+      "name": "Model D2 Wireless",
+      "vid": "z0x093A",
+      "pid": "z0x824A"
+    },
+    {
+      "name": "Model D2 Pro 1k Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x201A"
+    },
+    {
+      "name": "Model D2 Pro 8k Wireless",
+      "vid": "z0x258A",
+      "pid": "z0x201C"
+    },
+    {
+      "name": "Model I Wired",
+      "vid": "z0x22D4",
+      "pid": "z0x1503"
+    },
+    {
+      "name": "Model I2 Wireless",
+      "vid": "z0x093A",
+      "pid": "z0x821A"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+
+
+.lighting-preview
+{
+    display: grid;
+    pointer-events: none;
+}
+
+.lighting-preview > .nodes
+{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    transform-origin: top left;
+}
+
+.lighting-preview .node
+{
+    background-color: white; /* for testing only */
+    /* z-index: 100; */ /* for testing only */
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    grid-row: 1/1;
+    grid-column: 1/1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: background-color 200ms linear;
+}

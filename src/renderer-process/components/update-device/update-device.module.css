@@ -1,0 +1,50 @@
+.device
+{
+    
+}
+
+.monitor
+{
+    background: var(--base-shades-80);
+    border: solid 1.5px var(--purple-40);
+    border-radius: 3px;
+}
+
+.tasks
+{
+    list-style: none;
+    display: flex;
+    gap: 2px;
+}
+
+.task
+{
+    width: var(--width);
+    display: flex;
+}
+
+li:last-of-type .taskprogress
+,li:last-of-type .taskprogress::-webkit-progress-bar
+,li:last-of-type .taskprogress::-moz-progress-bar
+{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.taskprogress
+{
+    flex: 1;
+    appearance: none;
+}
+.taskprogress[value]::-webkit-progress-bar
+{
+    background-color: #666;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+.taskprogress[value]::-webkit-progress-value
+{
+    background-color: var(--glorange-60);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+    box-shadow: 0 0 8px -2px var(--glorange-60);
+}

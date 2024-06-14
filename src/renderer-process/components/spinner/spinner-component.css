@@ -1,0 +1,41 @@
+.spinner-component {
+    margin: 0 auto;
+}
+
+@keyframes spinner-component-spin
+{
+    to {transform: rotate(360deg);}
+}
+
+.spinner-component .spinner-anim
+{
+    position: relative;
+    margin: 0 auto;
+    width: var(--spinner-anim-size);
+    height: var(--spinner-anim-size);
+}
+
+.spinner-component .spinner-anim:before
+{
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: var(--spinner-anim-size);
+    height: var(--spinner-anim-size);
+
+    margin-top: calc(var(--spinner-anim-size) / -2);
+    margin-left: calc(var(--spinner-anim-size) / -2);
+    border-radius: 50%;
+    border-top: 2px solid var(--brand-color-1);
+    border-right: 2px solid transparent;
+    animation: spinner-component-spin .6s linear infinite;
+}
+
+.spinner-component p {
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}

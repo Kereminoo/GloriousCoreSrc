@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\core\projects\glorious-core-app\build_cmake_js\CMakeFiles\6f22c5adc5a868e321d26434cf1906bb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D980F6E9-35B3-36F5-8C51-9B6F11B16C87}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

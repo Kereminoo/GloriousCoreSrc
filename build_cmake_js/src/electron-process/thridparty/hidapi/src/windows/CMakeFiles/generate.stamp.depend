@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Development/core/projects/glorious-core-app/build_cmake_js/CMakeFiles/cmake.verify_globs
+C:/Development/core/projects/glorious-core-app/src/electron-process/thridparty/hidapi/pc/hidapi.pc.in
+C:/Development/core/projects/glorious-core-app/src/electron-process/thridparty/hidapi/windows/CMakeLists.txt

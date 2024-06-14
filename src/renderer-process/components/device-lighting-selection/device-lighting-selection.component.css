@@ -1,0 +1,61 @@
+.lighting-selection
+{
+    display: grid;
+}
+
+.lighting-selection .node
+{
+    z-index: 100;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    grid-row: 1/1;
+    grid-column: 1/1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: grid;
+    align-items: flex-end;
+    justify-items: center;
+}
+
+.lighting-selection .node .hover-indicator
+{
+    width: inherit;
+    height: inherit;
+    background-color: white;
+    grid-row: 1/1;
+    grid-column: 1/1;
+    opacity: 0;
+    transition: opacity 200ms ease;
+}
+.lighting-selection .node:hover .hover-indicator
+{
+    opacity: .3;
+}
+
+.lighting-selection .node .selected-indicator
+{
+    grid-row: 1/1;
+    grid-column: 1/1;
+    --size: 15px;
+    background-color: var(--brand-color-1);
+    border-radius: 50%;
+    width: var(--size);
+    height: var(--size);
+    opacity: 0;
+    translate: 0 -10px;
+}
+.lighting-selection .node[data-selected] .selected-indicator
+{
+    opacity: 1;
+}
+
+
+/* debug */
+/* :where([class*="lighting-selection"], [class*="key"]) .node
+{
+    box-sizing: border-box;
+    border: solid 5px;
+    z-index: 50;
+    background: rgb(255 0 0 / .5);
+} */

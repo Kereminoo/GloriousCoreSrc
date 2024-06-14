@@ -1,0 +1,4 @@
+.device-colors .color:hover {
+    border-color: var(--glorange-60);
+    border-width: 3px;
+}

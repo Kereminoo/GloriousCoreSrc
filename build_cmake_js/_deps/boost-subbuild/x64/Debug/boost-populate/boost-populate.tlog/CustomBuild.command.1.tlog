@@ -1,0 +1,152 @@
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\75C8FAEC182D870D0F431B492B541750\BOOST-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/tmp/boost-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\75C8FAEC182D870D0F431B492B541750\BOOST-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/download-boost-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/verify-boost-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/extract-boost-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\75C8FAEC182D870D0F431B492B541750\BOOST-POPULATE-UPDATE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-update
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\75C8FAEC182D870D0F431B492B541750\BOOST-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\75C8FAEC182D870D0F431B492B541750\BOOST-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps\boost-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\75C8FAEC182D870D0F431B492B541750\BOOST-POPULATE-BUILD.RULE
+setlocal
+cd C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps\boost-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\75C8FAEC182D870D0F431B492B541750\BOOST-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps\boost-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\75C8FAEC182D870D0F431B492B541750\BOOST-POPULATE-TEST.RULE
+setlocal
+cd C:\Development\core\projects\glorious-core-app\build_cmake_js\_deps\boost-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\03599E2F9CA360EF16D6B6AA4D0B6B84\BOOST-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/CMakeFiles/Debug/boost-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/Debug/boost-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKEFILES\DA6199B3BAD7C8FF1060ABADC1D7707A\BOOST-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEVELOPMENT\CORE\PROJECTS\GLORIOUS-CORE-APP\BUILD_CMAKE_JS\_DEPS\BOOST-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild -BC:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild --check-stamp-file C:/Development/core/projects/glorious-core-app/build_cmake_js/_deps/boost-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

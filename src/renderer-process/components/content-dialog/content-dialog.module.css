@@ -1,0 +1,18 @@
+.header
+{
+    color: var(--base-shades-10);
+    background-color: transparent;
+    display: grid;
+    justify-items: center;
+    gap: 16px;
+}
+
+.body
+{
+    color: var(--base-shades-20);
+}
+
+.footer
+{
+
+}

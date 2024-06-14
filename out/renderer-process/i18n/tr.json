@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "Lütfen Glorious ürünlerinizi bağlayın"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "Cihazların görünmesi birkaç saniye sürebilir"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "Bağlı Cihazlar Yükleniyor"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "Ana Sayfa"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "Ayarlar"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "Ürün Adları"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "Ayarlar"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "Sürüm"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "Değişiklik Günlüğünü Görüntüle"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "Bilgisayar başlarken CORE'u otomatik olarak başlat"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "CORE'u varsayılan olarak simge durumuna küçültülmüş olarak başlat"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "CORE araç ipuçları"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "Otomatik güncellemeleri etkinleştir"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "Renk temasını değiştir"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "Genel bekleme"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "Belirli bir süre aktif değilse kapat"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "Dil"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "Destek"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "Talep etmek istediğiniz bir özellik var mı?"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "Glorious Eşleştirme Yardımcısı"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "Eşleştirme Adımları"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1. Tüm Glorious fare kablolarını ve alıcılarını çıkarın."
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2. Eşleştirmek istediğiniz fareyi USB kablosu ile takın. Kablosuz alıcıyı takın."
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3. Aşağıdaki yardımcı programdan eşleştirilen fareyi seçin."
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4. Hem USB hem de kablosuz alıcı yeniden bağlandığında, Eşleştir düğmesine tıklayın."
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "Fare"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "Kablosuz Alıcı"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "Bağlandı"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "Bağlantı Kesildi"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "Fare Seç"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "Farenizi listede görmüyor musunuz?"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "Klasik cihaz desteği için lütfen aşağıdaki bağlantıya bakın: Klasik Eşleştirme Yardımcısı"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "Klasik Eşleştirme Yardımcı Programı."
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "Cihazım"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "Farem"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "Klavyem"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "Numpad'im"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "valueJ'im"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "Kablom"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "Kulaklığım"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "Aydınlatma Evi"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "Anahtar bağlama"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "Tuş Bağlama Ana Sayfa"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "Makrolar"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "Kısayollar"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "Home"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "Donanım Yazılımı"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "Profiller"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "Güncel"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "Güncelleme uygun"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "Güncelleniyor..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "Güncelleme başarısız oldu"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "Belirli bir süre aktif değilse RGB'yi kapat"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "Güncelleme uygun"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "Performans"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "Yoklama Hızı"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "Döner Hassasiyet"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "Giriş Gecikmesi"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "Yanında olmak"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "Ayarlar"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "Yoklama Hızı"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "Kablolu/kablosuz için ayrı oylama"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "Kalkış Mesafesi"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "Sekme Süresi"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "Hareket Senk"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "Gelişmiş Ayarlar"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "Basın Zamanı"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "Basın Öncesi"
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "Basın Sonrası"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "Yayın Zamanı"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "Yayınlanmadan Önce"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "Çıktıktan Sonra"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "Kalkış Basın Zamanı"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "Aydınlatma"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "Efekt"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "Ayrı Kablolu/Kablosuz Parlaklık"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "Kablolu"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "Parlaklık"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "Kablosuz Parlaklık"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "RGB Gradient"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "Hız"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "Önceden Ayarlanan Efektler"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "Renk Stili"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "Tuş Başına Özel"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "Özel Düzen Yok"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "Hızlı Tuş Seçimi"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "Nefes alma"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "DPI Aşamaları"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "Varsayılan"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "Tuş bağlama seçeneklerini görmek için yukarıdan bir Fare Düğmesi seçin."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "Tuş Bağlama"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "Katman Kaydırma"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "İkinci işlevsellik katmanına erişmek için bir fare düğmesi\r\n\"Fare İşlevi\" altındaki Standart katmanda Katman Kaydırma\r\nolarak atanmalıdır."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "Tuş Darbesi"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "Tuş"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "Çarpan"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "Klavye Fonksiyonu"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "Fare Fonksiyonu"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "Makrolar"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "\"Yeni Makro\"yu seçmek makro oluşturma\r\nmodalini açacaktır. İçeride, oluşturmak istediğiniz makro\r\ntürünü seçebilir, bir ad belirleyebilir ve girişlerinizi kaydedip\r\ndüzenleyebilirsiniz.\r\nModalın içinden kaydetmek, makroyu soldaki listeye\r\nekleyecektir."
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "Kaydedilmiş Makro yok"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "Makro Türü"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "Çoklu Ortam"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "Kısayollar"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "Devre Dışa Bırak Düğmesi"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "kaydırıcı"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "Döner Kodlayıcı"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "Uygulama Hacmi"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "Ses kaynağı"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "Yol"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "Çalıştırma"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "Özel Çalıştırma Noktası"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "Herhangi bir tuşa basıldığında etkinleşecek noktayı ayarlamak için kaydırıcıyı kullanın."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "Aşağıdaki düğmeyi seçmek, çalıştırma noktasını anahtar bazında düzenlemenize olanak tanır."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "Görselleştirmeyi Göster"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "Gelişmiş Tuşlar"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "RGB Sync'e Hoş Geldiniz"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "Glorious RGB Sync, her zamankinden daha fazla \r\nRGB özelleştirmesi için Glorious ürünleriniz arasında \r\naydınlatma efektlerinin senkronizasyonunu sağlar."
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "Bana etrafı göster"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "Turu atla"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "Bana bunu bir daha gösterme"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "Yandaki listeden bir seçim yapmak, ilgili aydınlatma\r\nefektini bağladığınız ürünlere\r\nuygulayacaktır. \r\n\r\nFarklı efektlerin farklı özelleştirme parametreleri vardır. \r\nSeçtiğiniz aydınlatma efektinin seçeneklerine gitmek için\r\nyukarıdaki sekmeleri kullanın."
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "Aydınlatma Efekti"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "Dalga"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "Sonik"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "Spiral"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "Döngü"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "Doğrusal Dalga"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "Dalgalanma"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "Solunum"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "Yağmur"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Yangın"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "Tetik"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "Ses Senkronizasyonu"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "Görünüm"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "Hareket"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "Parlaklık"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "Efektin parlaklığını ayarla"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "Hız"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "Efektin hızını ayarla"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "Renk Stili"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "RGB Gradyeni"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "Özel Renk"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "Opaklık"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "Renk"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "Hız"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "Bant Genişliği"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "Gradyen"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "Açı"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "Yön"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "Tümsek"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "Efekt normal yönde hareke eder\r\nve geri seker."
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "Boşluk"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "Renkler arasındaki boşlukları ayarlayın."
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "Çift Yönlü"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "Aynı iki aydınlatma efekti aynı anda\r\nzıt yönlerde hareket eder."
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "Sayı"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "Efekt menzili"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "Yarıçap"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "Yarıçap içindeki tüm tuşlar yanar"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "Genlik"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "Giriş Yap"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "Şuraya Giriş Yap"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "Kaydol"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "E-posta Adresi"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "Şifre"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "Şifremi Unuttum"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "Üzülmeyin! Hesabınıza bağlı e-posta adresini\r\ngirin ve size şifrenizi sıfırlamanız için\r\nbir bağlantı gönderelim."
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "Şifre Oluştur"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "Yeni Şifre Oluştur"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "Şifreyi Onayla"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "Yeni Şifreyi Onayla"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "Girişe Devam Et"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "Devam Et"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "Şifreler Eşleşiyor"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "Yanlış Şifre"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "Hesabınız Yok Mu?"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "Zaten Hesabınız Var Mı?"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "Buradan Giriş Yapın"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "Veya Şununla Devam Edin"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "SSO Kaydı"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "Lütfen geçerli bir e-posta adresi girin"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "Gönder"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "Bağlantı Gönderildi"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "Bağlantıyı görmüyor musunuz? Gelen kutunuzda görünmesi\r\n000 m sürebilir."
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "Başka Bir Bağlantı Gönder"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "Hoş Geldiniz"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "Tekrar Hoş Geldiniz"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "Giriş Başarılı"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "Kayıt Başarılı"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "Tek Giriş"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "Glorious ID'nize erişmek için Google/Meta\r\nhesabınıza giriş yapın!"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "Müşteri Hesabını Bağla"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "Bilgileri senkronize etmek ve özelliklerden ve avantajlardan\r\ntam olarak yararlanmak için gloriousgaming.com \r\nmüşteri hesabınızı Glorious ID'nize bağlayın."
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "Bağla"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "Bağlamadan Devam Et"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "Bir hesabı daha sonra istediğiniz zaman bağlayabilirsiniz."
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "Bölgenizi Onaylayın"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "Bu Doğru Gibi Mi Görünüyor?"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "Değilse, devam etmeden önce açılır\r\nmenüden doğru bölgeyi seçin."
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "Dilinizi Seçin"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "EULA / GDPR'yi gözden geçirin"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "13 yaşından büyük olduğumu onaylıyorum"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "Varsayılana sıfırla"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "Sol navigasyon panelini gizle"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "Ürün kılavuzu"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "Ürün Desteği"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "Başlamak için istediğiniz makro türünü seçin. \r\nBunu istediğiniz zaman değiştirebilirsiniz."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "Tekrar Yok"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "Tekrar Yok makrosu, atandığı yerde her etkinleştirme\r\nbaşına bir kez gerçekleştirilir."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "Değiştir"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "Etkinleştirildiğinde, bir Değiştir makrosu ikinci kez\r\netkinleştirilene kadar sürekli olarak çalışır."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "Basılırken Tekrarla"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "Atanan makro, atanan tetikleyici basılı tutulduğu sürece\r\nsürekli olarak çalışacaktır."
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "Gecikme"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "Tüm tuş darbeleri arasında tutarlı bir zaman gecikmesi. \r\nDeğeri 10 ms ile 10000 ms arasında ayarlayın."
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "Tuş darbeleri arasındaki gecikmeler kaydedildikleri\r\nzamana göre doğru görünecektir."
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "Renk Seçici"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "Aktif Renk"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "Kırmızı"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "Yeşil"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "Mavi"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "Kartelalar"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "Kaydedilmemiş Değişiklikler"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "Şimdi çıkmayı tercih ederseniz\r\nkaybolacak kaydedilmemiş değişiklikleriniz var.\r\n\r\nDevam etmek istiyor musunuz?"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "Evet, değişiklikleri sil"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "Hayır, geri dönmek istiyorum"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "Donanım yazılımı güncellemesini yapmadan önce lütfen gerekli tüm cihazlarınızı USB üzerinden bağlayın."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "İptal"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "Devam Et"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "(ürün) İndiriliyor"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "(ürün) için donanım yazılımı yükleniyor"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "Do not unplug your (mouse) cable and receiver or restart the app!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "(klavye) kablonuzu fişten çekmeyin veya uygulamayı yeniden başlatmayın!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "(ürün) için donanım yazılımı güncellemesi başarılı"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "Kapat"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "Kablosuz Cihaz Eşleştirme Doğrulaması"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "Bazı güncellemeler alıcının fareyle olan eşleşmesini kaldıracaktır."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "Kablosuz bağlantıyı tekrar yapmak için lütfen Eşleştirme Yardımcısı programını kullanarak alıcınızı yeniden eşleştirin."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "Yok Say"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "Eşleştirme Yardımcısı'nı Aç"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "Donanım yazılımı güncellemesi başarısız"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "Cihazın kablosuz alıcısının bağlantısı kesilmiş gibi görünüyor."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "Lütfen kablosuz alıcınızı kontrol edip tekrar deneyin."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "Güncellemeyi indirme işlemi başarısız oldu"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "Bellenim Yöneticisi"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "Bu cihazlar için yeni bir Firmware sürümü mevcut"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "Diğer cihazlar"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "Firmware'i İndirin ve Yükleyin"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "Firmware'i Yükle"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "İptal etmek"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "Firmware'i Temizle"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "Lütfen hem farenizin hem de alıcınızın takılı olduğundan emin olun."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "En son donanım yazılımını uygulama"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "Donanım yazılımını indirme"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "Donanım yazılımını yükleme"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "(fare) kablonuzu ve alıcınızı fişten çekmeyin veya uygulamayı yeniden başlatmayın!"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "Yeni bir sürüm algılandı"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "İndirilip yüklensin mi?"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "İndir"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "İptal"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "Glorious CORE İndiriliyor"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "Uygulama Güncellemesi"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "Güncelleme yükleyicisi başladı"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "Kapatılıyor..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "Eşleştirmeye Başlamak İçin"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "Gelişmiş Geri Dönme Ayarları"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "Lütfen farenizin fişini çekin ve ardından alttaki açma/kapama düğmesini kullanarak farenizi kapatın."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "Kaydırma tekerleği düğmesini basılı tutarken, fareyi alıcıya temas ettirin ve açın."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "LED'ler yeşil renkte yanıp sönene kadar kaydırma tekerleği düğmesini yaklaşık 4 saniye basılı tutmaya devam edin."
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "Tamam"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "Eşleştirmeye Devam Etmek İçin"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "Eşleştirme Başarılı"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "Artık farenizi kablosuz olarak kullanabilirsiniz."
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "Eşleştirme Başarısız"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "Eşleştirme Başarısız"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "Tekrar denemeden önce sağlam bir internet bağlantınız olduğundan emin olun."
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "Bağlı"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "Bağlı"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "Bağlı"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "Kaydedilmemiş Değişiklikler"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "Güncellemeyi Kontrol Et"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "Aktif"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "Aktif Değil"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "Durum"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "Son Güncelleme"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "Yoklama Hızı"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "Hareket Senkronizasyonu"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "Aydınlatma Efekti"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "Fare Altlığı Profilleri"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "Katman Kaydır"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "Klavye Profili"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "Kayıt olmak"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "Kayıt olmak"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "Giriş/Bulut profillerine erişmek için Glorious ID için kaydolun!"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "Bulut Profilleri"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "Bulut Profilleri"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "Güncellemeleri Kontrol Et"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "Uzatılmış Garanti"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "Destek Ana Sayfası"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "Özellik Destek Oyu"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "Eşleştir"
+    },
+    {
+        "key": "Button_Save",
+        "value": "Kaydet"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "Geri al"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "Daha Fazla İşlem"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "Güncellemeyi Kontrol Et"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "YAZILIMI GÜNCELLEYİN"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "İçe Aktar"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "Dışa Aktar"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "Büyüt"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "Kartelayı Sil"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "Yeni Makro"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "Makroyu düzenle"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "İçe Aktar"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "Dışa Aktar"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "Kaydı Başlat"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "Kaydı Durdur"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "Makroyu Kaydet"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "Göz At"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "İptal etmek"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "Ok"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "Sol Gezinmeyi Göster"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "Sol Gezinmeyi Gizle"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "Ürün Rehberi"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "Ürün desteği"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "AÇIK"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "KAPALI"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "RGB Gradyeni"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "Özel renk"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "Ayar Süresi"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "Kaydedildiği Gibi"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "Giriş Gecikmesi"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "Giriş gecikmesi, bir elektrik sinyalinin gönderilmesiyle ilgili işlemin meydana gelmesi arasında geçen süre miktarıdır."
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "Profiller"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "Bir profili dışa aktarmak, özel ayarları kaydetmenize olanak tanır. Bir profili içe aktarmak, o profilden özel ayarlar uygulamanıza olanak tanır. CORE'da aynı anda en fazla üç profiliniz olabilir."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "Yoklama Hızı"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "Yoklama Hızı, işletim sisteminizin girişleri ne sıklıkta kontrol ettiğidir.\r\nBu, tuşlara basmanın maksimum giriş gecikmesini\r\n belirlemede bir faktördür. Yüksek bir yoklama hızı, düşük yoklama hızlarına göre daha fazla CPU\r\n kaynağı kullanır."
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "Döner Hassasiyet"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "Döner Hassasiyet, her adım arasındaki ayar artışını kontrol eder."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "Kapalı"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "Cihaz genel bekleme zamanlayıcısına bakılmaksızın bekleme moduna geçmeyecek."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "Küresel Miras"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "Cihaz genel bekleme zamanlayıcısı ayarına uyacaktır."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "Cihaza Özel"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "Cihazın bekleme zamanlayıcısı genel bekleme zamanlayıcısından bağımsız olacaktır."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "Kaldırma Mesafesi"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "Sekme Süresi, ilk tıklamadan sonra\r\ntıklamaların algılanmasındaki gecikmedir."
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "Sekme Süresi"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "Sekme Süresi, ilk tıklamadan sonra tıklamaların algılanmasındaki gecikmedir."
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "Hareket Senkronizasyonu"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "Hareket Senk, sensör ve USB yoklama olaylarını\r\nsenkronize ederek fare izlemeyi optimize eder."
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "Gelişmiş Geri Dönme Ayarları"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "Sıçrama zamanlayıcılarınızın ne zaman ve nerede tetikleneceğini daha ayrıntılı olarak belirtebilmek için bu seçeneği seçin. Tüm geri dönme seçenekleri faredeki tüm düğmelere uygulanır."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "Makronuzun adını değiştirin ve bu bilgilere istediğiniz zaman erişin."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "Makro Türü seçim menüsüne erişin."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "Makro tuş vuruşu kaydını başlatmak ve duraklatmak için bu düğmeyi kullanın."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "Zamanı Ayarla veya Kaydedildiği Gibi arasında seçim yapmak, girişler arasında tutarlı gecikmeleri otomatik olarak ayarlamanıza veya manuel olarak kaydetmenize/ayarlamanıza olanak tanır."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "Makronuzu kaydedin."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "Sıçrama gecikmesini tam basmaya başladığınız anda veya fare düğmesine tamamen bastığınız anda ayarlayın."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "Sıçrama gecikmesini tam olarak bırakmaya başladığınız anda veya fare düğmesini tamamen bıraktığınız anda ayarlayın."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "Sıçrama gecikmesini, fareyi kaldırıp tekrar yüzeye yerleştirdiğiniz anda ayarlayın."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "Küresel Miras"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "Cihaza Özel"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "Glorious Modu"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "Sürekli Nefes Alma"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "Nefes Alma"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "Tek Renk"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "Nefes Alan Tek Renk"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "Kuyruk"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "Parti"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "Dalga"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "LED Kapalı"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "Dalga #1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "Dalga #2"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "Spiralli Dalga"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "Asit Modu"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "Normalde Açık"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "Ripple Graff"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "İzsiz Geçiş"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "İzsiz Hızlı Koşma"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "Matris 2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "Matris 3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "Gökkuşağı"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "Kalp Atışı Sensörü"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "Dijital Zamanlar"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "Kamehameha"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "Ping Pong"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "Tırmanış"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "OG RGB"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "RGB Gökkuşağı"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "Pembe Greyfurt"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "Nebula"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "Pastel"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "Uzay Ateşi"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "Uzay Buzu"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "Bukalemun"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "Glorious Altın"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "Parti"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "Kitt"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "Anahtar bağlama"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "Standart"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "İşlev Katmanı"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "Alternatif Katman"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "İşlev + Alt Katman"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "Katman Kayması"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "Önceden Ayarlanmış Efektler"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "Anahtar Başına Özel"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "Sayılar"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "Yan Işıklar"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "Değiştiriciler"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "F Tuşları"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "Oklar"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "Tüm"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "Tuş Darbesi"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "Klavye İşlevi"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "Fare İşlevi"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "DPI"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "Makro"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "Multimedya"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "Kısayollar"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "Devre Dışı Bırak"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "Ses Değiştirme"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "Ses Kontrolü"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "Profil Yukarı Döngü"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "Profil Aşağı Döngü"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "Katman Yukarı Döngü"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "Katman Aşağı Döngü"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "Sol Tıklama"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "Sağ Tıklama"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "Kaydırma Tekerleğiyle Tıklama"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "İleri"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "Geri"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "Yukarı Kaydır"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "Aşağı Kaydır"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "Profil Yukarı Değiştir"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "Profil Aşağı Değiştir"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "Katman Kaydır"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "DPI Aşama Yukarı"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "DPI Aşaması Aşağı"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "DPI Yukarı Döngü"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "DPI Aşağı Döngü"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "DPI Kilidi"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "Medya Oynatıcıyı Aç"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "Oynat/Duraklat"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "Sonraki Parça"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "Önceki Parça"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "Durdur"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "Sessiz"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "Sesi Artır"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "Sesi Azalt"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "Sonraki Parça"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "Önceki Parça"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "Programı Başlat"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "Web Sitesini Başlat"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "Windows Fonksiyonu"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "E-posta"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "Hesap Makinesi"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "Bilgisayarım"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "Explorer"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "Ana Sayfa"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "Yenile"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "Durdur"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "Geri"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "İleri"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "Arama"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "Windows Anahtarı"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "Tekrarlama Yok"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "Mod seç"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "Değiştir"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "Beklerken Tekrarla"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "Düğmeye Bas"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "Düğme Döndürme"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "Küresel Miras"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "Cihaza Özel"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "Program URL'sini Gir"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "URL girin"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "Ana Sayfa"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "Atanan"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "Macro Info"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "USB Kablosu"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "Hoşgeldiniz GLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "Glorious ID'ye kaydolduğunuzda kesintisiz erişimin ve kişiselleştirilmiş deneyimin avantajlarından yararlanın. Aşağıdakileri içeren özel özelliklerle CORE 2.0 ile etkileşiminizi kolaylaştırın"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "25'e kadar benzersiz profili kaydedin ve buluta senkronize edin."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "Bulut profillerinize CORE 2.0 Kurulu olan herhangi bir cihazdan erişin."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "Oluşturduğunuz profilleri kolaylıkla yönetin ve paylaşın."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "Giriş yapmak"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "Kayıt olmak"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "Glorious ID'ye hoş geldiniz! Hesap oluşturmak, kişiselleştirilmiş deneyiminize erişmenizi sağlar!"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "Hesap bilgilerini Güncelle"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "Çıkış Yap"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "Glorious Bulut Profilleri"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "TOA Hesabı"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "Gloriousgaming.com müşteri hesabınızı bağlayın..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "Bağlı"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "Bağlı değil"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "Bağlamak"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "Uygulamak"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "Kapat"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "İndirmek"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "Cihazı Güncelle"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "Alıcıyı Güncelle"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "Güncelleme Yöneticisi"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "Ok"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "Cihaz listesinde vurgulanan cihazlar için mevcut donanım yazılımı güncellemeleri var!"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "Güncellemek istediğiniz cihazları seçin:"
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "Kullanılabilir Cihaz Yok"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "Uyarı"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "Güncellemeler için seçilen bazı cihazlarda hem kablolu hem de kablosuz alıcı takılı değil. Devam etmek istediğinizden emin misiniz?"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "Cihaz bulunamadı."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "Seçili cihaz yüklenirken bir hata oluştu."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "Profil1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "Profil2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "Profil3"
+    }
+]

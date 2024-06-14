@@ -1,0 +1,73 @@
+.keybinding-selection.mouse
+{
+    font-size: 34px;
+    /* transform-origin: top left;
+    scale: 1.3333; */
+}
+
+/* .scale-1 .keybinding-selection.mouse
+{
+    scale: 1.6667;
+}
+
+.scale-2 .keybinding-selection.mouse
+{
+    scale: 2;
+}
+
+.scale-3 .keybinding-selection.mouse
+{
+    scale: 2;
+} */
+
+.keybinding-selection.mouse .nodes
+{
+    position: relative; 
+}
+
+.keybinding-selection.mouse .node
+{
+    color: var(--base-shades-20);
+    border: solid 3px var(--base-shades-50);
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 6px;
+    position: absolute;
+    cursor: pointer;
+    white-space: nowrap;
+    background-color: var(--base-shades-80);
+}
+.keybinding-selection.mouse .node:hover
+,.keybinding-selection.mouse .node[data-selected]
+{
+    border-color: var(--glorange-60);
+}
+
+.keybinding-selection.mouse .node .line
+{
+    height: 3px;
+    position: absolute;
+    background-color: var(--base-shades-50);
+    rotate: var(--angle, 0deg);
+}
+.keybinding-selection.mouse .node[data-selected] .line
+{
+    border-color: var(--glorange-60);
+}
+
+.keybinding-selection.mouse .nodes
+,.keybinding-selection.mouse .termination-points
+{
+    /* translate: -138px 6px;    */
+}
+.keybinding-selection.mouse .termination-point
+{
+    --size: 12px;
+    width: var(--size);
+    height: var(--size);
+    translate: var(--x) var(--y);
+    background-color: var(--base-shades-20);
+    border-radius: 50%;
+    position: absolute;
+}

@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "يرجى أن تربط منتجات جلوريوس الخاصة بك"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "قد يستغرق ظهور الأجهزة بضع ثوانٍ"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "يتم الآن تحميل الأجهزة المتصلة"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "الصفحة الرئيسية"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "الإعدادات"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "أسماء المنتجات"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "إعدادات"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "إصدار"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "أعرض سجل التغيير"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "قم بتشغيل مجموعة برمجيات كور بشكل تلقائي عندما تبدأ تشغيل الكمبيوتر"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "تم تصغير إطلاق مجموعة برمجيات كور بشكل افتراضي"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "تعريف أدوات مجموعة برمجيات كور"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "مكّن التحديثات التلقائية"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "غيّر سمة اللون"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "الاستعداد العالمي"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "أوقف التشغيل بعد فترة الخمول"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "اللغة"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "الدعم"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "هل ثمة خاصية تريد أن تطلبها؟"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "وسيلة الرَبط لدى جلوريوس"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "خطوات الرَبط"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1. افصل جميع كابلات وأجهزة الاستقبال الخاصة بفأرة جلوريوس."
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2. وصل الفأرة التي تريد أن تربطها عبر كابل يو إس بي. قم بتوصيل جهاز الاستقبال اللاسلكي."
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3. حدد الفأرة التي يتم ربطها وتوصيلها من الأداة أدناه."
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4. عندما يتم إعادة توصيل كل من \"يو إس بي\" وجهاز الاستقبال اللاسلكي، انقر فوق الزر \"أربط\" ."
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "فأرة"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "جهاز استقبال لاسلكي"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "متصل"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "غير متصل"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "اختار فأرة"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "ألا ترى فأرتك في القائمة؟"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "يرجى الرجوع إلى الرابط التالي لتحصل على دعم الجهاز الكلاسيكي: أداة الربط الكلاسيكية"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "أداة الاقتران الكلاسيكية."
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "جهازي"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "فأرتي"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "أداء"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "اللوحة الرقمية الخاصة بي"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "لوحة الماوس الخاصة بي"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "الكابل الخاص بي"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "سماعتي"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "إنارة المنزل"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "مفتاح ملزمة"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "الصفحة الرئيسية لارتباط المفتاح"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "وحدات الماكرو"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "الاختصارات"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "بيت"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "برامج ثابتة في الحاسوب"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "ملفات التعريف"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "حتى الآن"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "التحديث متاح"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "تحديث..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "فشل التحديث"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "أوقف تشغيل اللون الأحمر والأخضر والأزرق بعد فترة الخمول"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "التحديث متاح"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "لوحة مفاتيحي"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "معدل تكرار إرسال البيانات"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "الحساسية الدوارة"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "تأخير الإدخال"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "تعليق"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "إعدادات"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "معدل تكرار إرسال البيانات"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "استقصاء منفصل للسلكي/اللاسلكي"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "مسافة رفع الفأرة"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "مدة إزالة الارتداد"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "تزامن الحركة"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "إعدادات متقدمة"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "وقت الصحافة"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "قبل الصحافة"
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "بعد الصحافة"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "وقت الإصدار"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "قبل الإصدار"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "بعد الإصدار"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "وقت الصحافة الإقلاع"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "إضاءة"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "تأثير"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "سطوع سلكي/لاسلكي منفصل"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "سلكي"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "سطوع"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "سطوع لاسلك"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "RGB Gradient"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "معدل"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "تأثيرات مضبوطة مُسبقًا"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "نمط اللون"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "تخصيص لكل مفتاح"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "لا توجد تخطيطات مخصصة"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "اختيار المفتاح السريع"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "Breathing"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "نقطة لكل بوصة"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "مراحل نقطة لكل بوصة"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "الافتراضي"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "حدد زر الماوس أعلاه لرؤية خيارات ربط المفاتيح الخاصة به."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "ارتباط المفتاح"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "تحول الطبقة"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "يجب تعيين زر الفأرة كتحول طبقة في \r\nالطبقة المعيارية ضمن \"وظيفة الفأرة\" لتصل\r\n إلى الطبقة الثانية للوظائف."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "الضغط على المفاتيح"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "مفتاح"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "معدل"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "وظيفة لوحة المفاتيح"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "وظيفة الفأرة"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "نقطة لكل بوصة"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "ماكروس"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "عندما تختار \"ماكرو جديد\"، فسيؤدي ذلك إلى فتح نموذج إنشاء \r\nالماكرو. يمكنك بداخله أن تختار نوع الماكرو الذي \r\nتريد إنشاءه وتحدد الاسم وتسجل مدخلاتك وتعدّلها.\r\n\r\n سيؤدي الحفظ من داخل هذا النموذج إلى إضافته إلى القائمة الموجودة على\r\n اليسار."
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "لم يتم حفظ أي ماكرو"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "نوع الماكرو"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "وسائط متعددة"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "اختصارات"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "زر التعطيل"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "المنزلق"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "التشفير الدوارة"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "حجم التطبيق"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "مصدر الصوت"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "طريق"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "التشغيل"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "نقطة التشغيل المخصصة"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "استخدم شريط التمرير لتعيين النقطة التي سيتم فيها تنشيط أي ضغطة على المفتاح."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "سيسمح لك تحديد الزر أدناه بتحرير نقطة التشغيل على أساس كل مفتاح."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "إظهار التصور"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "المفاتيح المتقدمة"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "مرحبًا بك في تزامن اللون الأحمر والأخضر والأزرق"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "يساعد تزامن اللون الأحمر والأخضر والأزرق لدى جلوريوس على تزامن تأثيرات \r\nالإضاءة بين منتجات جلوريوس \r\nلتحصل على تخصيص اللون الأحمر والأخضر والأزرق أحسن مما كان من قبل."
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "خذني في جولة"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "تخطي الجولة"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "لا تريني هذا مرة أخرى"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "سيؤدي إجراء تحديد من القائمة المجاورة إلى تطبيق \r\nتأثير الإضاءة المعني على المنتجات التي \r\nوصلتها. \r\n\r\nلدى التأثيرات المختلفة معلمات تخصيص مختلفة. \r\nاستخدم علامات التبويب أعلاه لتتنقل بين الخيارات الخاصة \r\nبتأثير الإضاءة الذي حددته."
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "تأثير الإضاءة"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "موجة"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "متزامن"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "حلزوني"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "دورة"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "موجة خطية"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "متموج"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "تنفسي"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "مطر"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "نار"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "أداة"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "مزامنة الصوت"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "المظهر"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "الحركة"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "سطوع"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "اضبط سطوع التأثير"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "معدل"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "اضبط سرعة التأثير"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "نمط اللون"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "تدرّج اللون الأحمر والأخضر والأزرق"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "لون مخصص"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "التعتيم"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "اللون"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "السرعة"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "نطاق ترددي"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "تدرّج اللون"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "الزاوية"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "الاتجاه"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "يرسل إلى أعلى"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "يتحرك التأثير في الاتجاه الطبيعي\r\n، ثم يرتدّ."
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "فجوة"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "اضبط المسافة بين الألوان."
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "ثنائي الإتجاه"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "يتحرك مؤثران ضوئيان متماثلان في اتجاهين \r\nمتعاكسين في نفس الوقت."
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "رقم"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "نطاق التأثير"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "نصف قُطر"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "تم إضاءة جميع المفاتيح داخل نصف القُطر"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "السعة"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "سجل الدخول"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "سجل الدخول إلى"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "تسجّل"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "عنوان البريد الالكترونى"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "كلمة المرور"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "هل نسيت كلمة السر"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "لا تقلق! أدخل عنوان البريد الإلكتروني المتصل\r\n بحسابك وسنرسل لك رابط \r\nلتُعيد تعيين كلمة مرورك."
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "أنشئ كلمة مرور"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "أنشئ كلمة مرور جديدة"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "أكد كلمة المرور"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "أكد كلمة المرور الجديدة"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "واصل تسجيل الدخول"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "تابع"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "تطابق كلمة المرور"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "كلمة المرور غير صحيحة"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "ليس لديك حساب؟"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "هل لديك حساب بالفعل؟"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "سجل الدخول هنا"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "تابع مع"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "تسجيل الولوج الموحّد"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "يرجى أن تُدخل عنوان بريد إلكتروني صالح"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "أرسل"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "تم إرسال الرابط"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "لم ترى الرابط بعدُ؟ قد يستغرق ذلك نحو 00 دقيقة حتى\r\n يظهر في صندوق الوارد الخاص بك."
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "أرسل رابط آخر"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "مرحباً"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "مرحبًا بعودتك"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "تم تسجيل الدخول بنجاح"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "تم التسجيل بنجاح"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "تسجيل دخول أحادي"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "قم بتسجيل الدخول إلى حساب Google/Meta الخاص بك للوصول إلى Glorious ID الخاص بك!"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "وصّل حساب العميل"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "قم بتوصيل حساب عميل Gloriousgaming.com الخاص بك بـ Glorious ID الخاص بك للحفاظ على مزامنة المعلومات والاستفادة الكاملة من الميزات والفوائد."
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "وصّل"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "تابع بدون ربط"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "يمكنك دائمًا أن تربط وتوصّل الحساب فيما بعد."
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "أكد منطقتك"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "هل يبدو هذا صحيح؟"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "إذا لم يكن الأمر كذلك، اختر المنطقة الصحيحة من القائمة\r\n المنسدلة قبل أن تتابع."
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "اختر لغتك"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "راجع اتفاقية ترخيص المستخدم النهائي/اللائحة العامة لحماية البيانات"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "أؤكد أن عمري يزيد عن 13 عام"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "إعادة تعيين الإعداد الافتراضيّ"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "أخفي التصفح الأيسر"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "دليل المنتج"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "دعم المنتج"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "اختر نوع الماكرو الذي تريده لتبدأ به. \r\nيمكنك أن تغيره في أي وقت."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "عدم التكرار"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "يعمل عدم تكرار الماكرو مرة واحدة لكل عملية تنشيط حيثما \r\n يتم تعيينه."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "بدّل"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "فور التنشيط، يعمل ماكرو التبديل بشكل متواصل \r\nحتى يتم تنشيطه مرة ثانية."
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "كرر ذلك أثناء الضغط على الزر"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "سيعمل الماكرو المعين بشكل مستمر طالما \r\nتم الضغط باستمرار على المشغل المخصص له."
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "تأخير"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "تأخير زمني ثابت بين كافة ضغطات المفاتيح. \r\nحدد وقت من 10ms دقيقة إلى دقيقة 10000ms"
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "ستظهر التأخيرات بين ضغطات المفاتيح بدقة\r\n بالنسبة للوقت المسجل لها."
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "أداة انتقاء اللون"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "لون نشط"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "أحمر"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "أخضر"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "أرزق"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "عيّنات الألوان"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "تغييرات لم يتم حفظها"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "لديك تغييرات غير محفوظة حيث سيتم \r\nفقدها إذا اخترت الخروج الآن. \r\n\r\nهل ترغب في المتابعة؟"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "نعم، تجاهل التغييرات"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "لا، أود العودة"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "يرجى توصيل جميع الأجهزة المطلوبة عبر يو إس بي من أجل تحديث البرامج الثابتة."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "ألغي"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "تابع"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "يتم حاليًّا تنزّيل  (المنتج)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "يتم حاليًّا تثبيت البرامج الثابتة (للمنتج)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "لا تقم بفصل كابل (الماوس) وجهاز الاستقبال أو إعادة تشغيل التطبيق!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "لا تفصل (لوحة مفاتيحك) وجهاز الاستقبال أو تُعيد تشغيل التطبيق!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "تم تحديث البرنامج الثابت (المنتج) بنجاح"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "أغلق"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "التحقق من صحة ربط الأجهزة اللاسلكية"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "ستؤدي بعض التحديثات إلى إلغاء ربط جهاز الاستقبال بالفأرة."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "لتستعيد الاتصال اللاسلكي، يرجى إعادة ربط جهاز الاستقبال الخاص بك باستخدام أداة الربط."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "تجاهل"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "افتح أداة الربط"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "لقد تعذر تحديث البرامج الثابتة"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "يبدو أن جهاز الاستقبال اللاسلكي الخاص بالجهاز غير متصل."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "يرجى أن تفحص جهاز الاستقبال اللاسلكي الخاص بك وتحاول مرة أخرى."
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "فشل تنزيل التحديث"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "مدير البرامج الثابتة"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "يتوفر إصدار جديد من البرامج الثابتة لهذه الأجهزة"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "أجهزة أخرى"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "تنزيل وتثبيت البرامج الثابتة"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "تثبيت البرامج الثابتة"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "يلغي"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "تنظيف البرامج الثابتة"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "يُرجى التأكد من توصيل كل من الماوس وجهاز الاستقبال."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "تطبيق أحدث البرامج الثابتة في الحاسوب"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "تنزيل البرامج الثابتة"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "تثبيت البرامج الثابتة"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "لا تفصل كابل (الفأرة) وجهاز الاستقبال أو تُعيد تشغيل التطبيق!"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "تم ملاحظة نسخة جديدة"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "هل نزّلته وثبته؟"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "نزّل"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "ألغي"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "نزّل مجموعة برمجيات كور جلوريوس"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "تحديث التطبيق"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "لقد بدأ تحديث برنامج التثبيت"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "يتم حاليًّا إغلاق..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "كيف تبدأ عملية الربط"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "إعدادات الارتداد المتقدمة"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "يرجى فصل الفأرة، ثم أوقف تشغيلها باستخدام مفتاح التشغيل/الإيقاف الموجود في الأسفل."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "أثناء قيامك بالضغط بشكل متواصل على زر عجلة التمرير، المس جهاز الاستقبال بالفأرة، ثم شغله."
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "واصل الضغط على زر عجلة التمرير لمدة 4 ثوانٍ تقريبًا حتى تومض مصابيح ليد باللون الأخضر."
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "حسنًا"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "لتواصل عملية الربط"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "تمت عملية الربط والتوصيل بنجاح"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "يمكنك الآن استخدام الفأرة بشكل لاسلكي."
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "لقد تعذر إتمام عملية الربط والتوصيل"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "لقد تعذر إتمام عملية الربط والتوصيل"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "تأكد من أن الإنترنت متصل بشكل ثابت قبل أن تحاول مرة أخرى."
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "متصل"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "متصل"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "متصل"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "التغييرات غير المحفوظة"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "راجع بحثًا عن تحديثات"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "نشط"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "غير نشط"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "حالة"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "آخر تحديث:"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "معدل تكرار إرسال البيانات:"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "Motion Sync"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "تأثير الإضاءة:"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "ملفات تعريف لوحة الماوس"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "ملف تعريف الماوس"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "ملف تعريف لوحة المفاتيح"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "تسجيل الدخول"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "يسجل"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "Glorious ID للوصول إلى الملفات الشخصية السحابية!"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "ملفات تعريف التخزين السحابي"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "ملفات تعريف التخزين السحابي"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "راجع بحثًا عن تحديثات"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "تمديد الضمان"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "الصفحة الرئيسية للدعم"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "خاصية التأييد"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "أربط ووصل"
+    },
+    {
+        "key": "Button_Save",
+        "value": "أحفظ"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "تراجع عن"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "مزيد من الإجراءات"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "التحقق من تحديث FW"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "تحديث البرامج الثابتة"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "استورد"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "صدّر"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "وسّع"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "ألغي عيّنة الألوان"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "ماكرو جديد"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "عدّل الماكرو"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "استورد"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "صدّر"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "ابدأ التسجيل"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "أوقف التسجيل"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "احفظ الماكرو"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "تصفح"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "يلغي"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "نعم"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "كشف التنقل الأيسر"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "إخفاء التنقل الأيسر"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "دليل المنتج"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "دعم المنتج"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "على"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "عن"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "تدرّج اللون الأحمر والأخضر والأزرق"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "لون مخصص"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "اضبط الوقت"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "حسبما تم تسجيله"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "تأخير الإدخال"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "هو المدة التي تمر بين إرسال إشارة كهربائية وحدوث إجراء مقابل لها"
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "مظهر"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "يسمح لك تصدير ملف التعريف بحفظ الإعدادات المخصصة. وسيسمح لك استيراد ملف التعريف بتطبيق الإعدادات المخصصة من ملف التعريف هذا. يمكنك الحصول على ما يصل إلى ثلاثة ملفات تعريف في CORE في وقت واحد."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "معدل تكرار إرسال البيانات"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "تعريف الأدوات - معدل تكرار إرسال البيانات هو عبارة عن عدد المرات التي يراجع فيها نظام التشغيل الخاص بك بحثًا عن الإدخال.\r\n وهذا يُعد عامل في تحديد الحد الأقصى لفترة التباطؤ في الإدخال\r\nعند الضغط على المفاتيح. يستهلك معدل تكرار إرسال البيانات المرتفع موارد وحدة المعالجة المركزية \r\n بشكل أكبر من معدلات تكرار إرسال البيانات المنخفضة."
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "الحساسية الدوارة"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "تتحكم حساسية الدوران في زيادة الضبط بين كل خطوة."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "عن"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "لن يدخل الجهاز في وضع الاستعداد بغض النظر عن مؤقت الاستعداد العام."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "وراثة العالمية"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "سيلتزم الجهاز بإعداد مؤقت الاستعداد العام."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "خاص بالجهاز"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "سيكون مؤقت الاستعداد للجهاز مستقلاً عن مؤقت الاستعداد العام."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "مسافة الارتفاع عن السطح"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "تعريف الأدوات - مدة إزالة الارتداد هي عبارة عن تأخير في اكتشاف النقرات بعد\r\n النقرة الأولى."
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "مدة إزالة الارتداد"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "مدة إزالة الارتداد هي عبارة عن تأخير في اكتشاف النقرات بعد النقرة الأولى."
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "مزامنة الحركة"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "تعريف الأدوات -يُحسن تزامن الحركة تتبع الفأرة عن طريق\r\n مزامنة المستشعر وأحداث تكرار إرسال البيانات \"يو أس بي\" ."
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "إعدادات الارتداد المتقدمة"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "حدد هذا الخيار حتى تتمكن من تحديد متى وأين يتم تشغيل مؤقتات الارتداد الخاصة بك. يتم تطبيق جميع خيارات الارتداد على جميع الأزرار الموجودة على الماوس."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "قم بتغيير اسم الماكرو الخاص بك والوصول إلى هذه المعلومات في أي وقت."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "الوصول إلى قائمة تحديد نوع الماكرو."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "استخدم هذا الزر لبدء تسجيل ضغطات الماكرو وإيقافه مؤقتًا."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "يسمح لك الاختيار بين `ضبط الوقت` أو `كما هو مسجل` إما بتعيين تأخيرات متسقة تلقائيًا بين المدخلات، أو التسجيل/الضبط يدويًا."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "حفظ الماكرو الخاص بك."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "اضبط تأخير الارتداد في اللحظة التي تبدأ فيها الضغط على زر الماوس أو تضغط عليه بالكامل."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "اضبط تأخير الارتداد في اللحظة المحددة التي تبدأ فيها تحرير زر الماوس أو تحريره بالكامل."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "اضبط تأخير الارتداد في نفس اللحظة التي قمت فيها برفع الماوس ووضعه مرة أخرى على السطح."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "وراثة العالمية"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "خاص بالجهاز"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "وضع جلوريوس"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "التنفس السلس"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "التنفس"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "لون واحد"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "تنفس لون واحد"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "الذيل"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "ريف"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "موجة رقم"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "تعطيل الإضاءة"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "موجة رقم1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "موجة رقم 2"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "موجة لولبية"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "وضع الأسيد"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "بشكل طبيعي على"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "ريبل جراف"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "المرور بدون أثر"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "تشغيل سريع بدون أثر"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "مصفوفة 2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "مصفوفة 3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "قوس قزح"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "جهاز استشعار دقات القلب"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "الأوقات الرقمية"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "كاميهاميها"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "بينغ بونغ"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "التغلب"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "نسق ألوان أصلي أحمر أخضر أزرق"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "قوس قزح أحمر أخضر أزرق"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "جريب فروت وردي"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "نجمة سديم"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "باستيل"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "نار سماوية"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "جليدي سماوي"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "كاميليون"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "ذهب جلوريوس"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "ريف"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "كيت"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "مفتاح ملزمة"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "معيارية"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "طبقة الوظيفة"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "الطبقة البديلة"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "الوظيفة + الطبقة البديلة"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "تحول الطبقة"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "تأثيرات محددة مسبقا"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "مخصص لكل مفتاح"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "أعداد"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "أضواء جانبية"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "الصفات التعريفية"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "مفاتيح F"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "السهام"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "الجميع"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "كبسة على مفتاح"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "وظيفة لوحة المفاتيح"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "وظيفة الماوس"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "نقطة لكل بوصة"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "ماكرو"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "الوسائط المتعددة"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "اختصارات"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "تعطيل"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "تبديل الصوت"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "التحكم في الصوت"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "الوصول إلى الحد الأقصى للنقاط في البوصة لملف التعريف"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "الوصول إلى الحد الأدنى للنقاط في البوصة لملف التعريف"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "الوصول إلى الحد الأدنى للنقاط في البوصة للطبقة"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "الوصول إلى الحد الأدنى للنقاط في البوصة للطبقة"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "أنقر على اليسار"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "أنقر على اليمين"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "أنقر على عجلة التمرير بالفأرة"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "للأمام"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "للخلف"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "تصفح القائمة إلى أعلى"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "قم بالتمرير لأسفل"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "تنقل في ملف التعريف لأعلى"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "تنقل في ملف التعريف لأسفل"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "تحويلة الطبقة"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "مستوى DPI للأعلى"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "خفض مستوى DPI"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "الوصول إلى الحد الأدنى للنقاط في البوصة"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "الوصول إلى الحد الأدنى للنقاط في البوصة"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "غلق نقطة لكل بوصة"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "افتح مشغل الوسائط"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "التشغيل/الإيقاف المؤقت"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "المسار التالي"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "المسار السابق"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "الإيقاف"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "كتم الصوت"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "أرفع مستوى الصوت"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "اخفض مستوى الصوت"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "المقطع التالي"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "المقطع السابق"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "إطلق البرنامج"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "أطلق موقع إلكتروني"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "وظيفة الويندوز"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "البريد الإلكتروني"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "الآلة الحاسبة"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "جهاز الحاسوب الخاص بي"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "Explorer"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "الصفحة الرئيسية"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "جدّد"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "الإيقاف"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "للخلف"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "للأمام"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "البحث"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "مفتاح ويندوز"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "لا تكرار"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "حدد الوضع"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "تبديل"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "كرر أثناء الإمساك"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "دفع المقبض"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "دوران المقبض"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "وراثة العالمية"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "خاص بالجهاز"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "أدخل عنوان موقع الانترنت للبرنامج"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "إدخال عنوان الموقع"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "الصفحة الرئيسية"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "تم تعيين"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "Macro Info"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "كابل يو إس بي"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "مرحبا بك في  GLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "اكتشف فوائد الوصول السلس والتجربة الشخصية عند التسجيل للحصول على Glorious ID. قم بتبسيط تفاعلك مع CORE 2.0 من خلال الميزات الحصرية التي تشمل:"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "حفظ ومزامنة ما يصل إلى 25 ملفًا شخصيًا فريدًا على السحابة."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "يمكنك الوصول إلى ملفات التعريف السحابية الخاصة بك من أي جهاز مثبت عليه CORE 2.0."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "إدارة ومشاركة الملفات الشخصية التي تقوم بإنشائها بسهولة."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "تسجيل الدخول"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "يسجل"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "مرحبًا بك في Glorious ID! يتيح لك إنشاء حساب الوصول إلى تجربتك الشخصية!"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "تحديث معلومات الحساب"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "تسجيل خروج"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "ملفات تعريف السحابة المجيدة"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "حساب الدخول الموحد"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "قم بتوصيل حساب عميل gloriousgaming.com الخاص بك..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "متصل"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "غير متصل"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "يتصل"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "ينفذ"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "اغلق"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "تحميل"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "تحديث الجهاز"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "تحديث جهاز الاستقبال"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "مدير التحديثات"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "نعم"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "لدى الأجهزة المميزة في قائمة الأجهزة تحديثات البرامج الثابتة المتاحة! حدّد الأجهزة التي تود تحديثها"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "حدد الأجهزة التي ترغب في تحديثها:"
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "لا توجد أجهزة متاحة"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "تحذير"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "بعض الأجهزة المحددة للتحديثات لا تحتوي على كل من جهاز الاستقبال والكابل اللاسلكي الخاص بها. هل أنت متأكد من رغبتك في المتابعة؟"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "لم يتم العثور علي الجهاز."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "حدث خطأ أثناء تحميل الجهاز المحدد."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "ملف التعريف 1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "الملف التعريف 2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "الملف التعريف 3"
+    }
+]

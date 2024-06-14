@@ -1,0 +1,80 @@
+[data-toggle-choice] input
+{
+    display: none;
+}
+
+[data-toggle-choice].track
+{
+    background-color: transparent;
+    color: white;
+    border-radius: 21px;
+    border: solid 1px white;
+    padding: 2px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+    flex-shrink: 0;
+    flex-wrap: nowrap;
+
+    transition: background-color 200ms ease, color 200ms ease, border-color 200ms ease;
+}
+
+[data-toggle-choice] .thumb
+{
+    --size: 100%;
+    grid-column: 1/1;
+    grid-row: 1/1;
+    background-color: var(--toggle-track-color);
+    width: var(--size);
+    height: 100%;
+    border-radius: 21px;
+    transition: translate 200ms ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 13px;
+    z-index: 1;
+}
+
+[data-toggle-choice] .choice
+{
+    z-index: 2;
+    grid-row: 1/1;
+    padding: 5px 10px;
+    user-select: none;
+    font-size: 10px;
+    white-space: nowrap;
+}
+[data-toggle-choice] .choice.disabled
+{
+    opacity: .7;
+}
+
+[data-toggle-choice] .choice.a
+{
+    grid-column: 1/1;
+    color: var(--toggle-track-text-color);
+    font-weight: bold;
+}
+[data-toggle-choice] input:checked ~ .choice.a
+{
+    color: inherit;
+    font-weight: normal;
+}
+
+[data-toggle-choice] .choice.b
+{
+    grid-column: 2;
+}
+[data-toggle-choice] input:checked ~ .choice.b
+{
+    color: var(--toggle-track-text-color);
+    font-weight: bold;
+}
+
+[data-toggle-choice] input:checked ~ .thumb
+{
+    translate: calc(100%) 0;
+}

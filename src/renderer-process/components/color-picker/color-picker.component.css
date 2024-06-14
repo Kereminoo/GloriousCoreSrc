@@ -1,0 +1,228 @@
+[data-color-picker]
+{
+    --picker-size: 100px;
+    --swatch-size: 20px;
+    --hue-picker-thickness: 20px;
+
+    display: grid;
+    gap: 5px;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto 1fr;
+
+}
+[data-color-picker].expanded
+{
+    --picker-size: 150px;
+    --hue-picker-thickness: 20px;
+    grid-template-columns: 150px auto;
+    grid-template-rows: auto 1fr;
+    column-gap: 50px;
+    row-gap: 0;
+}
+
+[data-color-picker].expanded .active-color
+{
+    grid-row: 1/3;
+}
+
+
+[data-color-picker] .active-color .field
+{
+    flex-direction: row;
+    gap: 5px;
+    grid-column: 1;
+}
+[data-color-picker].expanded .active-color .field .label
+{
+    flex: 1;
+}
+
+[data-color-picker] .active-color .field input
+{
+    background-color: transparent;
+    border: solid 1px #F5F5F5;
+    color: #F5F5F5;
+    border-radius: 2px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: normal;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 10px;
+}
+[data-color-picker].expanded .active-color .field input
+{
+    width: 80px;
+}
+
+[data-color-picker] .active-color .hex .color-preview
+{
+    width: var(--swatch-size);
+    height: var(--swatch-size);
+}
+
+[data-color-picker] .active-color .field.hex input
+{
+    flex: 1;
+    height: 20px;
+    width: calc(var(--picker-size) - var(--swatch-size) - 10px);
+    color: #F5F5F5;
+}
+[data-color-picker].expanded .active-color .field.hex
+{
+    margin-bottom: 10px;
+}
+[data-color-picker].expanded .active-color .field.hex input
+{
+    width: 80px;
+    height: 30px;
+    border: solid 1px #F5F5F5;
+    text-align: center;
+    font-size: 10px;
+}
+
+[data-color-picker] .active-color .integer-values
+{
+    display: none;
+}
+[data-color-picker].expanded .active-color .integer-values
+{
+    display: grid;
+    gap: 10px;
+}
+
+[data-color-picker] .active-color > header
+{
+    display: none;
+}
+[data-color-picker].expanded .active-color > header
+{
+    display: block;
+    margin-bottom: 5px;
+}
+
+[data-color-picker] .color-picker-heading
+{
+    display: none;
+}
+[data-color-picker].expanded .color-picker-heading
+{
+    display: block;
+    grid-column: 2;
+    grid-row: 1;
+    margin-bottom: 5px;
+}
+
+
+[data-color-picker] .react-colorful 
+{
+    width: var(--picker-size);
+    /* height: var(--picker-size); */
+    height: calc(var(--picker-size) + 20px);
+    border-radius: 0;
+    grid-column: 1;
+    grid-row: 2;
+    gap: 5px;
+}
+[data-color-picker] .react-colorful__saturation
+{
+    border-bottom: 0;
+    border-radius: 0;
+}
+[data-color-picker] .react-colorful__hue 
+{
+    height: var(--hue-picker-thickness);
+    border-radius: 0;
+    
+    /* double the size of the picker, so it stretches across the swatches */
+    transform-origin: 0 50%;
+    scale: 176% 1; /* scale percentage set arbitrarily by visually comparing values in dev tools */
+}
+[data-color-picker].expanded .react-colorful__hue 
+{    
+    transform-origin: 0 0;
+    scale: 1;
+}
+
+[data-color-picker] .react-colorful__saturation-pointer 
+{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    z-index: 2;
+}
+[data-color-picker] .react-colorful__hue-pointer
+{
+    width: 5px;
+    height: calc(var(--hue-picker-thickness) + 4px);
+    border-radius: 2px;
+    border-width: 1px;
+}
+
+[data-color-picker].expanded .react-colorful 
+{
+    grid-column: 2;
+    grid-row: 2;
+}
+
+
+
+
+[data-color-picker] .swatches
+{
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+    grid-column: 2;
+    grid-row: 1/3;
+}
+[data-color-picker].expanded .swatches
+{
+    flex-direction: column;
+    grid-column: 3;
+    justify-content: flex-start;
+}
+
+
+[data-color-picker] .swatches > header
+{
+    display: none;
+}
+[data-color-picker].expanded .swatches > header
+{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.swatches .items
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    display: grid;
+    grid-template-columns: repeat(3, 20px);
+    grid-template-rows: repeat(4, 20px);
+    gap: 5px;
+}
+[data-color-picker].expanded .swatches .items
+{
+    grid-template-columns: repeat(4, 20px);
+    grid-template-rows: repeat(5, 20px);
+}
+
+[data-color-picker] .swatches .items .swatch
+{
+    /* border: solid 1px white; */
+
+    border-radius: 1px;
+}
+[data-color-picker] .swatches .items .swatch:hover
+,[data-color-picker] .swatches .items .swatch.selected
+{
+    border: solid 1px white;
+}

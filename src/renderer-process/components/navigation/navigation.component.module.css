@@ -1,0 +1,10 @@
+.nav-icon path
+{
+  fill: var(--base-shades-50);
+  transition: fill 150ms ease-out;
+}
+
+.nav-icon:hover path
+{
+  fill: var(--glorange-60);
+}

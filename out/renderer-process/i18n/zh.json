@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "Debug_Test",
+        "value": "TESTING*^&@%!$(!&*@^$__*(&*&(*@#^&%*%){}}:>?><>"
+    },
+    {
+        "key": "ConnectedDevices_Label_FindingDevices",
+        "value": "請連接您的Glorious產品"
+    },
+    {
+        "key": "ConnectedDevices_Label_DeviceDelayWarning",
+        "value": "設備可能需要幾秒鐘才會出現"
+    },
+    {
+        "key": "ConnectedDevices_Label_LoadingDevices",
+        "value": "載入已連線的裝置"
+    },
+    {
+        "key": "Navigation_Home",
+        "value": "首頁"
+    },
+    {
+        "key": "Navigation_Settings",
+        "value": "設置"
+    },
+    {
+        "key": "Navigation_ProductNames",
+        "value": "產品名稱"
+    },
+    {
+        "key": "DeviceName_0x320F0x5044",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5092",
+        "value": "GMMK PRO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5046",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5093",
+        "value": "GMMK PRO ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504A",
+        "value": "GMMK v2 65 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x5045",
+        "value": "GMMK v2 65 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x505A",
+        "value": "GMMK v2 96 ISO"
+    },
+    {
+        "key": "DeviceName_0x320F0x504B",
+        "value": "GMMK v2 96 US"
+    },
+    {
+        "key": "DeviceName_0x320F0x5088",
+        "value": "GMMK Numpad"
+    },
+    {
+        "key": "DeviceName_0x320F0x8888",
+        "value": "Model O Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2011",
+        "value": "Model O Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2036",
+        "value": "Model O Minus Wired"
+    },
+    {
+        "key": "DeviceName_0x258A0x2013",
+        "value": "Model O Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2015",
+        "value": "Model O PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x823A",
+        "value": "Model O 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x822A",
+        "value": "Model O 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2019",
+        "value": "Model O 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201B",
+        "value": "Model O 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x258A0x2012",
+        "value": "Model D Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2014",
+        "value": "Model D Minus Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x2017",
+        "value": "Model D PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201A",
+        "value": "Model D 2 PRO 1k"
+    },
+    {
+        "key": "DeviceName_0x258A0x201C",
+        "value": "Model D 2 PRO 8k"
+    },
+    {
+        "key": "DeviceName_0x22D40x1503",
+        "value": "Model I"
+    },
+    {
+        "key": "DeviceName_0x093A0x821A",
+        "value": "Model I 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x831A",
+        "value": "Model valueG"
+    },
+    {
+        "key": "DeviceName_0x093A0x824A",
+        "value": "Model D 2 Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x825A",
+        "value": "Model D 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x12CF0x0491",
+        "value": "GMP 2 GLED"
+    },
+    {
+        "key": "DeviceName_0x258A0x2018",
+        "value": "Series One PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x258A0x201D",
+        "value": "valueH PRO Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x827A",
+        "value": "valueF Wired"
+    },
+    {
+        "key": "DeviceName_0x093A0x826A",
+        "value": "valueF Wireless"
+    },
+    {
+        "key": "DeviceName_0x0BDA0x8773",
+        "value": "Glorious Wireless valueE"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C6",
+        "value": "valueB 75%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CC",
+        "value": "valueB 75% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C7",
+        "value": "valueB 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CD",
+        "value": "valueB 65% Wireless"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C5",
+        "value": "valueB"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CB",
+        "value": "valueB Wireless"
+    },
+    {
+        "key": "DeviceName_0x320F0x832A",
+        "value": "Model D- 2 Wired"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C8",
+        "value": "valueA valueD 100%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3CA",
+        "value": "valueA valueD 65%"
+    },
+    {
+        "key": "DeviceName_0x342D0xE3C9",
+        "value": "valueA valueD 75%"
+    },
+    {
+        "key": "Settings_CompanyName",
+        "value": "GLORIOUS"
+    },
+    {
+        "key": "Settings_ProductName",
+        "value": "CORE"
+    },
+    {
+        "key": "Settings_Tab_Settings",
+        "value": "設置"
+    },
+    {
+        "key": "Settings_Tab_Glorious_ID",
+        "value": "Glorious ID"
+    },
+    {
+        "key": "Settings_Version",
+        "value": "版本"
+    },
+    {
+        "key": "Settings_ViewChangelog",
+        "value": "查看變更日誌"
+    },
+    {
+        "key": "Settings_LaunchOnStartup",
+        "value": "在電腦開機時自動運行CORE"
+    },
+    {
+        "key": "Settings_MinimizedByDefault",
+        "value": "預設情況下運行CORE時最小化"
+    },
+    {
+        "key": "Settings_Tooltips",
+        "value": "CORE工具提示"
+    },
+    {
+        "key": "Settings_AutomaticUpdates",
+        "value": "啟用自動更新"
+    },
+    {
+        "key": "Settings_ColorTheme",
+        "value": "更改顏色主題"
+    },
+    {
+        "key": "Settings_GlobalStandby",
+        "value": "全局備用"
+    },
+    {
+        "key": "Settings_TurnOffAfterActivity",
+        "value": "不活動之後關閉"
+    },
+    {
+        "key": "Settings_Language",
+        "value": "語言"
+    },
+    {
+        "key": "Settings_Support",
+        "value": "支援"
+    },
+    {
+        "key": "Settings_FeatureRequestPrompt",
+        "value": "您有想要請求什麼功能嗎？"
+    },
+    {
+        "key": "Pairing_Title",
+        "value": "Glorious的配對程式"
+    },
+    {
+        "key": "Pairing_List_Heading",
+        "value": "配對步驟"
+    },
+    {
+        "key": "Pairing_List_Step1",
+        "value": "1. 拔掉所有Glorious滑鼠的纜線和接收器。"
+    },
+    {
+        "key": "Pairing_List_Step2",
+        "value": "2. 將您想要通過 USB 纜線配對的滑鼠插入。插入無線接收器。"
+    },
+    {
+        "key": "Pairing_List_Step3",
+        "value": "3. 從下面的程式中選擇要配對的滑鼠。"
+    },
+    {
+        "key": "Pairing_List_Step4",
+        "value": "4. 當USB和無線接收器都重新連接後，請點擊配對按鈕。"
+    },
+    {
+        "key": "Pairing_Device_Title",
+        "value": "滑鼠"
+    },
+    {
+        "key": "Pairing_Receiver_Title",
+        "value": "無線接收器"
+    },
+    {
+        "key": "Pairing_Connection_Connected",
+        "value": "連接"
+    },
+    {
+        "key": "Pairing_Connection_Disconnected",
+        "value": "拆接"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DefaultOption",
+        "value": "選擇滑鼠"
+    },
+    {
+        "key": "Pairing_DeviceSelect_DeviceNotFoundPrompt",
+        "value": "在清單中找不到您的滑鼠？"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicSupportDescription",
+        "value": "請參考以下連結以獲得經典設備支援：經典配對程式"
+    },
+    {
+        "key": "Pairing_DeviceSelect_ClassicPairingUtilityLink",
+        "value": "经典配对实用程序."
+    },
+    {
+        "key": "Device_Tabs_Label_Home_UnknownDevice",
+        "value": "我的设备"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Mouse",
+        "value": "我的滑鼠"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Keyboard",
+        "value": "我的鍵盤"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Numpad",
+        "value": "我的数字键盘"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueJ",
+        "value": "我的鼠标垫"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_Cable",
+        "value": "我的电缆"
+    },
+    {
+        "key": "Device_Tabs_Label_Home_valueE",
+        "value": "我的耳机"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_LightingHome",
+        "value": "照明之家"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Keybinding",
+        "value": "按键绑定"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_KeybindingHome",
+        "value": "鍵綁定首頁"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Macros",
+        "value": "宏"
+    },
+    {
+        "key": "Device_Breadcrumb_Label_Shortcuts",
+        "value": "快捷方式"
+    },
+    {
+        "key": "Device_Home_Label_Home",
+        "value": "家"
+    },
+    {
+        "key": "Device_Home_Label_Firmware",
+        "value": "韌體"
+    },
+    {
+        "key": "Device_Home_Label_Profile",
+        "value": "設定"
+    },
+    {
+        "key": "Device_Home_Label_UpToDate",
+        "value": "最新"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "可用更新"
+    },
+    {
+        "key": "Device_Home_Label_Updating",
+        "value": "更新中..."
+    },
+    {
+        "key": "Device_Home_Label_UpdateFailed",
+        "value": "更新失败"
+    },
+    {
+        "key": "Device_Home_Label_RGBOffAfterInactivity",
+        "value": "RGB 在閒置後關閉"
+    },
+    {
+        "key": "Device_Home_Label_UpdateAvailable",
+        "value": "可用更新"
+    },
+    {
+        "key": "Device_Performance_Label_Performance",
+        "value": "性能"
+    },
+    {
+        "key": "Device_Performance_Label_PollingRate",
+        "value": "回報率"
+    },
+    {
+        "key": "Device_Performance_Label_RotarySensitivity",
+        "value": "旋转灵敏度"
+    },
+    {
+        "key": "Device_Performance_Label_InputLatency",
+        "value": "輸入延遲"
+    },
+    {
+        "key": "Device_Performance_Label_Standby",
+        "value": "支持"
+    },
+    {
+        "key": "Device_Settings_Label_Settings",
+        "value": "設置"
+    },
+    {
+        "key": "Device_Settings_Label_PollingRate",
+        "value": "輪詢率"
+    },
+    {
+        "key": "Device_Settings_Label_SeparatePollingRate",
+        "value": "有线/无线单独轮询"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffDistance",
+        "value": "抬昇距離"
+    },
+    {
+        "key": "Device_Settings_Label_DebounceTime",
+        "value": "反彈時間"
+    },
+    {
+        "key": "Device_Settings_Label_MotionSync",
+        "value": "動態同步"
+    },
+    {
+        "key": "Device_Settings_Label_Advanced_Settings",
+        "value": "高级设置"
+    },
+    {
+        "key": "Device_Settings_Label_PressTime",
+        "value": "新闻时间"
+    },
+    {
+        "key": "Device_Settings_Label_BeforePress",
+        "value": "出版前"
+    },
+    {
+        "key": "Device_Settings_Label_AfterPress",
+        "value": "按下后"
+    },
+    {
+        "key": "Device_Settings_Label_ReleaseTime",
+        "value": "推出日期"
+    },
+    {
+        "key": "Device_Settings_Label_BeforeRelease",
+        "value": "发布前"
+    },
+    {
+        "key": "Device_Settings_Label_AfterRelease",
+        "value": "发布后"
+    },
+    {
+        "key": "Device_Settings_Label_LiftOffPressTime",
+        "value": "起飞新闻时间"
+    },
+    {
+        "key": "Device_Lighting_Label_Lighting",
+        "value": "照明"
+    },
+    {
+        "key": "Device_Lighting_Label_Effect",
+        "value": "效果"
+    },
+    {
+        "key": "Device_Lighting_Label_SeparateBrightness_WiredWireless",
+        "value": "個別的有線/無線亮度"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_WiredPrefix",
+        "value": "有線"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness",
+        "value": "亮度"
+    },
+    {
+        "key": "Device_Lighting_Label_Brightness_Wireless",
+        "value": "無線亮度"
+    },
+    {
+        "key": "Device_Lighting_Label_RGBGradient",
+        "value": "RGB Gradient"
+    },
+    {
+        "key": "Device_Lighting_Label_Rate",
+        "value": "評分"
+    },
+    {
+        "key": "Device_Lighting_Label_PresetEffect",
+        "value": "預設效果"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorStyle",
+        "value": "颜色款式"
+    },
+    {
+        "key": "Device_Lighting_Label_CustomPerKey",
+        "value": "自訂按鍵"
+    },
+    {
+        "key": "Device_Lighting_Label_NoCustomLayouts",
+        "value": "没有自定义布局"
+    },
+    {
+        "key": "Device_Lighting_Label_QuickKeySelection",
+        "value": "快捷键选择"
+    },
+    {
+        "key": "Device_Lighting_Label_Breathing",
+        "value": "呼吸"
+    },
+    {
+        "key": "Device_Lighting_Label_ActiveColor",
+        "value": "Active Color"
+    },
+    {
+        "key": "Device_Lighting_Label_ColorPicker",
+        "value": "Color Picker"
+    },
+    {
+        "key": "Device_Lighting_Label_Red",
+        "value": "Red"
+    },
+    {
+        "key": "Device_Lighting_Label_Green",
+        "value": "Green"
+    },
+    {
+        "key": "Device_Lighting_Label_Blue",
+        "value": "Blue"
+    },
+    {
+        "key": "Device_Lighting_Label_Swatches",
+        "value": "Swatches"
+    },
+    {
+        "key": "Device_DPI_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_DPI_Label_DPIStages",
+        "value": "DPI等級"
+    },
+    {
+        "key": "Device_DPI_Label_Default",
+        "value": "預設"
+    },
+    {
+        "key": "Device_Keybinding_Mouse_SelectButton",
+        "value": "选择上方的鼠标按钮以查看其键绑定选项."
+    },
+    {
+        "key": "Device_Keybinding_Label_Keybinding",
+        "value": "按鍵綁定"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Heading",
+        "value": "換層"
+    },
+    {
+        "key": "Device_Keybinding_Label_LayerShift_Description",
+        "value": "必須在“滑鼠功能”下的標準層上\r\n將滑鼠按鈕指定為“換層”，以便讀取\r\n第二層功能。"
+    },
+    {
+        "key": "Device_Keybinding_Label_Keystroke",
+        "value": "鍵次"
+    },
+    {
+        "key": "Device_Keybinding_Label_Key",
+        "value": "鍵"
+    },
+    {
+        "key": "Device_Keybinding_Label_Modifier",
+        "value": "修飾符"
+    },
+    {
+        "key": "Device_Keybinding_Label_KeyboardFunction",
+        "value": "鍵盤功能"
+    },
+    {
+        "key": "Device_Keybinding_Label_MouseFunction",
+        "value": "滑鼠功能"
+    },
+    {
+        "key": "Device_Keybinding_Label_DPI",
+        "value": "DPI"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macros",
+        "value": "巨集"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription1",
+        "value": "選擇「新巨集」將打開巨集創建\r\n對話框。在其中，您可以選擇要創建的\r\n巨集類型，設置名稱\r\n\r\n，並記錄和編輯輸入。在對話框內保存將把它添加到左側的列表\r\n中。"
+    },
+    {
+        "key": "Device_Keybinding_Label_MacroDescription2",
+        "value": ""
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_EmptyList",
+        "value": "未儲存巨集"
+    },
+    {
+        "key": "Device_Keybinding_Label_Macro_MacroType",
+        "value": "Macro Type"
+    },
+    {
+        "key": "Device_Keybinding_Label_Multimedia",
+        "value": "多媒體"
+    },
+    {
+        "key": "Device_Keybinding_Label_Shortcuts",
+        "value": "快捷方式"
+    },
+    {
+        "key": "Device_Keybinding_Label_URL",
+        "value": "URL"
+    },
+    {
+        "key": "Device_Keybinding_Label_Disable",
+        "value": "去能按鈕"
+    },
+    {
+        "key": "Device_Keybinding_Label_Slider",
+        "value": "滑块"
+    },
+    {
+        "key": "Device_Keybinding_Label_RotaryEncoder",
+        "value": "旋转编码器"
+    },
+    {
+        "key": "Device_Keybinding_Label_ApplicationVolume",
+        "value": "申请量"
+    },
+    {
+        "key": "Device_Keybinding_Label_AudioSource",
+        "value": "音源"
+    },
+    {
+        "key": "Device_Keybinding_Label_Path",
+        "value": "小路"
+    },
+    {
+        "key": "Device_Actuation_Label_Actuation",
+        "value": "驱动"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Header",
+        "value": "自定义驱动点"
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description1",
+        "value": "使用滑块设置任意按键激活的点."
+    },
+    {
+        "key": "Device_Actuation_Label_CustomActuationPoint_Description2",
+        "value": "选择下面的按钮将允许您编辑每个按键的驱动点."
+    },
+    {
+        "key": "Device_Actuation_Label_ShowVisualization",
+        "value": "显示可视化"
+    },
+    {
+        "key": "Device_AdvancedKeys_Label_AdvancedKeys",
+        "value": "高级按键"
+    },
+    {
+        "key": "RGBSync_Welcome",
+        "value": "歡迎來到 RGB 同步"
+    },
+    {
+        "key": "RGBSync_Description",
+        "value": "Glorious的 RGB 同步\r\n功能使您能夠在您的Glorious產品\r\n之間擁有同步燈光效果，從而實現比以往更豐富的 RGB 自定義。"
+    },
+    {
+        "key": "RGBSync_BeginTour",
+        "value": "帶我四處看看"
+    },
+    {
+        "key": "RGBSync_SkipTour",
+        "value": "跳過導覽"
+    },
+    {
+        "key": "RGBSync_DoNotShow",
+        "value": "請勿再顯示此訊息"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription1",
+        "value": "從相鄰的清單中選擇將應用相應的\r\n照明效果到您已連接\r\n的產品。\r\n\r\n不同的效果具有不同的自定義參數。\r\n使用上方的標籤來瀏覽您\r\n所選照明效果的選項。"
+    },
+    {
+        "key": "RGBSync_LightingEffectDescription2",
+        "value": ""
+    },
+    {
+        "key": "RGBSync_LightingEffect",
+        "value": "燈光效果"
+    },
+    {
+        "key": "RGBSync_Wave",
+        "value": "波"
+    },
+    {
+        "key": "RGBSync_Sonic",
+        "value": "音波"
+    },
+    {
+        "key": "RGBSync_Spiral",
+        "value": "螺旋"
+    },
+    {
+        "key": "RGBSync_Cycle",
+        "value": "循環"
+    },
+    {
+        "key": "RGBSync_LinearWave",
+        "value": "線性波"
+    },
+    {
+        "key": "RGBSync_Ripple",
+        "value": "漣波"
+    },
+    {
+        "key": "RGBSync_Respiratory",
+        "value": "呼吸"
+    },
+    {
+        "key": "RGBSync_Rain",
+        "value": "雨"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "火"
+    },
+    {
+        "key": "RGBSync_Trigger",
+        "value": "觸發"
+    },
+    {
+        "key": "RGBSync_AudioSync",
+        "value": "音頻同步"
+    },
+    {
+        "key": "RGBSync_Appearance",
+        "value": "外貌"
+    },
+    {
+        "key": "RGBSync_Movement",
+        "value": "移動"
+    },
+    {
+        "key": "RGBSync_Brightness",
+        "value": "亮度"
+    },
+    {
+        "key": "RGBSync_BrightnessDescription",
+        "value": "調整亮度效果"
+    },
+    {
+        "key": "RGBSync_Rate",
+        "value": "評分"
+    },
+    {
+        "key": "RGBSync_RateDescription",
+        "value": "調整效果速度"
+    },
+    {
+        "key": "RGBSync_ColorStyle",
+        "value": "色彩風格"
+    },
+    {
+        "key": "RGBSync_RGBGradient",
+        "value": "RGB梯度"
+    },
+    {
+        "key": "RGBSync_CustomColor",
+        "value": "自訂顏色"
+    },
+    {
+        "key": "RGBSync_Opacity",
+        "value": "不透明度"
+    },
+    {
+        "key": "RGBSync_Color",
+        "value": "顏色"
+    },
+    {
+        "key": "RGBSync_Speed",
+        "value": "速度"
+    },
+    {
+        "key": "RGBSync_Bandwidth",
+        "value": "頻寬"
+    },
+    {
+        "key": "RGBSync_Gradient",
+        "value": "梯度"
+    },
+    {
+        "key": "RGBSync_Angle",
+        "value": "角度"
+    },
+    {
+        "key": "RGBSync_Direction",
+        "value": "方向"
+    },
+    {
+        "key": "RGBSync_Bump",
+        "value": "提高"
+    },
+    {
+        "key": "RGBSync_BumpDescription",
+        "value": "效果向正常方向\r\n移動並反彈回來。"
+    },
+    {
+        "key": "RGBSync_Gap",
+        "value": "間隙"
+    },
+    {
+        "key": "RGBSync_GapDescription",
+        "value": "調整顏色之間的間距。"
+    },
+    {
+        "key": "RGBSync_Bidirectional",
+        "value": "雙向"
+    },
+    {
+        "key": "RGBSync_BidirectionalDescription",
+        "value": "兩個相同的燈光效果同時以相反的方向\r\n移動。"
+    },
+    {
+        "key": "RGBSync_Number",
+        "value": "數字"
+    },
+    {
+        "key": "RGBSync_Fire",
+        "value": "Fire"
+    },
+    {
+        "key": "RGBSync_RangeOfEffect",
+        "value": "效果範圍"
+    },
+    {
+        "key": "RGBSync_Radius",
+        "value": "半徑"
+    },
+    {
+        "key": "RGBSync_IlluminatedWithinRadius",
+        "value": "半徑內的所有按鍵都被照亮。"
+    },
+    {
+        "key": "RGBSync_Amplitude",
+        "value": "振幅"
+    },
+    {
+        "key": "GloriousID_Login",
+        "value": "登入"
+    },
+    {
+        "key": "GloriousID_LoginTo",
+        "value": "登入至"
+    },
+    {
+        "key": "GloriousID_Register",
+        "value": "註冊"
+    },
+    {
+        "key": "GloriousID_EmailAddress",
+        "value": "電子郵件地址"
+    },
+    {
+        "key": "GloriousID_Password",
+        "value": "密碼"
+    },
+    {
+        "key": "GloriousID_ForgotPassword",
+        "value": "忘記密碼"
+    },
+    {
+        "key": "GloriousID_ForgotPasswordDescription",
+        "value": "請放心！輸入與您的帳戶相關聯\r\n的電子郵件地址，我們將發送一個連結\r\n來重設您的密碼。"
+    },
+    {
+        "key": "GloriousID_CreatePassword",
+        "value": "創建密碼"
+    },
+    {
+        "key": "GloriousID_CreateNewPassword",
+        "value": "創建新密碼"
+    },
+    {
+        "key": "GloriousID_ConfirmPassword",
+        "value": "確認密碼"
+    },
+    {
+        "key": "GloriousID_ConfirmNewPassword",
+        "value": "確認新密碼"
+    },
+    {
+        "key": "GloriousID_ContinueToLogin",
+        "value": "繼續登入"
+    },
+    {
+        "key": "GloriousID_Continue",
+        "value": "繼續"
+    },
+    {
+        "key": "GloriousID_PasswordsMatch",
+        "value": "密碼相符"
+    },
+    {
+        "key": "GloriousID_IncorrectPassword",
+        "value": "密碼錯誤"
+    },
+    {
+        "key": "GloriousID_NoAccountPrompt",
+        "value": "沒有帳戶？"
+    },
+    {
+        "key": "GloriousID_ExistingAccountPrompt",
+        "value": "已有帳戶？"
+    },
+    {
+        "key": "GloriousID_SignInHere",
+        "value": "請在這裡登錄"
+    },
+    {
+        "key": "GloriousID_OrContinueWith",
+        "value": "或者繼續進行"
+    },
+    {
+        "key": "GloriousID_SSORegistration",
+        "value": "SSO註冊"
+    },
+    {
+        "key": "GloriousID_EnterValidEmail",
+        "value": "請輸入有效的電子郵件地址"
+    },
+    {
+        "key": "GloriousID_Send",
+        "value": "發送"
+    },
+    {
+        "key": "GloriousID_LinkSent",
+        "value": "連結已發送"
+    },
+    {
+        "key": "GloriousID_UnsentLinkPrompt",
+        "value": "看不到連結嗎？可能需要000\r\n分鐘，才會出現在您的收件箱中。"
+    },
+    {
+        "key": "GloriousID_SendAnotherLink",
+        "value": "請再發送一個連結。"
+    },
+    {
+        "key": "GloriousID_Welcome",
+        "value": "歡迎"
+    },
+    {
+        "key": "GloriousID_WelcomeBack",
+        "value": "歡迎回來"
+    },
+    {
+        "key": "GloriousID_LoginSuccessful",
+        "value": "登入成功"
+    },
+    {
+        "key": "GloriousID_RegistrationSuccessful",
+        "value": "註冊成功"
+    },
+    {
+        "key": "GloriousID_SingleSignOnPrompt",
+        "value": "單一登入"
+    },
+    {
+        "key": "GloriousID_Google_Meta_SigninPrompt",
+        "value": "請登入您的 Google/Meta 帳戶以存取\r\n您的 Glorious ID！"
+    },
+    {
+        "key": "GloriousID_ConnectAccountTitle",
+        "value": "連接客戶帳戶"
+    },
+    {
+        "key": "GloriousID_ConnectAccountDescription",
+        "value": "將您的gloriousgaming.com客戶帳戶\r\n連接到您的Glorious ID，以獲得同步資訊\r\n，並充分利用功能和好處。"
+    },
+    {
+        "key": "GloriousID_Connect",
+        "value": "連接"
+    },
+    {
+        "key": "GloriousID_ContinueWithoutLinking",
+        "value": "繼續，跳過連接"
+    },
+    {
+        "key": "GloriousID_AsyncAccountConnection",
+        "value": "您隨時可以稍後連接帳戶。"
+    },
+    {
+        "key": "GloriousID_ConfirmRegion",
+        "value": "請確認您的地區"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionPrompt",
+        "value": "這樣對嗎？"
+    },
+    {
+        "key": "GloriousID_IncorrectRegionRecourse",
+        "value": "如果不正確，請在繼續之前從下拉\r\n選項單中選擇正確的地區。"
+    },
+    {
+        "key": "GloriousID_SelectLanguage",
+        "value": "請選擇您的語言"
+    },
+    {
+        "key": "GloriousID_ReviewEULA_GDPR",
+        "value": "請閱讀最終用戶許可協議（EULA）和歐盟一般資料保護規則（GDPR）。"
+    },
+    {
+        "key": "GloriousID_AgeConfirmation",
+        "value": "我確認我已年滿13歲。"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ResetToDefault",
+        "value": "恢復為預設值"
+    },
+    {
+        "key": "Device_MoreActions_Menu_HideNavigation",
+        "value": "隱藏左側導覽"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductGuide",
+        "value": "產品指南"
+    },
+    {
+        "key": "Device_MoreActions_Menu_ProductSupport",
+        "value": "產品支援"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Description",
+        "value": "請選擇您想要開始的巨集類型。\r\n您隨時可以更改它。"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Title",
+        "value": "不重複"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_NoRepeat_Description",
+        "value": "一個「不重複」巨集在分配的地方每次啟動時\r\n執行一次。"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Title",
+        "value": "雙態觸變 "
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_Toggle_Description",
+        "value": "啟動後，切換巨集會持續執行\r\n，直到第二次啟動。"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Title",
+        "value": "按住時重複"
+    },
+    {
+        "key": "MacroEditor_Label_MacroType_RepeatWhileHolding_Description",
+        "value": "只要它的觸發器被按住\r\n，指定的巨集將持續執行。"
+    },
+    {
+        "key": "MacroEditor_Label_Delay",
+        "value": "延遲"
+    },
+    {
+        "key": "MacroEditor_Label_SetTimeDescription",
+        "value": "所有鍵次之間保持一致的時間延遲。從10ms設置\r\n值到10000ms。"
+    },
+    {
+        "key": "MacroEditor_Label_AsRecordedDescription",
+        "value": "按鍵次之間的延遲將顯示為\r\n與其記錄的時間相符。"
+    },
+    {
+        "key": "ColorPicker_Label_ColorPicker",
+        "value": "顏色選擇器"
+    },
+    {
+        "key": "ColorPicker_Label_ActiveColor",
+        "value": "活躍的顏色"
+    },
+    {
+        "key": "ColorPicker_Label_Red",
+        "value": "紅色"
+    },
+    {
+        "key": "ColorPicker_Label_Green",
+        "value": "綠色"
+    },
+    {
+        "key": "ColorPicker_Label_Blue",
+        "value": "藍色"
+    },
+    {
+        "key": "ColorPicker_Label_Swatches",
+        "value": "色板"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Title",
+        "value": "未儲存的變更"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Description",
+        "value": "您有未儲存的更改，如果您選擇現在退出，這些更改將會\r\n丟失。\r\n\r\n您是否要繼續？"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_Prompt",
+        "value": ""
+    },
+    {
+        "key": "Dialog_UnsavedChanges_DiscardButton",
+        "value": "是的，放棄更改。"
+    },
+    {
+        "key": "Dialog_UnsavedChanges_CancelButton",
+        "value": "不，我想要折回。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_ConnectDevices",
+        "value": "請將所有必要的設備通過 USB 連接，以進行下載韌體更新。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CancelButton",
+        "value": "取消"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Continue",
+        "value": "繼續"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Downloading",
+        "value": "下載 (產品)"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Installing",
+        "value": "為 (產品) 安裝韌體"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_MouseInstruction",
+        "value": "请勿拔下（鼠标）电缆和接收器或重新启动应用程序!"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "請勿拔掉您的（鍵盤纜線）或重新啟動應用程式！"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateSuccessful",
+        "value": "（產品）韌體更新成功"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Close",
+        "value": "關閉"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_WirelessPairingValidation",
+        "value": "無線裝置配對驗證"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateUnpairWarning",
+        "value": "有些更新會導致接收器與滑鼠解除配對。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_RePairInstruction",
+        "value": "請使用配對程式重新配對您的接收器，以恢復無線連接。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_Ignore",
+        "value": "忽略"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_OpenPairingUtility",
+        "value": "打開配對程式"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_UpdateFailed",
+        "value": "韌體更新失敗"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_DisconnectFailDescription",
+        "value": "該設備的無線接收器似乎已斷開連接。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_CheckReceiver",
+        "value": "請檢查您的無線接收器，然後重試。"
+    },
+    {
+        "key": "Dialog_SingleDeviceFirmware_KeyboardInstruction",
+        "value": "下载更新失败"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Title",
+        "value": "固件管理器"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Description",
+        "value": "这些设备有新的固件版本可用"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_OtherDevices",
+        "value": "其他设备"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_DownloadAndInstallButton",
+        "value": "下载并安装固件"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_BeginInstallButton",
+        "value": "安装固件"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_CancelButton",
+        "value": "取消"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_ClearDownloadsButton",
+        "value": "清理固件"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Reminder",
+        "value": "请确保您的鼠标和接收器均已插入."
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Applying",
+        "value": "應用最新的韌體"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Downloading",
+        "value": "下載韌體"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Installing",
+        "value": "安裝韌體"
+    },
+    {
+        "key": "Dialog_FirmwareUpdater_Instruction",
+        "value": "請勿拔除您的（滑鼠）纜線和接收器，或重新啟動應用程式！"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_NewVersionDetected",
+        "value": "偵測到新版本。"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_DownloadAndInstall",
+        "value": "下載並安裝嗎？"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Download",
+        "value": "下載"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Cancel",
+        "value": "取消"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Downloading",
+        "value": "下載Glorious CORE"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_AppUpdate",
+        "value": "應用程式更新"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_InstallerHasStarted",
+        "value": "更新安裝程式已經啟動。"
+    },
+    {
+        "key": "Dialog_SoftwareUpdater_Closing",
+        "value": "關閉中..."
+    },
+    {
+        "key": "Dialog_Pairing_Begin_Title",
+        "value": "開始配對"
+    },
+    {
+        "key": "Dialog_AdvancedDebounceSettings_Title",
+        "value": "Advanced Debounce Settings"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph1",
+        "value": "請拔出滑鼠，然後使用底部的開關將其關閉。"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph2",
+        "value": "按住滾輪按鈕，將滑鼠輕觸接收器並打開它。"
+    },
+    {
+        "key": "Dialog_Pairing_InProgress_Paragraph3",
+        "value": "持續按住滾輪按鈕約4秒，直到LED燈閃爍為綠色。"
+    },
+    {
+        "key": "Dialog_Pairing_OkButton",
+        "value": "確認"
+    },
+    {
+        "key": "Dialog_Pairing_Continue_Title",
+        "value": "繼續配對"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Title",
+        "value": "配對成功"
+    },
+    {
+        "key": "Dialog_Pairing_Success_Description",
+        "value": "您現在可以無線使用您的滑鼠了。"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Title",
+        "value": "配對失敗"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Description",
+        "value": "配對失敗"
+    },
+    {
+        "key": "Dialog_Pairing_Failed_Network_Description",
+        "value": "請確保您在再次嘗試之前有穩定的網路連接。"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Connected",
+        "value": "连接的"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionUnstable",
+        "value": "连接的"
+    },
+    {
+        "key": "Device_Home_Dash_Label_ConnectionLost",
+        "value": "连接的"
+    },
+    {
+        "key": "Device_Home_Dash_Label_Unsaved_Changes",
+        "value": "未保存的更改"
+    },
+    {
+        "key": "Device_Home_Label_Firmware_Check_For_Update",
+        "value": "查看更新"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Active_Status",
+        "value": "啟用"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Inactive_Status",
+        "value": "停用"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Status",
+        "value": "狀態"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Last_Updated",
+        "value": "最後更新"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Polling_Rate",
+        "value": "回報率"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Motion_Sync",
+        "value": "Motion Sync"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Modal_Lighting_Effect",
+        "value": "燈光效果"
+    },
+    {
+        "key": "Device_Home_Label_valueJ_Profiles_Header",
+        "value": "鼠标垫配置文件"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Header",
+        "value": "滑鼠設定檔"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Header",
+        "value": "鍵盤設定檔"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_SignIn",
+        "value": "登入"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Register",
+        "value": "登记"
+    },
+    {
+        "key": "Device_Home_Label_Profiles_Cloud_Login_Text",
+        "value": "Glorious ID以存取雲端檔案！"
+    },
+    {
+        "key": "Device_Home_Label_Mouse_Profiles_Cloud_Header",
+        "value": "雲端設定檔"
+    },
+    {
+        "key": "Device_Home_Label_Keyboard_Profiles_Cloud_Header",
+        "value": "雲端設定檔"
+    },
+    {
+        "key": "Button_CheckForAppUpdates",
+        "value": "檢查更新"
+    },
+    {
+        "key": "Button_ExtendWarranty",
+        "value": "延長保固"
+    },
+    {
+        "key": "Button_SupportHomepage",
+        "value": "支援首頁"
+    },
+    {
+        "key": "Button_FeatureUpvote",
+        "value": "功能讚同"
+    },
+    {
+        "key": "Button_Pairing_Pair",
+        "value": "配對"
+    },
+    {
+        "key": "Button_Save",
+        "value": "儲存"
+    },
+    {
+        "key": "Button_Undo",
+        "value": "廢除"
+    },
+    {
+        "key": "Button_MoreActions",
+        "value": "更多操作"
+    },
+    {
+        "key": "Button_CheckForFirmwareUpdates",
+        "value": "查看更新"
+    },
+    {
+        "key": "Button_UpdateFirmware",
+        "value": "UPDATE FIRMWARE"
+    },
+    {
+        "key": "Button_ImportProfile",
+        "value": "輸入"
+    },
+    {
+        "key": "Button_ExportProfile",
+        "value": "輸出"
+    },
+    {
+        "key": "Button_Expand",
+        "value": "擴大"
+    },
+    {
+        "key": "Button_DeleteSwatch",
+        "value": "刪除色板"
+    },
+    {
+        "key": "Button_NewMacro",
+        "value": "新的巨集"
+    },
+    {
+        "key": "Button_EditMacro",
+        "value": "編輯巨集"
+    },
+    {
+        "key": "Button_ImportMacro",
+        "value": "輸入"
+    },
+    {
+        "key": "Button_ExportMacro",
+        "value": "輸出"
+    },
+    {
+        "key": "Button_MacroRecording_Start",
+        "value": "開始錄製"
+    },
+    {
+        "key": "Button_MacroRecording_Stop",
+        "value": "停止錄製"
+    },
+    {
+        "key": "Button_SaveMacro",
+        "value": "保存巨集"
+    },
+    {
+        "key": "Button_Browse",
+        "value": "瀏覽"
+    },
+    {
+        "key": "Button_Cancel",
+        "value": "取消"
+    },
+    {
+        "key": "Button_Ok",
+        "value": "Ok"
+    },
+    {
+        "key": "Menu_MoreActions_Reveal",
+        "value": "显示左侧导航"
+    },
+    {
+        "key": "Menu_MoreActions_Hide",
+        "value": "隐藏左侧导航"
+    },
+    {
+        "key": "Menu_MoreActions_ProductGuide",
+        "value": "产品指南e"
+    },
+    {
+        "key": "Menu_MoreActions_ProductSupport",
+        "value": "产品支持"
+    },
+    {
+        "key": "Toggle_On",
+        "value": "在"
+    },
+    {
+        "key": "Toggle_Off",
+        "value": "离开"
+    },
+    {
+        "key": "Toggle_RGBGradient",
+        "value": "RGB梯度"
+    },
+    {
+        "key": "Toggle_CustomColor",
+        "value": "定制颜色"
+    },
+    {
+        "key": "Toggle_SetTime",
+        "value": "設定時間"
+    },
+    {
+        "key": "Toggle_AsRecorded",
+        "value": "根據記錄"
+    },
+    {
+        "key": "Tooltip_InputLatency_Title",
+        "value": "輸入延遲"
+    },
+    {
+        "key": "Tooltip_InputLatency_Description",
+        "value": "輸入延遲是指從發送電信號到相應動作發生之間所經過的時間。"
+    },
+    {
+        "key": "Tooltip_Profiles_Title",
+        "value": "型材"
+    },
+    {
+        "key": "Tooltip_Profiles_Description",
+        "value": "导出配置文件允许您保存自定义设置。导入配置文件将允许您应用该配置文件中的自定义设置。您在 CORE 中最多可以同时拥有三个配置文件."
+    },
+    {
+        "key": "Tooltip_PollingRate_Title",
+        "value": "回報率"
+    },
+    {
+        "key": "Tooltip_PollingRate_Description",
+        "value": "輪詢率是您的作業系統檢查輸入的頻率。\r\n這是確定最大輸入延遲\r\n按鍵的因素。高輪詢率比底輪詢率佔用比較多的 CPU\r\n資源。"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Title",
+        "value": "旋转灵敏度"
+    },
+    {
+        "key": "Tooltip_RotarySensitivity_Description",
+        "value": "旋转灵敏度控制每一步之间的调整增量."
+    },
+    {
+        "key": "Tooltip_Off_Title",
+        "value": "离开"
+    },
+    {
+        "key": "Tooltip_Off_Description",
+        "value": "无论全局待机定时器如何，设备都不会进入待机模式."
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Title",
+        "value": "继承全球"
+    },
+    {
+        "key": "Tooltip_InheritGlobal_Description",
+        "value": "设备将遵循全局待机定时器设置."
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Title",
+        "value": "特定于设备"
+    },
+    {
+        "key": "Tooltip_DeviceSpecific_Description",
+        "value": "设备待机定时器将独立于全局待机定时器."
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Title",
+        "value": "抬昇距離"
+    },
+    {
+        "key": "Tooltip_LiftOffDistance_Description",
+        "value": "反彈時間是在初始點擊後\r\n檢測點擊的延遲時間。"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Title",
+        "value": "反彈時間"
+    },
+    {
+        "key": "Tooltip_DebounceTime_Description",
+        "value": "反彈時間是指在初始點擊後檢測點擊的延遲時間。"
+    },
+    {
+        "key": "Tooltip_MotionSync_Title",
+        "value": "運動同步"
+    },
+    {
+        "key": "Tooltip_MotionSync_Description",
+        "value": "Motion Sync 通過\r\n同步感應器和 USB （通用串列匯流排） 輪詢事件，優化滑鼠追踪。"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Title",
+        "value": "高级去抖设置"
+    },
+    {
+        "key": "Tooltip_AdvancedDebounce_Description",
+        "value": "选择此选项以便您可以进一步指定触发去抖计时器的时间和地点。所有去抖选项均应用于鼠标上的所有按钮."
+    },
+    {
+        "key": "Tooltip_Macro_Name",
+        "value": "更改宏的名称并随时访问此信息."
+    },
+    {
+        "key": "Tooltip_Macro_Type",
+        "value": "访问宏类型选择菜单."
+    },
+    {
+        "key": "Tooltip_Macro_ToggleButton",
+        "value": "使用此按钮开始和暂停宏击键记录."
+    },
+    {
+        "key": "Tooltip_Macro_RecordingType",
+        "value": "在“设置时间”或“按记录”之间进行选择允许您自动设置输入之间一致的延迟，或手动记录/调整."
+    },
+    {
+        "key": "Tooltip_Macro_SaveButton",
+        "value": "保存您的宏."
+    },
+    {
+        "key": "Tooltip_PressTime_Description",
+        "value": "在您开始按下或完全按下鼠标按钮的那一刻调整去抖动延迟."
+    },
+    {
+        "key": "Tooltip_ReleaseTime_Description",
+        "value": "在您开始释放鼠标按钮或完全释放鼠标按钮的那一刻调整去抖延迟."
+    },
+    {
+        "key": "Tooltip_LiftOffPressTime_Description",
+        "value": "在您抬起鼠标并将其放回表面的那一刻调整去抖延迟."
+    },
+    {
+        "key": "Option_StandbyType_InheritGlobal",
+        "value": "继承全球"
+    },
+    {
+        "key": "Option_StandbyType_DeviceSpecific",
+        "value": "特定于设备"
+    },
+    {
+        "key": "Option_LightingEffect_GloriousMode",
+        "value": "輝煌模式"
+    },
+    {
+        "key": "Option_LightingEffect_SeamlessBreathing",
+        "value": "無縫呼吸"
+    },
+    {
+        "key": "Option_LightingEffect_Breathing",
+        "value": "呼吸"
+    },
+    {
+        "key": "Option_LightingEffect_SingleColor",
+        "value": "單色"
+    },
+    {
+        "key": "Option_LightingEffect_BreathingSingleColor",
+        "value": "單色呼吸"
+    },
+    {
+        "key": "Option_LightingEffect_Tail",
+        "value": "尾巴"
+    },
+    {
+        "key": "Option_LightingEffect_Rave",
+        "value": "Rave"
+    },
+    {
+        "key": "Option_LightingEffect_Wave",
+        "value": "波浪"
+    },
+    {
+        "key": "Option_LightingEffect_LEDOFF",
+        "value": "LED 關閉"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#1",
+        "value": "波浪 #1"
+    },
+    {
+        "key": "Option_LightingEffect_Wave#2",
+        "value": "波浪 #2"
+    },
+    {
+        "key": "Option_LightingEffect_SpiralingWave",
+        "value": "螺旋波浪"
+    },
+    {
+        "key": "Option_LightingEffect_AcidMode",
+        "value": "酸性模式"
+    },
+    {
+        "key": "Option_LightingEffect_NormallyOn",
+        "value": "常開"
+    },
+    {
+        "key": "Option_LightingEffect_RippleGraff",
+        "value": "Ripple Graff"
+    },
+    {
+        "key": "Option_LightingEffect_PassWithoutTrace",
+        "value": "無蹤跡超越"
+    },
+    {
+        "key": "Option_LightingEffect_FastRunWithoutTrace",
+        "value": "無蹤跡奔跑"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix2",
+        "value": "矩陣 2"
+    },
+    {
+        "key": "Option_LightingEffect_Matrix3",
+        "value": "矩陣 3"
+    },
+    {
+        "key": "Option_LightingEffect_Rainbow",
+        "value": "彩虹"
+    },
+    {
+        "key": "Option_LightingEffect_HeartbeatSensor",
+        "value": "心跳感應器"
+    },
+    {
+        "key": "Option_LightingEffect_DigitalTimes",
+        "value": "數位時代"
+    },
+    {
+        "key": "Option_LightingEffect_Kamehemeha",
+        "value": "龜派氣功"
+    },
+    {
+        "key": "Option_LightingEffect_Pingpong",
+        "value": "乒乓球"
+    },
+    {
+        "key": "Option_LightingEffect_Surmount",
+        "value": "超越"
+    },
+    {
+        "key": "Option_RGBGradient_OGRGB",
+        "value": "OG RGB"
+    },
+    {
+        "key": "Option_RGBGradient_RGBRainbow",
+        "value": "RGB 彩虹"
+    },
+    {
+        "key": "Option_RGBGradient_PinkGrapefruit",
+        "value": "粉紅葡萄柚"
+    },
+    {
+        "key": "Option_RGBGradient_Nebula",
+        "value": "星雲"
+    },
+    {
+        "key": "Option_RGBGradient_Pastel",
+        "value": "粉彩"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialFire",
+        "value": "星界之火"
+    },
+    {
+        "key": "Option_RGBGradient_CelestialIce",
+        "value": "星界之冰"
+    },
+    {
+        "key": "Option_RGBGradient_Chameleon",
+        "value": "變色龍"
+    },
+    {
+        "key": "Option_RGBGradient_GloriousGold",
+        "value": "輝煌金色"
+    },
+    {
+        "key": "Option_RGBGradient_Rave",
+        "value": "Rave"
+    },
+    {
+        "key": "Option_RGBGradient_Kitt",
+        "value": "Kitt"
+    },
+    {
+        "key": "Option_ProductColor_Default",
+        "value": "Default"
+    },
+    {
+        "key": "Option_ProductColor_Black",
+        "value": "Black"
+    },
+    {
+        "key": "Option_ProductColor_White",
+        "value": "White"
+    },
+    {
+        "key": "Option_ProductColor_BlueLynx",
+        "value": "Blue Lynx"
+    },
+    {
+        "key": "Option_ProductColor_GoldenPanda",
+        "value": "Golden Panda"
+    },
+    {
+        "key": "Option_ProductColor_RedFox",
+        "value": "Red Fox"
+    },
+    {
+        "key": "Option_ProductColor_Flamingo",
+        "value": "Flamingo"
+    },
+    {
+        "key": "Option_ProductColor_Skyline",
+        "value": "Skyline"
+    },
+    {
+        "key": "Option_ProductColor_Vice",
+        "value": "Vice"
+    },
+    {
+        "key": "Option_ProductColor_Centauri",
+        "value": "Centauri"
+    },
+    {
+        "key": "Option_ProductColor_Genos",
+        "value": "Genos"
+    },
+    {
+        "key": "Option_ProductColor_Vidar",
+        "value": "Vidar"
+    },
+    {
+        "key": "Option_KeybindingLayer_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeybindingLayer_SingleLayer_default",
+        "value": "按键绑定"
+    },
+    {
+        "key": "Option_KeybindingLayer_default",
+        "value": "標準"
+    },
+    {
+        "key": "Option_KeybindingLayer_function",
+        "value": "功能层"
+    },
+    {
+        "key": "Option_KeybindingLayer_alt",
+        "value": "替代层"
+    },
+    {
+        "key": "Option_KeybindingLayer_function_alt",
+        "value": "功能 + Alt 层"
+    },
+    {
+        "key": "Option_KeybindingLayer_layerShift",
+        "value": "层移位t"
+    },
+    {
+        "key": "Option_LightSettingMode_PresetEffects",
+        "value": "预设效果"
+    },
+    {
+        "key": "Option_LightSettingMode_CustomPerKey",
+        "value": "每键自定义"
+    },
+    {
+        "key": "Option_QuickKeySelection_WASD",
+        "value": "WASD"
+    },
+    {
+        "key": "Option_QuickKeySelection_Numbers",
+        "value": "数字"
+    },
+    {
+        "key": "Option_QuickKeySelection_SideLights",
+        "value": "侧灯"
+    },
+    {
+        "key": "Option_QuickKeySelection_Modifiers",
+        "value": "修饰符"
+    },
+    {
+        "key": "Option_QuickKeySelection_FKeys",
+        "value": "F键"
+    },
+    {
+        "key": "Option_QuickKeySelection_Arrows",
+        "value": "箭头"
+    },
+    {
+        "key": "Option_QuickKeySelection_All",
+        "value": "全部"
+    },
+    {
+        "key": "Option_BindingTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_BindingTypes_keystroke",
+        "value": "鍵次"
+    },
+    {
+        "key": "Option_BindingTypes_keyboardFunction",
+        "value": "鍵盤功能"
+    },
+    {
+        "key": "Option_BindingTypes_mouseFunction",
+        "value": "滑鼠功能"
+    },
+    {
+        "key": "Option_BindingTypes_dpi",
+        "value": "DPI"
+    },
+    {
+        "key": "Option_BindingTypes_macro",
+        "value": "巨集"
+    },
+    {
+        "key": "Option_BindingTypes_multimedia",
+        "value": "多媒體"
+    },
+    {
+        "key": "Option_BindingTypes_shortcuts",
+        "value": "快捷"
+    },
+    {
+        "key": "Option_BindingTypes_disable",
+        "value": "停用"
+    },
+    {
+        "key": "Option_BindingTypes_audioToggle",
+        "value": "音訊切換"
+    },
+    {
+        "key": "Option_BindingTypes_soundControl",
+        "value": "声音控制"
+    },
+    {
+        "key": "Option_KeyboardFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleUp",
+        "value": "設定循環上升"
+    },
+    {
+        "key": "Option_KeyboardFunctions_profileCycleDown",
+        "value": "設定循環下降"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleUp",
+        "value": "層循環上升"
+    },
+    {
+        "key": "Option_KeyboardFunctions_layerCycleDown",
+        "value": "層循環下降"
+    },
+    {
+        "key": "Option_MouseFunctions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MouseFunctions_leftClick",
+        "value": "按左鍵"
+    },
+    {
+        "key": "Option_MouseFunctions_rightClick",
+        "value": "按右鍵"
+    },
+    {
+        "key": "Option_MouseFunctions_middleClick",
+        "value": "滾輪點擊"
+    },
+    {
+        "key": "Option_MouseFunctions_forward",
+        "value": "向前"
+    },
+    {
+        "key": "Option_MouseFunctions_back",
+        "value": "返回"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollUp",
+        "value": "向上捲動"
+    },
+    {
+        "key": "Option_MouseFunctions_scrollDown",
+        "value": "向下卷動"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleUp",
+        "value": "Cycle up設定檔"
+    },
+    {
+        "key": "Option_MouseFunctions_profileCycleDown",
+        "value": "Cycle down設定檔"
+    },
+    {
+        "key": "Option_MouseFunctions_layerShift",
+        "value": "Layer Shift"
+    },
+    {
+        "key": "Option_MouseFunctions_batteryStatusCheck",
+        "value": "Battery Status Check"
+    },
+    {
+        "key": "Option_DPIOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageUp",
+        "value": "DPI 升级"
+    },
+    {
+        "key": "Option_DPIOptions_dpiStageDown",
+        "value": "DPI 降低"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleUp",
+        "value": "DPI 循環上升"
+    },
+    {
+        "key": "Option_DPIOptions_dpiCycleDown",
+        "value": "DPI 循環下降"
+    },
+    {
+        "key": "Option_DPIOptions_dpiLock",
+        "value": "DPI鎖定"
+    },
+    {
+        "key": "Option_MultimediaOptions_none",
+        "value": ""
+    },
+    {
+        "key": "Option_MultimediaOptions_openMediaPlayer",
+        "value": "開源播放器"
+    },
+    {
+        "key": "Option_MultimediaOptions_playPause",
+        "value": "播放/暫停"
+    },
+    {
+        "key": "Option_MultimediaOptions_next",
+        "value": "下一首歌"
+    },
+    {
+        "key": "Option_MultimediaOptions_previous",
+        "value": "上一首歌"
+    },
+    {
+        "key": "Option_MultimediaOptions_stop",
+        "value": "停止"
+    },
+    {
+        "key": "Option_MultimediaOptions_mute",
+        "value": "靜音"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeUp",
+        "value": "增大音量"
+    },
+    {
+        "key": "Option_MultimediaOptions_volumeDown",
+        "value": "音量降低"
+    },
+    {
+        "key": "Option_MultimediaOptions_nextTrack",
+        "value": "下一首歌"
+    },
+    {
+        "key": "Option_MultimediaOptions_previousTrack",
+        "value": "上一首歌"
+    },
+    {
+        "key": "Option_ShortcutTypes_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ShortcutTypes_launchProgram",
+        "value": "啟動程式"
+    },
+    {
+        "key": "Option_ShortcutTypes_launchWebsite",
+        "value": "啟動網站"
+    },
+    {
+        "key": "Option_ShortcutTypes_windows",
+        "value": "Windows功能"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_none",
+        "value": ""
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_email",
+        "value": "電子郵件地址"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_calculator",
+        "value": "計算機"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_myComputer",
+        "value": "我的電腦"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_explorer",
+        "value": "探险家"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserHome",
+        "value": "首頁"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserRefresh",
+        "value": "再新"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserStop",
+        "value": "停止"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserBack",
+        "value": "返回"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserForward",
+        "value": "向前"
+    },
+    {
+        "key": "Option_WindowsFunctionShortcuts_browserSearch",
+        "value": "搜索"
+    },
+    {
+        "key": "Option_ModifierKeys_none",
+        "value": ""
+    },
+    {
+        "key": "Option_ModifierKeys_shift",
+        "value": "Shift"
+    },
+    {
+        "key": "Option_ModifierKeys_ctrl",
+        "value": "Ctrl"
+    },
+    {
+        "key": "Option_ModifierKeys_alt",
+        "value": "Alt"
+    },
+    {
+        "key": "Option_ModifierKeys_windows",
+        "value": "Windows 键"
+    },
+    {
+        "key": "Option_MacroType_NoRepeat",
+        "value": "不重复"
+    },
+    {
+        "key": "Option_MacroType_SelectMode",
+        "value": "选择模式"
+    },
+    {
+        "key": "Option_MacroType_Toggle",
+        "value": "切换"
+    },
+    {
+        "key": "Option_MacroType_RepeatWhileHolding",
+        "value": "按住时重复"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Push",
+        "value": "旋钮按下"
+    },
+    {
+        "key": "Option_RotaryEncoderAction_Rotate",
+        "value": "旋钮旋转"
+    },
+    {
+        "key": "Option_PollingRates_125Hz",
+        "value": "125Hz"
+    },
+    {
+        "key": "Option_PollingRates_250Hz",
+        "value": "250Hz"
+    },
+    {
+        "key": "Option_PollingRates_500Hz",
+        "value": "500Hz"
+    },
+    {
+        "key": "Option_PollingRates_1000Hz",
+        "value": "1000Hz"
+    },
+    {
+        "key": "Option_PollingRates_4000Hz",
+        "value": "4000Hz"
+    },
+    {
+        "key": "Option_PollingRates_8000Hz",
+        "value": "8000Hz"
+    },
+    {
+        "key": "Option_InputLatencies_2ms",
+        "value": "2ms"
+    },
+    {
+        "key": "Option_InputLatencies_8ms",
+        "value": "8ms"
+    },
+    {
+        "key": "Option_InputLatencies_16ms",
+        "value": "16ms"
+    },
+    {
+        "key": "Option_LiftOffDistances_1mm",
+        "value": "1 mm"
+    },
+    {
+        "key": "Option_LiftOffDistances_2mm",
+        "value": "2 mm"
+    },
+    {
+        "key": "Option_StandbyTypes_InheritGlobal",
+        "value": "继承全球"
+    },
+    {
+        "key": "Option_StandbyTypes_DeviceSpecific",
+        "value": "特定于设备"
+    },
+    {
+        "key": "Placeholder_LaunchProgramUrl",
+        "value": "請輸入程式 URL"
+    },
+    {
+        "key": "Placeholder_LaunchWebsiteUrl",
+        "value": "输入网址"
+    },
+    {
+        "key": "MouseButton_Label_Home",
+        "value": "首頁"
+    },
+    {
+        "key": "Macro_Assigned",
+        "value": "指定的"
+    },
+    {
+        "key": "Macro_Label_MacroInfo",
+        "value": "宏观信息"
+    },
+    {
+        "key": "Pairing_USBCable",
+        "value": "USB 纜線"
+    },
+    {
+        "key": "Settings_Glorious_Welcome",
+        "value": "欢迎来到 GLORIOUS ID"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_create_account",
+        "value": "注册 Glorious ID 即可享受无缝访问和个性化体验的好处。通过独特的功能简化您与 CORE 2.0 的交互，其中包括:"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_1",
+        "value": "将最多 25 个独特的配置文件保存并同步到云端."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_2",
+        "value": "从任何安装了 CORE 2.0 的设备访问您的云配置文件."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_feature_3",
+        "value": "轻松管理和共享您创建的配置文件."
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Login",
+        "value": "登录"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Register",
+        "value": "登记"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_LoggedIn",
+        "value": "欢迎来到光荣ID！创建帐户可让您获得个性化体验!"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_UpdateAccount",
+        "value": "更新账户信息"
+    },
+    {
+        "key": "Settings_Glorious_Welcome_Logout",
+        "value": "登出"
+    },
+    {
+        "key": "Settings_Glorious_Cloud_Profiles",
+        "value": "Glorious Cloud 型材"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_SSO_Account",
+        "value": "单点登录账户"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect_Your_Customer_Account",
+        "value": "连接您的 gloriousgaming.com 客户帐户..."
+    },
+    {
+        "key": "Settings_Glorious_Linked_Connected",
+        "value": "连接的"
+    },
+    {
+        "key": "Settings_Glorious_Linked_NotConnected",
+        "value": "未连接"
+    },
+    {
+        "key": "Settings_Glorious_Linked_Accounts_Connect",
+        "value": "连接"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Execute",
+        "value": "执行"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Shutdown",
+        "value": "关闭"
+    },
+    {
+        "key": "FirmwareUpdate_Task_Download",
+        "value": "下载"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateDevice",
+        "value": "更新设备"
+    },
+    {
+        "key": "FirmwareUpdate_Task_UpdateReceiver",
+        "value": "更新接收器"
+    },
+    {
+        "key": "Dialog_UpdateManager_Title",
+        "value": "更新管理員"
+    },
+    {
+        "key": "Dialog_FirmwareUpdate_OkButton",
+        "value": "Ok"
+    },
+    {
+        "key": "Dialog_UpdateManager_DevicesHaveUpdates",
+        "value": "裝置清單中突出顯示的裝置有韌體更新可用！"
+    },
+    {
+        "key": "Dialog_UpdateManager_SelectDevices",
+        "value": "選擇您想要更新的裝置："
+    },
+    {
+        "key": "Option_NoDevices",
+        "value": "没有可用的设备"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Title",
+        "value": "警告"
+    },
+    {
+        "key": "Dialog_UpdateManager_PreUpdateWarning_Description",
+        "value": "某些选定的更新设备未同时插入有线和无线接收器。您确定要继续吗?"
+    },
+    {
+        "key": "Error_Device_NotFound",
+        "value": "找不到设备."
+    },
+    {
+        "key": "Error_Device_LoadingSelectedDevice",
+        "value": "加载所选设备时出错."
+    },
+    {
+        "key": "Cloud_Label_PROFILE1",
+        "value": "設定檔1"
+    },
+    {
+        "key": "Cloud_Label_PROFILE2",
+        "value": "設定檔2"
+    },
+    {
+        "key": "Cloud_Label_PROFILE3",
+        "value": "設定檔3"
+    }
+]

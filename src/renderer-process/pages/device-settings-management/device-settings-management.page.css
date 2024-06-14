@@ -1,0 +1,233 @@
+.panel.settings.mouse {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: var(--gray-1) !important;
+    padding: 0px !important;
+    --button-bg-gray: #262626;
+}
+
+/* .panel.settings.mouse .gap-color {
+    background: var(--gray-1);
+} */
+
+.panel.settings.mouse .column {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 99%;
+    background-color: var(--management-background-color);
+}
+
+.panel.settings.mouse .column.nogap {
+    gap: 0px;
+}
+
+.panel.settings.mouse .field {
+    padding: 10px;
+}
+
+.panel.settings.mouse .field > .label {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-family: var(--header-font);
+}
+
+.panel.settings.mouse .field.debounce-time {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    grid-template-rows: 1fr auto auto;
+    align-items: baseline;
+}
+
+.panel.settings.mouse .field.debounce-time > .label {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.panel.settings.mouse .field.debounce-time .range {
+    grid-column: 1/4;
+    grid-row: 2;
+    margin-top: 10px;
+}
+.panel.settings.mouse .field.debounce-time .result {
+    grid-row: 1;
+    grid-column: 2;
+}
+/* .panel.settings.mouse .field.debounce-time .debounce-desc {
+    grid-row: 2;
+    grid-column: 1/3;
+} */
+
+.panel.settings.mouse .field.separate-polling {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.panel.settings.mouse .field.separate-polling > .label {
+    font-size: 10px;
+}
+
+.panel.settings.mouse .field.advanced-settings {
+    margin-top: -10px;
+}
+
+.panel.settings.mouse .field.advanced-settings .edit-adv-debounce {
+    width: 50px;
+}
+
+.panel.settings.mouse .field.advanced-settings .adv-edit-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.adv-debounce-settings-container .modal.adv-debounce-dialog {
+    width: 85%;
+}
+
+.adv-debounce-settings-container .modal.adv-debounce-dialog > header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.adv-debounce-settings-container .modal.adv-debounce-dialog .adv-debounce-close {
+    cursor: pointer;
+    order: 2;
+}
+
+.adv-debounce-settings-container .adv-debounce-modal {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.adv-debounce-settings-container .field .result {
+    color: var(--management-font-color);
+    background: var(--button-bg-gray);
+    border: 1px solid var(--management-font-color);
+    padding: 5px 10px;
+    border-radius: 2px;
+    margin: 10px 0px;
+}
+
+.adv-debounce-settings-container .field .mini-label {
+    margin: 10px 0px;
+    color: var(--management-font-color);
+}
+
+.panel.settings.mouse .field.motion-sync {
+    margin-top: 10px;
+}
+
+.panel.settings.mouse .field.pro-motion-sync {
+    margin-top: 29px;
+}
+
+.panel.settings.mouse .field.motion-sync .tooltip {
+    margin-left: auto;
+}
+
+.panel.settings.mouse .adv-debounce-modal .field.lift-off-press {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: 1fr auto auto;
+}
+.panel.settings.mouse .adv-debounce-modal .field.lift-off-press > .label.group {
+    grid-column: 1/2;
+    grid-row: 1;
+}
+.panel.settings.mouse .adv-debounce-modal .field.lift-off-press .range {
+    grid-column: 1/3;
+    grid-row: 3;
+    margin-top: 20px;
+}
+.panel.settings.mouse .adv-debounce-modal .field.lift-off-press .result {
+    grid-column: 2;
+    grid-row: 1;
+    margin: 0px;
+}
+.panel.settings.mouse .adv-debounce-modal .field.lift-off-press .lift-off-press-desc {
+    grid-column: 1/3;
+    grid-row: 2;
+}
+
+.panel.settings.mouse .adv-debounce-modal .field.press-time {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto auto auto auto auto auto;
+}
+.panel.settings.mouse .adv-debounce-modal .field.press-time .label.group {
+    grid-column: 1/3;
+    grid-row: 1;
+}
+.panel.settings.mouse .adv-debounce-modal .field.press-time .presstime-desc {
+    grid-column: 1/3;
+    grid-row: 2;
+}
+.panel.settings.mouse .adv-debounce-modal .field.press-time .mini-label.before-press {
+    grid-column: 1;
+    grid-row: 3;
+}
+.panel.settings.mouse .adv-debounce-modal .field.press-time .result.before-press {
+    grid-column: 2;
+    grid-row: 3;
+}
+.panel.settings.mouse .adv-debounce-modal .field.press-time .range:nth-of-type(1) {
+    grid-column: 1/3;
+    grid-row: 4;
+    margin: 10px 0px;
+}
+.panel.settings.mouse .adv-debounce-modal .field.press-time .mini-label.after-press {
+    grid-column: 1;
+    grid-row: 5;
+}
+.panel.settings.mouse .adv-debounce-modal .field.press-time .result.after-press {
+    grid-column: 2;
+    grid-row: 5;
+}
+.panel.settings.mouse .adv-debounce-modal .field.press-time .range:nth-of-type(2) {
+    grid-column: 1/3;
+    grid-row: 6;
+    margin-top: 10px;
+}
+
+.panel.settings.mouse .adv-debounce-modal .field.release-time {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto auto auto auto auto auto;
+}
+.panel.settings.mouse .adv-debounce-modal .field.release-time .label.group {
+    grid-column: 1/3;
+    grid-row: 1;
+}
+.panel.settings.mouse .adv-debounce-modal .field.release-time .releasetime-desc {
+    grid-column: 1/3;
+    grid-row: 2;
+}
+.panel.settings.mouse .adv-debounce-modal .field.release-time .mini-label.before-release {
+    grid-column: 1;
+    grid-row: 3;
+}
+.panel.settings.mouse .adv-debounce-modal .field.release-time .result.before-release {
+    grid-column: 2;
+    grid-row: 3;
+}
+.panel.settings.mouse .adv-debounce-modal .field.release-time .range:nth-of-type(1) {
+    grid-column: 1/3;
+    grid-row: 4;
+    margin: 10px 0px;
+}
+.panel.settings.mouse .adv-debounce-modal .field.release-time .mini-label.after-release {
+    grid-column: 1;
+    grid-row: 5;
+}
+.panel.settings.mouse .adv-debounce-modal .field.release-time .result.after-release {
+    grid-column: 2;
+    grid-row: 5;
+}
+.panel.settings.mouse .adv-debounce-modal .field.release-time .range:nth-of-type(2) {
+    grid-column: 1/3;
+    grid-row: 6;
+    margin-top: 10px;
+}

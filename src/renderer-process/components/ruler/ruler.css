@@ -1,0 +1,75 @@
+ol.ruler,
+.ruler li {
+    /* removing the default list counters/markers: */
+    list-style-type: none;
+}
+
+ol.ruler {
+    /* resetting the counter so every <ol>
+     has an independent count: */
+    counter-reset: marker;
+    padding-inline-start: 0;
+    --edge-color: #575858;
+}
+
+.ruler li {
+    /* 'real world' measurements are perhaps not
+     entirely faithful on screen: */
+    height: 2mm;
+    border-top: 1px solid var(--edge-color);
+    /* including the border in the height of the element: */
+    box-sizing: border-box;
+    width: 12px;
+    /* incrementing the counter: */
+    counter-increment: marker;
+    /* to position the counter relative
+     to the <li>: */
+    position: relative;
+    border-left: 1px solid var(--edge-color);
+}
+
+.ruler li:first-child,
+.ruler li:nth-child(5n + 1) {
+    /* longer mark for the first and
+     every fifth marker: */
+    width: 20px;
+}
+
+/* preventing a 'tail' on the <ol> from the
+   height of the last <li> (the counter is
+   displayed at the top, not the bottom): */
+.ruler li:last-child {
+    height: 0;
+}
+
+.ruler li:first-child::after,
+.ruler li:nth-child(5n + 1)::after {
+    /* positioning the pseudo-element that
+     contains the counter: */
+    position: absolute;
+    /* vertically-centering it alongside the
+     top border: */
+    top: -0.5em;
+    /* moving it the full width of the element,
+     outside of the right side of the element: */
+    left: 100%;
+    height: 1em;
+    line-height: 1em;
+    width: 2em;
+    text-align: center;
+    font-size: 10px;
+    /* specifying the counter to use: */
+    content: attr(data-mm);
+    color: var(--edge-color);
+}
+
+.ruler.right li {
+    border-right: 1px solid var(--edge-color);
+    border-left: none;
+    margin-left: auto;
+}
+
+.ruler.right li:first-child::after,
+.ruler.right li:nth-child(5n + 1)::after {
+    left: -40px;
+}

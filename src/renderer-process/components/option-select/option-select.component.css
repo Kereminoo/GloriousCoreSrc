@@ -1,0 +1,98 @@
+.option-select
+{
+    --option-select-width: 100%;
+    position: relative;
+    user-select: none;
+    font-size: 10px;
+}
+
+.option-select .selected
+{
+    min-width: 100px;
+    width: var(--option-select-width);
+    border: solid 1px var(--option-select-line-color);
+    overflow: hidden;
+    padding: .2rem .5rem;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: 1fr;
+    align-items: center;
+    color: var(--option-select-line-color);
+    border-radius: var(--global-border-radius);
+    background-color: var(--option-list-background-color);
+}
+.option-select .selected:after
+{
+    content: '\25BC'; /* black down triangle: htmlentity &#9660; unicode U+25BC; utf-8 0xE2 0x96 0xBC; utf-16 0x25BC; utf-32 0x000025BC; */
+    color: var(--brand-color-1);
+    padding: .2rem;
+    justify-items: center;
+}
+
+.option-select.open .selected
+{
+    border-bottom: none;
+    border-color: var(--brand-color-1);
+}
+.option-select.above.open .selected
+{
+    border-bottom: solid 1px;
+    border-top: none;
+    border-color: var(--brand-color-1);
+}
+
+.option-select .options
+{
+    background-color: var(--option-list-background-color);
+    position: absolute;
+    top: calc(100% - 1px);
+    z-index: 99;
+    width: var(--option-select-width);
+    color: var(--option-select-line-color);
+    border-bottom-left-radius: var(--global-border-radius);
+    border-bottom-right-radius: var(--global-border-radius);
+    box-shadow: 0 5px 10px -2px rgb(0 0 0 / .6);
+    padding: 0 8px 8px;
+    border: solid 1px var(--option-select-line-color);
+    border-top: none;
+}
+
+.option-select.above .options
+{
+    top: unset;
+    bottom: calc(100% - 1px);
+    box-shadow: 0 -5px 10px -2px rgb(0 0 0 / .6);
+    border: solid 1px var(--option-select-line-color);
+    border-bottom: none;
+}
+
+.option-select header
+{
+    font-size: 10px !important;
+    font-weight: normal !important;
+    color: #707070;
+    margin: 5px 0;
+}
+
+.option-select.open .options
+{
+    border-color: var(--brand-color-1);
+}
+
+.option-select .options .items
+{
+    border-left: solid 1px #aaaaaa;
+    padding-left: 5px;
+    max-height: var(--max-height);
+    overflow: auto;
+}
+
+.option-select .options .option
+{
+    padding: 5px;
+}
+
+.option-select .options .option:hover
+{
+    background-color: var(--option-list-highlight-color);
+}
